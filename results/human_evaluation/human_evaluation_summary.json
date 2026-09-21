@@ -1,0 +1,71 @@
+{
+  "sample_size": 300,
+  "human_annotators": [
+    "h1",
+    "h2",
+    "h3"
+  ],
+  "individual_llm_judges": [
+    "gpt-oss:20b",
+    "gpt-4.1-mini",
+    "gemma4:26b",
+    "gemini-2.5-flash",
+    "gpt-5.4-mini"
+  ],
+  "three_judge_combinations": [
+    "gpt-oss:20b + gpt-4.1-mini + gemma4:26b",
+    "gpt-oss:20b + gpt-4.1-mini + gemini-2.5-flash",
+    "gpt-oss:20b + gpt-4.1-mini + gpt-5.4-mini",
+    "gpt-oss:20b + gemma4:26b + gemini-2.5-flash",
+    "gpt-oss:20b + gemma4:26b + gpt-5.4-mini",
+    "gpt-oss:20b + gemini-2.5-flash + gpt-5.4-mini",
+    "gpt-4.1-mini + gemma4:26b + gemini-2.5-flash",
+    "gpt-4.1-mini + gemma4:26b + gpt-5.4-mini",
+    "gpt-4.1-mini + gemini-2.5-flash + gpt-5.4-mini",
+    "gemma4:26b + gemini-2.5-flash + gpt-5.4-mini"
+  ],
+  "human_majority": {
+    "positive": 173,
+    "negative": 127,
+    "positive_rate": 0.5766666666666667
+  },
+  "human_agreement": {
+    "fleiss_kappa": 0.8356756318119806,
+    "fleiss_kappa_ci_low": 0.7819992166402113,
+    "fleiss_kappa_ci_high": 0.8831145477432119,
+    "exact_all_human_agreement": 0.88,
+    "exact_all_human_agreement_ci_low": 0.84,
+    "exact_all_human_agreement_ci_high": 0.9166666666666666
+  },
+  "reason_agreement": {
+    "pairs": 300,
+    "fleiss_kappa_reason": 0.6701963265263792,
+    "fleiss_kappa_reason_ci_low": 0.6195919008802632,
+    "fleiss_kappa_reason_ci_high": 0.7196107722126043,
+    "unanimous_reason_pairs": 200,
+    "unanimous_reason_rate": 0.6666666666666666,
+    "majority_reason_defined": 288,
+    "majority_reason_undefined": 12,
+    "non_unanimous_reason_but_unanimous_binary": 64,
+    "direct_match_subtype_disagreement_pairs": 47
+  },
+  "bootstrap": {
+    "iterations": 10000,
+    "seed": 0,
+    "resampling_unit": "query_dataset_pair",
+    "confidence_interval": "percentile_95"
+  },
+  "inputs": {
+    "sample": "data/human_annotations/human_annotation_subset_mapping.csv",
+    "llm_annotations": "data/llm_annotations",
+    "aggregations": "results/judge_aggregations.csv",
+    "human_labels": [
+      "h1=data/human_annotations/annotator_1.csv",
+      "h2=data/human_annotations/annotator_2.csv",
+      "h3=data/human_annotations/annotator_3.csv"
+    ]
+  },
+  "outputs": {
+    "human_majority_labels": "data/human_annotations/human_majority_labels.csv"
+  }
+}

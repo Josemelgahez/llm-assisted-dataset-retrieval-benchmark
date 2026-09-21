@@ -1,0 +1,225 @@
+{
+  "benchmark": {
+    "name": "datos.gob.es-tabular-dataset-retrieval-benchmark",
+    "version": "1.0",
+    "default_relevance_source": "gemini-2.5-flash",
+    "default_relevance_selection_criterion": "highest_mean_pairwise_cohens_kappa_across_human_annotators"
+  },
+
+  "collection": {
+    "source": "datos.gob.es",
+    "snapshot_date": "2026-04-15",
+    "raw_metadata_records": 116272,
+    "normalized_datasets": 56983,
+
+    "required_components": [
+      "title",
+      "description",
+      "header",
+      "content"
+    ],
+
+    "resource_selection": {
+      "unit_of_retrieval": "dataset",
+      "resources_per_dataset": 1,
+      "selection_rule": "repository_resource_order"
+    },
+
+    "duplicate_definition": [
+      "title",
+      "description",
+      "temporal_coverage",
+      "geographic_coverage",
+      "tabular_resource_content"
+    ],
+
+    "filtering": {
+      "require_title": true,
+      "require_description": true,
+      "require_valid_tabular_resource": true,
+      "minimum_data_rows": 1
+    },
+
+    "content_sampling": {
+      "maximum_rows": 20,
+      "sampling": "without_replacement",
+      "random_seed": 0,
+      "file_order": "filesystem",
+      "preserve_original_relative_order": true
+    }
+  },
+
+  "queries": {
+    "count": 100,
+    "source": "aggregated_anonymized_user_searches",
+    "provider": "datos.gob.es",
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "selection": "100_most_frequent_queries"
+  },
+
+  "candidate_pool": {
+    "pooling_depth": 50,
+    "merge_key": "dataset_id",
+    "preserve_contributing_profiles": true,
+    "total_query_dataset_pairs": 11779,
+
+    "retrieval_components": [
+      "title",
+      "description"
+    ],
+
+    "field_score_aggregation": "sum",
+
+    "profiles": {
+      "bm25": {
+        "type": "lexical",
+        "backend": "qdrant",
+        "components": [
+          "title",
+          "description"
+        ],
+        "preprocessing": {
+          "lowercase": true,
+          "remove_spanish_stopwords": true,
+          "spanish_lemmatization": true
+        }
+      },
+
+      "harrier": {
+        "type": "dense",
+        "backend": "qdrant",
+        "model": "microsoft/harrier-oss-v1-0.6b",
+        "similarity": "cosine",
+        "components": [
+          "title",
+          "description"
+        ]
+      },
+
+      "qwen": {
+        "type": "dense",
+        "backend": "qdrant",
+        "model": "Qwen/Qwen3-Embedding-0.6B",
+        "similarity": "cosine",
+        "components": [
+          "title",
+          "description"
+        ]
+      }
+    }
+  },
+
+  "llm_annotation": {
+    "models": [
+      "gpt-oss:20b",
+      "gpt-4.1-mini",
+      "gemma4:26b",
+      "gemini-2.5-flash",
+      "gpt-5.4-mini"
+    ],
+
+    "few_shot_examples": 12,
+
+    "input_components": [
+      "query",
+      "title",
+      "description",
+      "header",
+      "content"
+    ],
+
+    "content_character_limit": 500,
+    "maximum_attempts": 6,
+    "few_shots": true,
+    "prompt_blueprint": "default_tabular",
+
+    "reason_labels": [
+      "direct_match",
+      "subtype",
+      "generic",
+      "unrelated",
+      "insufficient_evidence"
+    ],
+
+    "relevance_mapping": {
+      "direct_match": true,
+      "subtype": true,
+      "generic": false,
+      "unrelated": false,
+      "insufficient_evidence": false
+    },
+
+    "positive_evidence_fields": [
+      "title",
+      "description",
+      "header",
+      "content"
+    ],
+
+    "invalid_output_policy": "missing",
+    "negative_evidence_normalization": {
+      "supporting_field": null,
+      "quote": null
+    }
+  },
+
+  "human_audit": {
+    "sample_size": 300,
+    "sampling": "simple_random_without_replacement",
+    "sample_seed": 1,
+    "annotators": 3,
+
+    "annotation_schema": "same_structured_schema_as_llm_judges",
+
+    "human_majority": {
+      "binary_rule": "2_out_of_3",
+      "relevant_pairs": 173,
+      "non_relevant_pairs": 127
+    }
+  },
+
+  "judge_aggregation": {
+    "judge_combination_size": 3,
+    "number_of_combinations": 10,
+    "aggregation_rule": "2_out_of_3_majority_vote",
+    "require_all_three_valid_judgments": true,
+    "missing_judgment_policy": "missing"
+  },
+
+  "evaluation": {
+    "individual_judge_selection_metric": "mean_pairwise_cohens_kappa",
+
+    "metrics": [
+      "cohens_kappa",
+      "fleiss_kappa",
+      "precision",
+      "recall",
+      "f1"
+    ],
+
+    "bootstrap": {
+      "confidence_level": 0.95,
+      "method": "percentile",
+      "iterations": 10000,
+      "seed": 0,
+      "resampling_unit": "query_dataset_pair",
+      "paired": true
+    }
+  },
+
+  "retrieval_evaluation": {
+    "relevance_source": "gemini-2.5-flash",
+    "query_count": 100,
+    "macro_average": true,
+
+    "metrics": [
+      "ndcg@10",
+      "ndcg@50",
+      "recall@10",
+      "recall@50"
+    ],
+
+    "recall_reference": "all_relevant_pairs_within_judged_candidate_pool"
+  }
+}

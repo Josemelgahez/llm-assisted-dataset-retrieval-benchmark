@@ -1,0 +1,1442 @@
+{
+  "id_query": 47,
+  "query": "callejero",
+  "hits": [
+    {
+      "id": "l01280796-callejero-oficial-del-ayuntamiento-de-madrid1",
+      "title": "Callejero oficial del Ayuntamiento de Madrid",
+      "description": "Conjunto de datos el callejero oficial del municipio de Madrid, que incluye la actualización diaria con los datos que se incorporan de manera continuada con motivo de las aprobaciones de denominaciones y nuevas vías, así como de los cambios de numeración. Se estructura en dos subconjuntos de datos correspondientes a: * Callejero vigente (actualización diaria) * Callejero con evolución histórica Todos los ficheros se pueden descargar en formato CSV. El **callejero vigente** y el **callejero con evolución histórica,** contienen la información actualizada relativa a los viales, sus denominaciones, sus datos administrativos y las direcciones de la ciudad (números de policía). La información histórica del callejero municipal que se muestra no es completa ya que no está totalmente informatizada. Para ampliar información sobre cualquier dirección o topónimo, puede dirigir una consulta a través del formulario [Callejero. Consulta sobre cambios de denominación o de numeración - SEDE ELECTRÓNICA (madrid.es)](https://eur06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsede.madrid.es%2Fportal%2Fsite%2Ftramites%2Fmenuitem.62876cb64654a55e2dbd7003a8a409a0%2F%3Fvgnextoid%3Df794d1d1a8e1b810VgnVCM1000001d4a900aRCRD%26vgnextchannel%3Dd4968173cec9c410VgnVCM100000171f5a0aRCRD%26vgnextfmt%3Ddefault&data=05%7C02%7Ctransparenciaydatos%40madrid.es%7C856ecbe9639e468f912108dcf82ec0eb%7Cb4532aa618954964b9c022b14444271b%7C0%7C0%7C638658126911086707%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=bDOtdbwiLToiv7diyuBz%2BNinzsLJGDwbX5sa2JOUgwQ%3D&reserved=0). El Ayuntamiento de Madrid también ofrece el [servicio web del callejero oficial](https://eur06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdatos.madrid.es%2Fportal%2Fsite%2Fegob%2Fmenuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0%2F%3Fvgnextoid%3Da1aa044ac5e56610VgnVCM1000001d4a900aRCRD%26vgnextchannel%3D374512b9ace9f310VgnVCM100000171f5a0aRCRD%26vgnextfmt%3Ddefault&data=05%7C02%7Ctransparenciaydatos%40madrid.es%7C856ecbe9639e468f912108dcf82ec0eb%7Cb4532aa618954964b9c022b14444271b%7C0%7C0%7C638658126911128378%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=rgQWODf4dAEY37JIgRgBrpbwfgtvQcPy4%2FEVdXk5v%2Bw%3D&reserved=0)**,** para que los desarrolladores de aplicaciones puedan consultar los cambios producidos en las entidades propias de callejero oficial desde entidades externas. Asimismo, puede consultar las direcciones del callejero municipal en el [Geoportal del Ayuntamiento de Madrid](https://eur06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgeoportal.madrid.es%2FIDEAM_WBGEOPORTAL%2Fvisor_din.iam%3Fclave%3DVISOR_IDE%26ArcGIS%3Dhttps%3A%2F%2Fsigma.madrid.es%2Fhosted%2Frest%2Fservices%2FSATELITE%2FAMIANTO_2023%2FMapServer&data=05%7C02%7Ctransparenciaydatos%40madrid.es%7C856ecbe9639e468f912108dcf82ec0eb%7Cb4532aa618954964b9c022b14444271b%7C0%7C0%7C638658126911165204%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=IQwqS7rXZ87tXb7GNQmf%2F%2BIfvguOcta%2FxcK4vDv34cw%3D&reserved=0 \"Enlace externo en nueva ventana: \"), introduciendo en el buscador la expresión “callejero oficial”.",
+      "header": "cod_via via_clase via_par via_nombre via_nombre_acentos clase_app numero calificador tipo_ndp cod_ndp distrito barrio cod_postal utmx_ed utmy_ed utmx_etrs utmy_etrs latitud longitud angulo_rotulacion",
+      "content": "28900;calle;de los;algodonales;algodonales;numero;25;;portal;11036638;6;6;28039;440651,3;4479322,34;440541,9;4479114,87;40°27'38.07'' n;3°42'4.65'' w;327.44 94700;calle;de;barrencalle;barrencalle;numero;4;;frente fachada;11055939;9;6;28023;431758,43;4480285,5;431649,1;4480078,14;40°28'6.85'' n;3°48'22.58'' w;296.80 113500;calle;de la;botica;botica;numero;9;;portal;11140839;21;3;28042;451064,75;4480639,5;450955,34;4480431,89;40°28'23.23'' n;3°34'42.87'' w;62.72 133800;calle;de la;canoa;canoa;numero;31;;portal;11140095;21;1;28042;449884,79;4478520,21;449775,36;4478312,61;40°27'14.25'' n;3°35'32.38'' w;41.31 159800;calle;de;cea bermudez;cea bermúdez;numero;58;;portal;11042687;7;6;28003;439529,59;4476967,03;439420,18;4476759,56;40°26'21.4'' n;3°42'51.46'' w;356.83 220800;camino;de las;cruces;cruces;numero;14;;portal;20078485;11;6;28044;435904,23;4469817,31;435794,76;4469609,85;40°22'28.55'' n;3°45'22.75'' w;336.62 236200;calle;de;deva;deva;numero;65;;portal;11080455;12;1;28041;439580,08;4469307,35;439470,58;4469099,84;40°22'13'' n;3°42'46.7'' w;359.61 340100;calle;de;gomeznarro;gomeznarro;numero;270;;portal;11116595;16;3;28043;445296,46;4479354,31;445187,04;4479146,78;40°27'40.26'' n;3°38'47.43'' w;7.09 424300;calle;de;julio danvila;julio danvila;numero;8;;portal;11112492;15;9;28033;443731,86;4480541,94;443622,46;4480334,44;40°28'18.4'' n;3°39'54.24'' w;11.14 69500;calle;de;los arfe;los arfe;numero;37;;portal;11110192;15;4;28027;445320,4;4477027,66;445210,96;4476820,12;40°26'24.81'' n;3°38'45.69'' w;32.01 456501;calle;de la;malaquita;malaquita;numero;7;;frente fachada;31005171;9;7;28023;434263,41;4478366,94;434154,05;4478159,54;40°27'5.36'' n;3°46'35.5'' w;359.96 511752;calle;del;mochuelo;mochuelo;numero;5;;portal;11071884;11;3;28019;437554,05;4472192,96;437444,6;4471985,49;40°23'46.05'' n;3°44'13.63'' w;318.41 526850;calle;de;murias de paredes;murias de paredes;numero;29;;portal;11122662;16;6;28055;446402,1;4481758,45;446292,7;4481550,92;40°28'58.49'' n;3°38'1.22'' w;294.98 554550;avenida;de;pablo iglesias;pablo iglesias;numero;2;;portal;11042433;7;6;28003;440327,66;4477337,4;440218,25;4477129,93;40°26'33.62'' n;3°42'17.72'' w;273.49 572000;calle;de;pedro callejo;pedro callejo;numero;10;;portal;11098205;13;5;28038;445029,83;4471395,04;444920,34;4471187,47;40°23'22.07'' n;3°38'56.27'' w;56.51 629400;calle;de;ramon calabuig;ramón calabuig;numero;37;;portal;11092135;13;2;28053;443345,09;4471953,15;443235,61;4471745,61;40°23'39.76'' n;3°40'7.91'' w;341.27 666500;calle;de;san ernesto;san ernesto;numero;16;;portal;11024233;5;3;28002;442903,86;4478041,35;442794,44;4477833,85;40°26'57.1'' n;3°40'28.59'' w;358.27 2461;calle;de;suiza;suiza;numero;3;;garaje;20138645;20;5;28022;448445,87;4474782,38;448336,41;4474574,78;40°25'12.71'' n;3°36'32.38'' w;24.76 897;calle;de;tordomar;tordomar;numero;9;;frente fachada;31041593;16;3;28043;445886,86;4480096,08;445777,45;4479888,55;40°28'4.45'' n;3°38'22.59'' w;270.04 786760;calle;de;villajimena;villajimena;numero;2;o;frente fachada;20048960;19;1;28032;448447,35;4473288,94;448337,87;4473081,33;40°24'24.28'' n;3°36'31.88'' w;275.03\ncod_via 28900 94700 113500 133800 159800 220800 236200 340100 424300 69500 456501 511752 526850 554550 572000 629400 666500 2461 897 786760 via_clase calle calle calle calle calle camino calle calle calle calle calle calle calle avenida calle calle calle calle calle calle via_par de los de de la de la de de las de de de de de la del de de de de de de de de via_nombre algodonales barrencalle botica canoa cea bermudez cruces deva gomeznarro julio danvila los arfe malaquita mochuelo murias de paredes pablo iglesias pedro callejo ramon calabuig san ernesto suiza tordomar villajimena via_nombre_acentos algodonales barrencalle botica canoa cea bermúdez cruces deva gomeznarro julio danvila los arfe malaquita mochuelo murias de paredes pablo iglesias pedro callejo ramón calabuig san ernesto suiza tordomar villajimena clase_app numero numero numero numero numero numero numero numero numero numero numero numero numero numero numero numero numero numero numero numero numero 25 4 9 31 58 14 65 270 8 37 7 5 29 2 10 37 16 3 9 2 calificador o tipo_ndp portal frente fachada portal portal portal portal portal portal portal portal frente fachada portal portal portal portal portal portal garaje frente fachada frente fachada cod_ndp 11036638 11055939 11140839 11140095 11042687 20078485 11080455 11116595 11112492 11110192 31005171 11071884 11122662 11042433 11098205 11092135 11024233 20138645 31041593 20048960 distrito 6 9 21 21 7 11 12 16 15 15 9 11 16 7 13 13 5 20 16 19 barrio 6 6 3 1 6 6 1 3 9 4 7 3 6 6 5 2 3 5 3 1 cod_postal 28039 28023 28042 28042 28003 28044 28041 28043 28033 28027 28023 28019 28055 28003 28038 28053 28002 28022 28043 28032 utmx_ed 440651,3 431758,43 451064,75 449884,79 439529,59 435904,23 439580,08 445296,46 443731,86 445320,4 434263,41 437554,05 446402,1 440327,66 445029,83 443345,09 442903,86 448445,87 445886,86 448447,35 utmy_ed 4479322,34 4480285,5 4480639,5 4478520,21 4476967,03 4469817,31 4469307,35 4479354,31 4480541,94 4477027,66 4478366,94 4472192,96 4481758,45 4477337,4 4471395,04 4471953,15 4478041,35 4474782,38 4480096,08 4473288,94 utmx_etrs 440541,9 431649,1 450955,34 449775,36 439420,18 435794,76 439470,58 445187,04 443622,46 445210,96 434154,05 437444,6 446292,7 440218,25 444920,34 443235,61 442794,44 448336,41 445777,45 448337,87 utmy_etrs 4479114,87 4480078,14 4480431,89 4478312,61 4476759,56 4469609,85 4469099,84 4479146,78 4480334,44 4476820,12 4478159,54 4471985,49 4481550,92 4477129,93 4471187,47 4471745,61 4477833,85 4474574,78 4479888,55 4473081,33 latitud 40°27'38.07'' n 40°28'6.85'' n 40°28'23.23'' n 40°27'14.25'' n 40°26'21.4'' n 40°22'28.55'' n 40°22'13'' n 40°27'40.26'' n 40°28'18.4'' n 40°26'24.81'' n 40°27'5.36'' n 40°23'46.05'' n 40°28'58.49'' n 40°26'33.62'' n 40°23'22.07'' n 40°23'39.76'' n 40°26'57.1'' n 40°25'12.71'' n 40°28'4.45'' n 40°24'24.28'' n longitud 3°42'4.65'' w 3°48'22.58'' w 3°34'42.87'' w 3°35'32.38'' w 3°42'51.46'' w 3°45'22.75'' w 3°42'46.7'' w 3°38'47.43'' w 3°39'54.24'' w 3°38'45.69'' w 3°46'35.5'' w 3°44'13.63'' w 3°38'1.22'' w 3°42'17.72'' w 3°38'56.27'' w 3°40'7.91'' w 3°40'28.59'' w 3°36'32.38'' w 3°38'22.59'' w 3°36'31.88'' w angulo_rotulacion 327.44 296.80 62.72 41.31 356.83 336.62 359.61 7.09 11.14 32.01 359.96 318.41 294.98 273.49 56.51 341.27 358.27 24.76 270.04 275.03",
+      "metadato_fileName": "meta_5c091ccf8ed5fd76b0a904c5d143296c962f4a75.json",
+      "resource_fileName": "181e1b3a25ca5886d6970e7b9bd7498be2092864.csv",
+      "retrieval": {
+        "bm25": {
+          "rank": 1,
+          "score": 40.890952999999996
+        }
+      }
+    },
+    {
+      "id": "calle-nucleo",
+      "title": "Callejero con núcleos de población",
+      "description": "Callejero con núcleos de población",
+      "header": "cod_via tipo_via nombre_via nombre_nucleo",
+      "content": "965,calle,balcon (el)-altorreal,altorreal 181,calle,belen,conejos (los) 1159,calle,cierva peñafiel,fenazar 2767,cmno,corto,romeral ii 183,calle,cuesta del puente,molina de segura 216,calle,escuelas viejas,llano (el) 1153,calle,fenazares (los),fenazar 38,calle,hermanos alvarez quintero,molina de segura 1766,calle,honor (del),olivos (los) 315,calle,islas medas,alcayna (la) 1085,calle,julian garcia lopez,ribera de abajo 1281,calle,loma del muerto,*diseminado* valientes (los) 6265,calle,mellizo,molina de segura 6627,calle,mercurio (la estrella),*diseminado* molina de segura 467,calle,peñon de gibraltar,molina de segura 2052,calle,pinar negro,toscas-chorrico 2614,calle,poeta antonio para vico,quinta (la)-tierra calida 2068,cmno,rancho del abuelo,*diseminado* romeral 2283,calle,siete kilos,*diseminado* hurona (la) 922,calle,vicente canovas albaladejo el chato,molina de segura\ncod_via 965 181 1159 2767 183 216 1153 38 1766 315 1085 1281 6265 6627 467 2052 2614 2068 2283 922 tipo_via calle calle calle cmno calle calle calle calle calle calle calle calle calle calle calle calle calle cmno calle calle nombre_via balcon (el)-altorreal belen cierva peñafiel corto cuesta del puente escuelas viejas fenazares (los) hermanos alvarez quintero honor (del) islas medas julian garcia lopez loma del muerto mellizo mercurio (la estrella) peñon de gibraltar pinar negro poeta antonio para vico rancho del abuelo siete kilos vicente canovas albaladejo el chato nombre_nucleo altorreal conejos (los) fenazar romeral ii molina de segura llano (el) fenazar molina de segura olivos (los) alcayna (la) ribera de abajo *diseminado* valientes (los) molina de segura *diseminado* molina de segura molina de segura toscas-chorrico quinta (la)-tierra calida *diseminado* romeral *diseminado* hurona (la) molina de segura",
+      "metadato_fileName": "meta_25be07d3a305f399a042aa5784af38c16176ee88.json",
+      "resource_fileName": "8877b44697abe63d3b04b1f9d0e74340293f5f3e.csv",
+      "retrieval": {
+        "bm25": {
+          "rank": 2,
+          "score": 36.647827
+        }
+      }
+    },
+    {
+      "id": "calle-seccion",
+      "title": "Callejero con secciones censales",
+      "description": "Callejero con secciones censales",
+      "header": "cod_via tipo_via nombre_via seccion",
+      "content": "2765,calle,agora,seccion 52 919,calle,algarrobos-altorreal,seccion 50 2769,cmno,antonio pastor,seccion 46 890,avda,cañada real,seccion 14 2699,calle,comandante carbonell rodriguez,seccion 14 2593,calle,escritor eliodoro puche,seccion 51 249,calle,fulgencio benito,seccion 12 383,calle,guadiana (del),seccion 46 279,avda,gutierrez mellado,seccion 11 2770,cmno,juan el marques,seccion 46 720,calle,ntra.sra. de los angeles,seccion 28 460,calle,pavos reales (de los),seccion 46 461,calle,paz,seccion 11 466,barro,peñetas (de las),seccion 52 2696,plaza,peñetas (las),seccion 52 1189,calle,remedios (los),seccion 28 2127,calle,rio tea,seccion 52 593,calle,serrerias,seccion 26 617,calle,tia justa,seccion 28 1329,calle,veleta,seccion 28\ncod_via 2765 919 2769 890 2699 2593 249 383 279 2770 720 460 461 466 2696 1189 2127 593 617 1329 tipo_via calle calle cmno avda calle calle calle calle avda cmno calle calle calle barro plaza calle calle calle calle calle nombre_via agora algarrobos-altorreal antonio pastor cañada real comandante carbonell rodriguez escritor eliodoro puche fulgencio benito guadiana (del) gutierrez mellado juan el marques ntra.sra. de los angeles pavos reales (de los) paz peñetas (de las) peñetas (las) remedios (los) rio tea serrerias tia justa veleta seccion seccion 52 seccion 50 seccion 46 seccion 14 seccion 14 seccion 51 seccion 12 seccion 46 seccion 11 seccion 46 seccion 28 seccion 46 seccion 11 seccion 52 seccion 52 seccion 28 seccion 52 seccion 26 seccion 28 seccion 28",
+      "metadato_fileName": "meta_2aafb70858367b9c7733c03e8c1bffb2e3305d45.json",
+      "resource_fileName": "a5e958b60f4cb1665c929b769aa7a84ee5a5a8d5.csv",
+      "retrieval": {
+        "qwen": {
+          "rank": 2,
+          "score": 1.45754015
+        },
+        "bm25": {
+          "rank": 3,
+          "score": 36.647827
+        }
+      }
+    },
+    {
+      "id": "l01280148-callejero-coordenadas-calles",
+      "title": "Callejero. Coordenadas calles",
+      "description": "Callejero. Coordenadas calles",
+      "header": "\"tipo via\" calle \"numero via\" latitud longitud",
+      "content": "cl;almendros, de los;1;40.299846;-3.436763 cl;alonso quijano;1;40.300439;-3.446665 cl;carpinteros;1;40.300728;-3.475802 su;don diego;1;40.301976;-3.437610 av;dublin, de;1;40.297825;-3.453419 cl;garza;1;40.313272;-3.446397 cl;gaviota;1;40.311777;-3.448049 av;guijar, del;1;40.318911;-3.463134 cl;maestro maximo pizarro;1;40.29125;-3.443275 cl;maria zayas;1;40.301654;-3.443195 cl;montes de toledo;1;40.316919;-3.480704 cl;oca;1;40.311937;-3.447848 cl;oro;1;40.300216;-3.465406 cl;puente, del;1;40.316642;-3.511179 cl;rocio, del;1;40.309051;-3.483862 cl;tejar, del;1;40.296438;-3.442264 cl;trainera;1;40.29565;-3.440539 cl;virgen de fatima;1;40.303842;-3.444268 cl;virgen de guadalupe;1;40.304435;-3.44506 cl;virgen del pilar;1;40.302346;-3.445646\ntipo via cl cl cl su av cl cl av cl cl cl cl cl cl cl cl cl cl cl cl calle almendros, de los alonso quijano carpinteros don diego dublin, de garza gaviota guijar, del maestro maximo pizarro maria zayas montes de toledo oca oro puente, del rocio, del tejar, del trainera virgen de fatima virgen de guadalupe virgen del pilar numero via 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 latitud 40.299846 40.300439 40.300728 40.301976 40.297825 40.313272 40.311777 40.318911 40.29125 40.301654 40.316919 40.311937 40.300216 40.316642 40.309051 40.296438 40.29565 40.303842 40.304435 40.302346 longitud -3.436763 -3.446665 -3.475802 -3.437610 -3.453419 -3.446397 -3.448049 -3.463134 -3.443275 -3.443195 -3.480704 -3.447848 -3.465406 -3.511179 -3.483862 -3.442264 -3.440539 -3.444268 -3.44506 -3.445646",
+      "metadato_fileName": "meta_f69a483f3af295d8ab98eb14192cc449853544c7.json",
+      "resource_fileName": "9a66022445b5013c65f0ef964ca4bbc1ab1e909e.csv",
+      "retrieval": {
+        "bm25": {
+          "rank": 4,
+          "score": 36.647827
+        }
+      }
+    },
+    {
+      "id": "callejero_de_la_ciudad",
+      "title": "Callejero de la ciudad",
+      "description": "Posibilidad de descargar en diferentes formatos el callejero de la ciudad.",
+      "header": "445 abendaño \"abendaño kalea\" calle",
+      "content": "60,alava,araba kalea,calle 291,arantzabela, parque,arantzabelako parkea,parque 4978,ayuntamiento, plaza del,udalaren plaza,plaza 480,badaia,badaia kalea,calle 490,barratxi,barratxi kalea,calle 3030,benito perez galdos, plaza,benito perez galdos plaza,plaza 851,castillo de arluzea,arluzeko gazteluaren kalea,calle 6230,castillo/gaztelu,gaztelu,entidad 1105,coronela ibaibarriaga,ibaibarriaga koroneltsaren kalea,calle 4727,declaracion de rio,rioko deklarazioaren kalea,calle 6320,foronda,foronda,entidad 1830,gipuzkoa,gipuzkoa kalea,calle 3840,la senda, paseo de,senda ibilbidea,paseo 4894,larrea,larrea kalea,calle 485,lehendakari aguirre,agirre lehendakariaren kalea,calle 4567,monasterio de leire,leireko monasterioaren kalea,calle 4815,moreda de alava, paseo de,moreda ibilbidea,paseo 3350,santiago ramon y cajal,santiago ramon y cajal kalea,calle 4538,sierra de urbasa,urbasa mendiaren kalea,calle 4733,varsovia , avenida de,varsovia hiribidea,avenida\n445 60 291 4978 480 490 3030 851 6230 1105 4727 6320 1830 3840 4894 485 4567 4815 3350 4538 4733 abendaño alava arantzabela, parque ayuntamiento, plaza del badaia barratxi benito perez galdos, plaza castillo de arluzea castillo/gaztelu coronela ibaibarriaga declaracion de rio foronda gipuzkoa la senda, paseo de larrea lehendakari aguirre monasterio de leire moreda de alava, paseo de santiago ramon y cajal sierra de urbasa varsovia , avenida de abendaño kalea araba kalea arantzabelako parkea udalaren plaza badaia kalea barratxi kalea benito perez galdos plaza arluzeko gazteluaren kalea gaztelu ibaibarriaga koroneltsaren kalea rioko deklarazioaren kalea foronda gipuzkoa kalea senda ibilbidea larrea kalea agirre lehendakariaren kalea leireko monasterioaren kalea moreda ibilbidea santiago ramon y cajal kalea urbasa mendiaren kalea varsovia hiribidea calle calle parque plaza calle calle plaza calle entidad calle calle entidad calle paseo calle calle calle paseo calle calle avenida",
+      "metadato_fileName": "meta_58d0ea301115aa9aefa2741607d209d932dc74d9.json",
+      "resource_fileName": "a190ee35a63f82e05d0b6bc0386055cf003a4894.csv",
+      "retrieval": {
+        "bm25": {
+          "rank": 5,
+          "score": 36.599587
+        }
+      }
+    },
+    {
+      "id": "l01280796-callejero-informacion-adicional-asociada-codigos-postales-zonas-ser-categoria-fiscal-parcela-catastral-etc",
+      "title": "Callejero. Información adicional asociada. Códigos postales, zonas SER, categoría fiscal, parcela catastral, etc.",
+      "description": "**Importante:** **Existe un conjunto de datos publicado en el Portal con el[Callejero Oficial del Ayuntamiento de Madrid](http://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=b3c41f3cf6a6c410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD \"Callejero Oficial del Ayuntamiento de Madrid\"). Este conjunto de datos, presenta explotaciones asociadas con información de tramos y códigos postales, zona SER (servicio de estacionamiento regulado), categoría fiscal de la calle, población empadronada en cada vial, identificación de las parcelas catastrales, etc.** Presenta el listado de viales vigentes (unos 10.000), y portales y/o edificios de la ciudad (unos 200.000), con todo detalle de los mismos: coordenadas geográficas, cruces de viales, tramos de viales con código postal, tramos de vial con zona S.E.R. e incluso población por calles (por seguridad, solamente para aquellas calles que tengan empadronados más de 50 habitantes). La descripción detallada del contenido de los ficheros y la documentación de los mismos se puede consultar en el enlace de \"Documentación asociada\".",
+      "header": "\"codigo de via\" \"clase de la via\" \"particula de la via\" \"nombre de la via\" \"tipo de tramo\" \"nombre de la aproximacion\" \"numero inicial del tramo\" \"calificador del numero inicial del tramo\" \"numero final del tramo\" \"calificador del numero final del tramo\" \"codigo postal\" \"seccion de carteria\"",
+      "content": "00000732;travesia ;de ;cesar gonzalez ruano ;impar;num;000001; ;009999; ;28027;n/d 00001713;calle ;de ;iris ;impar;num;000001; ;009999; ;28019;n/d 00002609;calle ;de ;la riviera ;impar;num;000001; ;009999; ;28030;n/d 00002718;ciudad ; ;universitaria autonoma ;impar;num;000001; ;009999; ;28049;n/d 00002729;calle ;del ;granito ;par ;num;000032; ;009998; ;28045;n/d 00013200;calle ;de ;alamedilla ;impar;num;000001; ;009999; ;28045;n/d 00110700;calle ;de ;boldano ;impar;num;000001; ;000019; ;28027;n/d 00169650;plaza ;de ;cieza ;par ;num;000002; ;009998; ;28034;n/d 00208800;calle ;de la ;constancia ;impar;num;000035; ;009999; ;28002;n/d 00271600;calle ;de ;escocia ;par ;num;000002; ;009998; ;28019;n/d 00357500;calle ;de los;hermanos machado ;par ;num;000030; ;009998; ;28017;n/d 00379400;calle ;de ;isidro fernandez ;par ;num;000002; ;009998; ;28034;n/d 00442700;pasaje ;de ;loriga ;par ;num;000002; ;009998; ;28002;n/d 00454500;calle ;del ;maestro villa ;par ;num;000002; ;009998; ;28005;n/d 00482600;calle ;de ;marina lavandeira ;impar;num;000001; ;009999; ;28025;n/d 00525400;calle ;de ;muller ;par ;num;000002; ;000012; ;28039;n/d 00698600;calle ;de ;santa rita ;impar;num;000001; ;009999; ;28002;n/d 00790100;calle ;del ;camino de los vinateros ;par ;num;000124; ;000172; ;28030;n/d 31000689;calle ;de ;villaverde a perales del rio ;par ;num;000004; ;009998; ;28021;n/d 31001239;calle ;de ;alan turing ;impar;num;000001; ;009999; ;28031;n/d\ncodigo de via 00000732 00001713 00002609 00002718 00002729 00013200 00110700 00169650 00208800 00271600 00357500 00379400 00442700 00454500 00482600 00525400 00698600 00790100 31000689 31001239 clase de la via travesia calle calle ciudad calle calle calle plaza calle calle calle calle pasaje calle calle calle calle calle calle calle particula de la via de de de del de de de de la de de los de de del de de de del de de nombre de la via cesar gonzalez ruano iris la riviera universitaria autonoma granito alamedilla boldano cieza constancia escocia hermanos machado isidro fernandez loriga maestro villa marina lavandeira muller santa rita camino de los vinateros villaverde a perales del rio alan turing tipo de tramo impar impar impar impar par impar impar par impar par par par par par impar par impar par par impar nombre de la aproximacion num num num num num num num num num num num num num num num num num num num num numero inicial del tramo 000001 000001 000001 000001 000032 000001 000001 000002 000035 000002 000030 000002 000002 000002 000001 000002 000001 000124 000004 000001 calificador del numero inicial del tramo numero final del tramo 009999 009999 009999 009999 009998 009999 000019 009998 009999 009998 009998 009998 009998 009998 009999 000012 009999 000172 009998 009999 calificador del numero final del tramo codigo postal 28027 28019 28030 28049 28045 28045 28027 28034 28002 28019 28017 28034 28002 28005 28025 28039 28002 28030 28021 28031 seccion de carteria n/d n/d n/d n/d n/d n/d n/d n/d n/d n/d n/d n/d n/d n/d n/d n/d n/d n/d n/d n/d",
+      "metadato_fileName": "meta_fcd46a3ff89761065b05934162ed1ae5cce05c60.json",
+      "resource_fileName": "732224007e2a72568fcb5f2702977a7b408f55f8.csv",
+      "retrieval": {
+        "bm25": {
+          "rank": 6,
+          "score": 36.599201
+        }
+      }
+    },
+    {
+      "id": "l01140137-callejero",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1013,calle tejar, 1013,calle alcalde luis cabello, 1013,c/31 calle sin nombre, 1013,calle ana de la rosa, 1013,c/39 calle sin nombre, 1013,calle huelva, 1013,calle baños de don juan, 1013,plaza jose solis ruiz, 1013,calle cayetano moriel, 1013,calle olivo, 1013,calle camino de los arrieros, 1013,calle san roque, 1013,calle terzuela, 1013,calle leonor, 1013,c/37 calle sin pavimentar, 1013,calle parrilas, 1013,calle duque de sessa, 1013,calle guadalquivir, 1013,callesanta teresa jornet, 1013,calle rey baltasar,\nidclienteeprinsa 1013 1013 1013 1013 1013 1013 1013 1013 1013 1013 1013 1013 1013 1013 1013 1013 1013 1013 1013 1013 nombre calle tejar calle alcalde luis cabello c/31 calle sin nombre calle ana de la rosa c/39 calle sin nombre calle huelva calle baños de don juan plaza jose solis ruiz calle cayetano moriel calle olivo calle camino de los arrieros calle san roque calle terzuela calle leonor c/37 calle sin pavimentar calle parrilas calle duque de sessa calle guadalquivir callesanta teresa jornet calle rey baltasar numeración",
+      "metadato_fileName": "meta_69bdcd4c184872145806f0fbb8999a01920ed5a8.json",
+      "resource_fileName": "f062b687c251d28216e46d70c67553ae8d86d882.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 27,
+          "score": 1.36706545
+        },
+        "qwen": {
+          "rank": 11,
+          "score": 1.37662155
+        },
+        "bm25": {
+          "rank": 7,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140348-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1034,calle cuesta del calvario, 1034,calle virgen de las cruces, 1034,calle real, 1034,callejon del moral, 1034,c/10 calle sin nombre, 1034,calle redonda del calvario, 1034,carretera co-7100, 1034,calle juan ramon jimenez, 1034,calle federico garcia lorca, 1034,calle santa ana, 1034,calle canta rana, 1034,calle avenida de andalucia, 1034,callejon de cañete 2, 1034,calle cruz de altillo, 1034,callejon de cañete, 1034,calle juan carlos i, 1034,calle fuente, 1034,calle cordoba, 1034,camino de el guijo a el viso, 1034,camino del cerrejuelo,\nidclienteeprinsa 1034 1034 1034 1034 1034 1034 1034 1034 1034 1034 1034 1034 1034 1034 1034 1034 1034 1034 1034 1034 nombre calle cuesta del calvario calle virgen de las cruces calle real callejon del moral c/10 calle sin nombre calle redonda del calvario carretera co-7100 calle juan ramon jimenez calle federico garcia lorca calle santa ana calle canta rana calle avenida de andalucia callejon de cañete 2 calle cruz de altillo callejon de cañete calle juan carlos i calle fuente calle cordoba camino de el guijo a el viso camino del cerrejuelo numeración",
+      "metadato_fileName": "meta_a661802e043f5b36f19cc60fa7c97e7a87d20ceb.json",
+      "resource_fileName": "dc8d29a910d58cbae0192ef1b2c0b2eaf11a818b.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 1,
+          "score": 1.3677434000000002
+        },
+        "qwen": {
+          "rank": 34,
+          "score": 1.37379175
+        },
+        "bm25": {
+          "rank": 8,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140713-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1071,calle juan obrero, 1071,calle seneca, 1071,calle moral, 1071,calle libertad, 1071,calle moreños, 1071,c/10 calle sin nombre, 1071,calle camilo sanchez galan, 1071,calle maestro fernando ramirez, 1071,calle cordoba, 1071,calle san quintin, 1071,calle real, 1071,calle travesia de la iglesia, 1071,calle huertas, 1071,plaza del ayuntamiento, 1071,calle posito, 1071,calle parrilla, 1071,calle plaza de la constitucion, 1071,calle cerrillo, 1071,calle victoria, 1071,calle parra,\nidclienteeprinsa 1071 1071 1071 1071 1071 1071 1071 1071 1071 1071 1071 1071 1071 1071 1071 1071 1071 1071 1071 1071 nombre calle juan obrero calle seneca calle moral calle libertad calle moreños c/10 calle sin nombre calle camilo sanchez galan calle maestro fernando ramirez calle cordoba calle san quintin calle real calle travesia de la iglesia calle huertas plaza del ayuntamiento calle posito calle parrilla calle plaza de la constitucion calle cerrillo calle victoria calle parra numeración",
+      "metadato_fileName": "meta_7c974d6b4b3998dfe8052834abb7da7cbcbeed91.json",
+      "resource_fileName": "f5917d8924ef1a9ff2397ff10a1731705a4922a8.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 35,
+          "score": 1.3669517
+        },
+        "qwen": {
+          "rank": 7,
+          "score": 1.3767436000000002
+        },
+        "bm25": {
+          "rank": 9,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140399-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1039,c/24 calle sin nombre, 1039,c/12 calle sin nombre, 1039,c/2 calle sin nombre, 1039,calle la fuente, 1039,calle fuente espino, 1039,travesia a calle alta, 1039,calle poeta miguel hernandez, 1039,glorieta del convento, 1039,calle marbella, 1039,c/15 calle sin nombre, 1039,carretera de fuenseca, 1039,calle porras, 1039,calle via verde, 1039,calle cabezuelo, 1039,calle el prado, 1039,calle la constitucion, 1039,travesia del cabezuelo, 1039,calle fuente la pililla, 1039,c/34 calle sin nombre, 1039,calle santa maria,\nidclienteeprinsa 1039 1039 1039 1039 1039 1039 1039 1039 1039 1039 1039 1039 1039 1039 1039 1039 1039 1039 1039 1039 nombre c/24 calle sin nombre c/12 calle sin nombre c/2 calle sin nombre calle la fuente calle fuente espino travesia a calle alta calle poeta miguel hernandez glorieta del convento calle marbella c/15 calle sin nombre carretera de fuenseca calle porras calle via verde calle cabezuelo calle el prado calle la constitucion travesia del cabezuelo calle fuente la pililla c/34 calle sin nombre calle santa maria numeración",
+      "metadato_fileName": "meta_9c0187c778353361ed5bba043f7f03d6efa55a8c.json",
+      "resource_fileName": "da0d758b9d34f10bf3e5b6943bf8444d9bfb6f28.csv",
+      "retrieval": {
+        "bm25": {
+          "rank": 10,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140370-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1037,c/7 calle sin pavimentar, 1037,c/5 calle sin nombre, 1037,calle doña emilia, 1037,c/1 calle sin nombre, 1037,c/10 calle sin pavimentar, 1037,c/19 calle sin nombre, 1037,calle cristobal de castro, 1037,calle puente del agua, 1037,calle el conde, 1037,calle fuente nueva, 1037,calle tarajal, 1037,c/6 calle sin nombre, 1037,calle huertas perdias , 1037,calle puerta del rey, 1037,c/7 calle sin nombre, 1037,calle los naranjos, 1037,calle cementerio, 1037,plaza san jose, 1037,calle profesor antonio cruz, 1037,calle iznajar,\nidclienteeprinsa 1037 1037 1037 1037 1037 1037 1037 1037 1037 1037 1037 1037 1037 1037 1037 1037 1037 1037 1037 1037 nombre c/7 calle sin pavimentar c/5 calle sin nombre calle doña emilia c/1 calle sin nombre c/10 calle sin pavimentar c/19 calle sin nombre calle cristobal de castro calle puente del agua calle el conde calle fuente nueva calle tarajal c/6 calle sin nombre calle huertas perdias calle puerta del rey c/7 calle sin nombre calle los naranjos calle cementerio plaza san jose calle profesor antonio cruz calle iznajar numeración",
+      "metadato_fileName": "meta_3c4b5c8dcb0f0cab8381225aa6eac92b98bfbb32.json",
+      "resource_fileName": "a6327cdd0dea0dffeb674a6e70129debbb252023.csv",
+      "retrieval": {
+        "qwen": {
+          "rank": 27,
+          "score": 1.37480635
+        },
+        "bm25": {
+          "rank": 11,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140266-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1026,calle virgen de la cabeza, 1026,calle alegria, 1026,calle reyes catolicos, 1026,calle fuente, 1026,calle gongora, 1026,carretera badajoz granada, 1026,c/3 calle sin pavimentar, 1026,calle cervantes, 1026,calle san isidro, 1026,calle justo, 1026,calle serranas, 1026,calle plaza de andalucia, 1026,calle amargura, 1026,calle santa barbara, 1026,calle sin nombre c-1, 1026,calle malaga, 1026,carretera de la estacion, 1026,calle concordia, 1026,calle sol, 1026,calle avenida de españa,\nidclienteeprinsa 1026 1026 1026 1026 1026 1026 1026 1026 1026 1026 1026 1026 1026 1026 1026 1026 1026 1026 1026 1026 nombre calle virgen de la cabeza calle alegria calle reyes catolicos calle fuente calle gongora carretera badajoz granada c/3 calle sin pavimentar calle cervantes calle san isidro calle justo calle serranas calle plaza de andalucia calle amargura calle santa barbara calle sin nombre c-1 calle malaga carretera de la estacion calle concordia calle sol calle avenida de españa numeración",
+      "metadato_fileName": "meta_988a598b5c85e959cf1564dd010a5e729c5ff2e3.json",
+      "resource_fileName": "13d1f9a2465ae273d5604e2616cc65be0dcc61c9.csv",
+      "retrieval": {
+        "bm25": {
+          "rank": 12,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140615-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1060,calle delicias, 1060,calle fuente de la mina, 1060,calle nuestra señora del valle, 1060,calle acceso cañada jardin, 1060,calle agustin palma soto, 1060,c/34 calle sin nombre, 1060,calle ramon y cajal, 1060,calle arenal, 1060,c/11 calle sin nombre, 1060,c/36 calle sin nombre, 1060,calle ecija, 1060,c/9 calle sin nombre, 1060,calle villagallegos, 1060,calle cortadillo, 1060,calle nueva, 1060,calle sevilla, 1060,calle fuente del cañuelo, 1060,c/21 calle sin nombre, 1060,calle posadas, 1060,calle gongora,\nidclienteeprinsa 1060 1060 1060 1060 1060 1060 1060 1060 1060 1060 1060 1060 1060 1060 1060 1060 1060 1060 1060 1060 nombre calle delicias calle fuente de la mina calle nuestra señora del valle calle acceso cañada jardin calle agustin palma soto c/34 calle sin nombre calle ramon y cajal calle arenal c/11 calle sin nombre c/36 calle sin nombre calle ecija c/9 calle sin nombre calle villagallegos calle cortadillo calle nueva calle sevilla calle fuente del cañuelo c/21 calle sin nombre calle posadas calle gongora numeración",
+      "metadato_fileName": "meta_e99f974ff50590e0754495a255273e603accdba2.json",
+      "resource_fileName": "a78f5772f7983ef6b927fa594351cf31c1e71a0e.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 24,
+          "score": 1.36708832
+        },
+        "qwen": {
+          "rank": 21,
+          "score": 1.375295
+        },
+        "bm25": {
+          "rank": 13,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140620-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1062,paseo de gracia, 1062,calle gongora, 1062,calle calvario, 1062,c/9 calle sin pavimentar, 1062,calle olivo, 1062,calle antonio barroso, 1062,carretera de san benito, 1062,calle comercio, 1062,calle fuente nueva, 1062,calle pablo romero alamillo, 1062,calle peñas, 1062,calle granados, 1062,calle vieja, 1062,calle nuestra señora de veredas, 1062,c/8 calle sin nombre, 1062,c/2 calle sin nombre, 1062,c/1 calle sin pavimentar, 1062,calle tiendas, 1062,calle san antonio, 1062,calle anton perez,\nidclienteeprinsa 1062 1062 1062 1062 1062 1062 1062 1062 1062 1062 1062 1062 1062 1062 1062 1062 1062 1062 1062 1062 nombre paseo de gracia calle gongora calle calvario c/9 calle sin pavimentar calle olivo calle antonio barroso carretera de san benito calle comercio calle fuente nueva calle pablo romero alamillo calle peñas calle granados calle vieja calle nuestra señora de veredas c/8 calle sin nombre c/2 calle sin nombre c/1 calle sin pavimentar calle tiendas calle san antonio calle anton perez numeración",
+      "metadato_fileName": "meta_cee08b9126717d15749c3d9dcd45094a35c6ced4.json",
+      "resource_fileName": "1cd42ee499578c3202d57cfe24e7da53f6fb4433.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 50,
+          "score": 1.3664168700000001
+        },
+        "qwen": {
+          "rank": 44,
+          "score": 1.37364007
+        },
+        "bm25": {
+          "rank": 14,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140734-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1073,calle goya, 1073,calle la cola, 1073,calle perez galdos, 1073,calle maestro emilio vives, 1073,c/15 camino sin nombre, 1073,calle huelva, 1073,c/24 camino no pavimentado, 1073,calle barrio del horno, 1073,calle garcia lorca, 1073,calle santa clara, 1073,calle el naranjo, 1073,carretera del cementerio, 1073,calle doctor marañon, 1073,calle hermanos machado, 1073,calle barriada de la verbena b, 1073,calle teniente coronel rafael vargas, 1073,calle de los cesteros, 1073,calle de la virgen, 1073,calle fuente de la junta, 1073,calle doctor fleming,\nidclienteeprinsa 1073 1073 1073 1073 1073 1073 1073 1073 1073 1073 1073 1073 1073 1073 1073 1073 1073 1073 1073 1073 nombre calle goya calle la cola calle perez galdos calle maestro emilio vives c/15 camino sin nombre calle huelva c/24 camino no pavimentado calle barrio del horno calle garcia lorca calle santa clara calle el naranjo carretera del cementerio calle doctor marañon calle hermanos machado calle barriada de la verbena b calle teniente coronel rafael vargas calle de los cesteros calle de la virgen calle fuente de la junta calle doctor fleming numeración",
+      "metadato_fileName": "meta_b7886e780c85350a557133b2e62f05c3f8f23de3.json",
+      "resource_fileName": "63575d0d545be08e7a45c35d44040f1adc1de89d.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 40,
+          "score": 1.3668947999999999
+        },
+        "bm25": {
+          "rank": 15,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140076-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1007,calle ignacio osuna, 1007,calle albendin, 1007,calle sargento domingo argudo, 1007,calle blas de luque, 1007,calle llaneta, 1007,calle carcabuey, 1007,calle jose baena, 1007,calle torreparedones, 1007,calle priego, 1007,calle san pedro, 1007,calle fco ariza, 1007,calle jose maria de los rios, 1007,calle valenzuela, 1007,calle vicente piernagorda, 1007,calle baja de san pedro, 1007,calle casas de carmona, 1007,calle peña omar, 1007,calle cordoba, 1007,calle duque de ahumada, 1007,plaza pedro muñoz,\nidclienteeprinsa 1007 1007 1007 1007 1007 1007 1007 1007 1007 1007 1007 1007 1007 1007 1007 1007 1007 1007 1007 1007 nombre calle ignacio osuna calle albendin calle sargento domingo argudo calle blas de luque calle llaneta calle carcabuey calle jose baena calle torreparedones calle priego calle san pedro calle fco ariza calle jose maria de los rios calle valenzuela calle vicente piernagorda calle baja de san pedro calle casas de carmona calle peña omar calle cordoba calle duque de ahumada plaza pedro muñoz numeración",
+      "metadato_fileName": "meta_fdd2caaa7ca769e2d52c0a6eccdf1ee8b9800d53.json",
+      "resource_fileName": "abce80eb9315a71da1f67e6c49cb70eea854cac1.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 33,
+          "score": 1.36703935
+        },
+        "qwen": {
+          "rank": 28,
+          "score": 1.3746324
+        },
+        "bm25": {
+          "rank": 16,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140057-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1005,calle iglesia, 1005,plaza duque de rivas, 1005,calle cervantes, 1005,c2 calle sin nombre, 1005,plaza de san fernando, 1005,plaza severo ochoa, 1005,calle el manzano, 1005,calle el alamo, 1005,calle h, 1005,calle g-ppr1, 1005,calle el cañuelo, 1005,calle santo, 1005,calle rosario, 1005,camino veredon de los llanos, 1005,c10 calle sin nombre, 1005,calle b-ppr1, 1005,calle perez galdos, 1005,calle blas infante, 1005,calle maestra claudia soto, 1005,calle barrionuevo,\nidclienteeprinsa 1005 1005 1005 1005 1005 1005 1005 1005 1005 1005 1005 1005 1005 1005 1005 1005 1005 1005 1005 1005 nombre calle iglesia plaza duque de rivas calle cervantes c2 calle sin nombre plaza de san fernando plaza severo ochoa calle el manzano calle el alamo calle h calle g-ppr1 calle el cañuelo calle santo calle rosario camino veredon de los llanos c10 calle sin nombre calle b-ppr1 calle perez galdos calle blas infante calle maestra claudia soto calle barrionuevo numeración",
+      "metadato_fileName": "meta_4fae2b922eff8eba73f1bd5b638c17c36007d3f6.json",
+      "resource_fileName": "7c4f5fb2e66181c3226b724d961f524622ac2e1d.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 36,
+          "score": 1.3669517
+        },
+        "qwen": {
+          "rank": 8,
+          "score": 1.3767436000000002
+        },
+        "bm25": {
+          "rank": 17,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140575-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1057,c/29 calle sin nombre, 1057,camino san sebastian, 1057,calle aljaro, 1057,calle cervantes, 1057,calle manuel de falla, 1057,calle arcos de la villa, 1057,calle medina azahara, 1057,carretera de aguilar, 1057,calle fernan gomez, 1057,calle cristo de los faroles, 1057,c/23 calle sin nombre, 1057,calle juan de illescas, 1057,c/3 calle sin nombre, 1057,calle giralda, 1057,calle cuadra, 1057,calle antonio gala, 1057,c/40 calle sin nombre, 1057,calle almendro, 1057,calle las flores, 1057,calle blanco,\nidclienteeprinsa 1057 1057 1057 1057 1057 1057 1057 1057 1057 1057 1057 1057 1057 1057 1057 1057 1057 1057 1057 1057 nombre c/29 calle sin nombre camino san sebastian calle aljaro calle cervantes calle manuel de falla calle arcos de la villa calle medina azahara carretera de aguilar calle fernan gomez calle cristo de los faroles c/23 calle sin nombre calle juan de illescas c/3 calle sin nombre calle giralda calle cuadra calle antonio gala c/40 calle sin nombre calle almendro calle las flores calle blanco numeración",
+      "metadato_fileName": "meta_753cfcfd3e0c61b4c57529f10ec072c3b6bed481.json",
+      "resource_fileName": "9e9ead5b49975ab6e7b9faa68e85a533df17ee10.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 7,
+          "score": 1.36733687
+        },
+        "qwen": {
+          "rank": 36,
+          "score": 1.3737158
+        },
+        "bm25": {
+          "rank": 18,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140351-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1035,calle daoiz, 1035,calle felipe ii, 1035,calle anita maria, 1035,calle juan xxiii, 1035,calle alonso martin grande, 1035,calle artesanos, 1035,calle malvinas, 1035,calle calvario, 1035,calle sin nombre c/31, 1035,calle abogado aranda, 1035,calle tirso de molina, 1035,calle hernan cortes, 1035,calle cervantes, 1035,plaza duque del tejar, 1035,calle sin nombre c/42, 1035,calle soldado perez pimentel, 1035,calle plaza de santa ana, 1035,plaza de españa, 1035,calle francisco pizarro, 1035,calle sin nombre c/8,\nidclienteeprinsa 1035 1035 1035 1035 1035 1035 1035 1035 1035 1035 1035 1035 1035 1035 1035 1035 1035 1035 1035 1035 nombre calle daoiz calle felipe ii calle anita maria calle juan xxiii calle alonso martin grande calle artesanos calle malvinas calle calvario calle sin nombre c/31 calle abogado aranda calle tirso de molina calle hernan cortes calle cervantes plaza duque del tejar calle sin nombre c/42 calle soldado perez pimentel calle plaza de santa ana plaza de españa calle francisco pizarro calle sin nombre c/8 numeración",
+      "metadato_fileName": "meta_7423557735aa0e98048bb1ce6de4d70fed1e0cd6.json",
+      "resource_fileName": "48404f54460edd85937622dfa8ba312e080c1c2b.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 28,
+          "score": 1.36706545
+        },
+        "qwen": {
+          "rank": 12,
+          "score": 1.37662155
+        },
+        "bm25": {
+          "rank": 19,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140689-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1068,plaza calle andalucia, 1068,carretera pozoblanco, 1068,acceso cerro miguelito, 1068,calle san rafael, 1068,calle eras, 1068,calle sin nombre, 1068,calle ayuntamiento, 1068,calle pablo picasso, 1068,calle guadalquivir, 1068,calle andalucia, 1068,calle posito, 1068,c/6 calle sin nombre, 1068,calle pilar viejo, 1068,c/5 calle sin nombre, 1068,entrada del olivar de la virgen, 1068,calle calvario, 1068,calle chaparral, 1068,calle palacio, 1068,acceso solana del peñon b, 1068,calle pozo,\nidclienteeprinsa 1068 1068 1068 1068 1068 1068 1068 1068 1068 1068 1068 1068 1068 1068 1068 1068 1068 1068 1068 1068 nombre plaza calle andalucia carretera pozoblanco acceso cerro miguelito calle san rafael calle eras calle sin nombre calle ayuntamiento calle pablo picasso calle guadalquivir calle andalucia calle posito c/6 calle sin nombre calle pilar viejo c/5 calle sin nombre entrada del olivar de la virgen calle calvario calle chaparral calle palacio acceso solana del peñon b calle pozo numeración",
+      "metadato_fileName": "meta_789e908d98fedd88507c13dff7552a2c4cd3b884.json",
+      "resource_fileName": "e86748b839461a4c4ab0ab5648263dc6708538c9.csv",
+      "retrieval": {
+        "bm25": {
+          "rank": 20,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140641-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1064,calle huelva, 1064,calle cervantes, 1064,calle cordoba, 1064,calle virgen de la cabeza, 1064,plaza calle pedroches, 1064,c/21 calle sin nombre, 1064,carretera de hinojosa del duque, 1064,calle avenida de fatima, 1064,carretera de los blazquez, 1064,calle julio romero de torres, 1064,calle santa rita, 1064,calle mesones, 1064,calle callejon, 1064,calle plaza de la democracia, 1064,calle corrales, 1064,calle sevilla, 1064,calle calvario, 1064,calle huertas, 1064,calle de san isidro, 1064,calle juan bernier luque,\nidclienteeprinsa 1064 1064 1064 1064 1064 1064 1064 1064 1064 1064 1064 1064 1064 1064 1064 1064 1064 1064 1064 1064 nombre calle huelva calle cervantes calle cordoba calle virgen de la cabeza plaza calle pedroches c/21 calle sin nombre carretera de hinojosa del duque calle avenida de fatima carretera de los blazquez calle julio romero de torres calle santa rita calle mesones calle callejon calle plaza de la democracia calle corrales calle sevilla calle calvario calle huertas calle de san isidro calle juan bernier luque numeración",
+      "metadato_fileName": "meta_3dec233f69b2eb3b4dfee9a705fb4f7d5425afe1.json",
+      "resource_fileName": "f7c13359e55ec642c6fd3f709984e3790989818a.csv",
+      "retrieval": {
+        "qwen": {
+          "rank": 30,
+          "score": 1.3739788000000002
+        },
+        "bm25": {
+          "rank": 21,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l02000014-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración municipio",
+      "content": "1018,calle neptuno,,el carpio 1050,calle agustina de aragon,,pedro abad 1029,calle oscura,,fuente obejuna 1036,plaza donantes de sangre,,hornachuelos 1038,calle alhaken i,,lucena 1050,calle julio romero de torres,,pedro abad 1063,carretera de baena,,valenzuela 1052,callle buenavistaa,,peñarroya-pueblonuevo 1018,calle la tierra,,el carpio 1056,calle el carmen,,puente genil 1056,calle de la cantera,,puente genil 1030,calle palma,,fuente palmera 1056,calle de miralrio,,puente genil 1042,calle medico varo,,montilla 1013,c/20 calle sin nombre,,cabra 1053,calle mesones,,posadas 1033,calle la perdiz,,guadalcázar 1042,calle aguas,,montilla 1002,carretera a puente genil,,aguilar de la frontera 1057,calle calleja del campo,,la rambla\nidclienteeprinsa 1018 1050 1029 1036 1038 1050 1063 1052 1018 1056 1056 1030 1056 1042 1013 1053 1033 1042 1002 1057 nombre calle neptuno calle agustina de aragon calle oscura plaza donantes de sangre calle alhaken i calle julio romero de torres carretera de baena callle buenavistaa calle la tierra calle el carmen calle de la cantera calle palma calle de miralrio calle medico varo c/20 calle sin nombre calle mesones calle la perdiz calle aguas carretera a puente genil calle calleja del campo numeración municipio el carpio pedro abad fuente obejuna hornachuelos lucena pedro abad valenzuela peñarroya-pueblonuevo el carpio puente genil puente genil fuente palmera puente genil montilla cabra posadas guadalcázar montilla aguilar de la frontera la rambla",
+      "metadato_fileName": "meta_f3414f520724d966afb2c9ef60f02aeeb89cf475.json",
+      "resource_fileName": "64199f0ebb651e496c0fc59886bd299660b188c3.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 39,
+          "score": 1.36693047
+        },
+        "bm25": {
+          "rank": 22,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140240-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1024,plaza medico fernandez urrea, 1024,plaza pilar, 1024,c/43 calle sin nombre, 1024,calle sres. curas, 1024,camino cordel de los espartanos, 1024,calle grama, 1024,calle plazuela, 1024,avenida de la libertad, 1024,calle extramuros, 1024,calle cuarteron, 1024,calle jesus de las penas, 1024,calle nueva, 1024,plaza pilarejo, 1024,calle esperanza, 1024,ronda del perchel, 1024,calle federico garcia lorca, 1024,c/1 calle sin nombre, 1024,calle andalucia, 1024,calle los matuteros, 1024,c/8 camino sin nombre,\nidclienteeprinsa 1024 1024 1024 1024 1024 1024 1024 1024 1024 1024 1024 1024 1024 1024 1024 1024 1024 1024 1024 1024 nombre plaza medico fernandez urrea plaza pilar c/43 calle sin nombre calle sres. curas camino cordel de los espartanos calle grama calle plazuela avenida de la libertad calle extramuros calle cuarteron calle jesus de las penas calle nueva plaza pilarejo calle esperanza ronda del perchel calle federico garcia lorca c/1 calle sin nombre calle andalucia calle los matuteros c/8 camino sin nombre numeración",
+      "metadato_fileName": "meta_e8aeb8412829923d6e7a5e6e1a0324016b9194f8.json",
+      "resource_fileName": "ad5411ac696a8bd346695e25b7abc9679f1ee6b4.csv",
+      "retrieval": {
+        "qwen": {
+          "rank": 47,
+          "score": 1.3734457
+        },
+        "bm25": {
+          "rank": 23,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140500-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1050,calle sin nombre c/12, 1050,calle sin nombre c/6, 1050,calle aqua-portuaria, 1050,c/28 calle sin pavimentar, 1050,calle estrella, 1050,calle sin nombre c/10, 1050,c/17 calle sin nombre, 1050,calle sin nombre c/5, 1050,calle san jose, 1050,calle de los artesanos, 1050,calle rochafria, 1050,calle jesus maria, 1050,calle plaza de andalucia, 1050,calle arroyo, 1050,calle a, 1050,calle almenara, 1050,calle de los comerciantes, 1050,calle santa ana, 1050,calle san fernando, 1050,calle 19 de abril,\nidclienteeprinsa 1050 1050 1050 1050 1050 1050 1050 1050 1050 1050 1050 1050 1050 1050 1050 1050 1050 1050 1050 1050 nombre calle sin nombre c/12 calle sin nombre c/6 calle aqua-portuaria c/28 calle sin pavimentar calle estrella calle sin nombre c/10 c/17 calle sin nombre calle sin nombre c/5 calle san jose calle de los artesanos calle rochafria calle jesus maria calle plaza de andalucia calle arroyo calle a calle almenara calle de los comerciantes calle santa ana calle san fernando calle 19 de abril numeración",
+      "metadato_fileName": "meta_e8fe10d8e04e6dc359b11223f19dfc463e6a156e.json",
+      "resource_fileName": "7ed8329b5856c2cd74c3f993c71c45aae8f3fd63.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 37,
+          "score": 1.3669517
+        },
+        "qwen": {
+          "rank": 9,
+          "score": 1.3767436000000002
+        },
+        "bm25": {
+          "rank": 24,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140168-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1016,c/2 calle sin pavimentar, 1016,jardin calle miguel gallo, 1016,calle modesto aguilera, 1016,calle san miguel, 1016,calle emilio de leon, 1016,calle poeta juan ramon jimenez, 1016,calle poeta antonio machado, 1016,plaza de federico garcia lorca, 1016,calle doctor fleming, 1016,c/2 callesin pavimnetar, 1016,calle doctor marañon, 1016,c/4 calle sin nombre, 1016,calle san francisco, 1016,calle ramon y cajal, 1016,c/3 camino sin pavimnetar, 1016,calle alta del cerrillo, 1016,c/7 calle sin nombre, 1016,paseo de andalucia, 1016,calle mina, 1016,calle villanueva,\nidclienteeprinsa 1016 1016 1016 1016 1016 1016 1016 1016 1016 1016 1016 1016 1016 1016 1016 1016 1016 1016 1016 1016 nombre c/2 calle sin pavimentar jardin calle miguel gallo calle modesto aguilera calle san miguel calle emilio de leon calle poeta juan ramon jimenez calle poeta antonio machado plaza de federico garcia lorca calle doctor fleming c/2 callesin pavimnetar calle doctor marañon c/4 calle sin nombre calle san francisco calle ramon y cajal c/3 camino sin pavimnetar calle alta del cerrillo c/7 calle sin nombre paseo de andalucia calle mina calle villanueva numeración",
+      "metadato_fileName": "meta_f386cf2fd5f1967f3b66d8c92ceebe31754a22a5.json",
+      "resource_fileName": "c47c70d5adf2ffd4d0ab6b46c67f940183c40f55.csv",
+      "retrieval": {
+        "bm25": {
+          "rank": 25,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140060-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1006,calle extramuros, 1006,calle cruz de mayo, 1006,calle san pedro, 1006,calle cantarranas, 1006,calle los jarales, 1006,calle huerta del crespo, 1006,calle de cagilon, 1006,calle san sebastian, 1006,calle pozoblanco, 1006,calle concepcion, 1006,calle los olivos, 1006,calle san antonio, 1006,calle cruz de arriba, 1006,calle la peña, 1006,camino del pozo de la torre, 1006,calle veintiocho de febrero, 1006,c/4 calle sin nombre, 1006,calle el casar, 1006,calle el viso, 1006,calle la fontana,\nidclienteeprinsa 1006 1006 1006 1006 1006 1006 1006 1006 1006 1006 1006 1006 1006 1006 1006 1006 1006 1006 1006 1006 nombre calle extramuros calle cruz de mayo calle san pedro calle cantarranas calle los jarales calle huerta del crespo calle de cagilon calle san sebastian calle pozoblanco calle concepcion calle los olivos calle san antonio calle cruz de arriba calle la peña camino del pozo de la torre calle veintiocho de febrero c/4 calle sin nombre calle el casar calle el viso calle la fontana numeración",
+      "metadato_fileName": "meta_059659e9c8b45619e89e9fd95653edc79f911551.json",
+      "resource_fileName": "f271937edbee55a119490ab59fa7d8146126661f.csv",
+      "retrieval": {
+        "bm25": {
+          "rank": 26,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140608-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1061,calle calvario , 1061,calle coso, 1061,paraje santa quiteria, 1061,calle peñalta, 1061,c/7 calle sin nombre, 1061,calle cruz, 1061,cale fuente marmazo, 1061,calle hospital , 1061,calle real, 1061,calle maestro manuel moreno, 1061,calle cordoba, 1061,calle fuente, 1061,calle noria, 1061,plaza del mercado, 1061,callejon espaldas calle llana, 1061,calle del cucurucho, 1061,calle muralla, 1061,c/9 calle sin nombre, 1061,calleja trescasa, 1061,calle llana,\nidclienteeprinsa 1061 1061 1061 1061 1061 1061 1061 1061 1061 1061 1061 1061 1061 1061 1061 1061 1061 1061 1061 1061 nombre calle calvario calle coso paraje santa quiteria calle peñalta c/7 calle sin nombre calle cruz cale fuente marmazo calle hospital calle real calle maestro manuel moreno calle cordoba calle fuente calle noria plaza del mercado callejon espaldas calle llana calle del cucurucho calle muralla c/9 calle sin nombre calleja trescasa calle llana numeración",
+      "metadato_fileName": "meta_0bea288530c6564683c06cc9f72a41b50be8dc93.json",
+      "resource_fileName": "a881dc3220d7aafe90b1a4a4a88989d02c3efba7.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 29,
+          "score": 1.36706545
+        },
+        "qwen": {
+          "rank": 13,
+          "score": 1.37662155
+        },
+        "bm25": {
+          "rank": 27,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140410-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1041,calle ejido, 1041,calle 28 de febrero, 1041,c/19 calle sin nombre, 1041,calle ulia, 1041,calle huerta alcoba, 1041,calle vega, 1041,c/13 calle sin nombre, 1041,camino nuevo de la rambla, 1041,calle san acacio, 1041,calle portichuelo, 1041,c/34 calle sin nombre, 1041,callejon del obispo, 1041,calle salvador carmona, 1041,calle cerrillo, 1041,calle justo moreno, 1041,c/59 calle sin nombre, 1041,calle 3 de octubre, 1041,calle solares, 1041,c/60 calle sin nombre, 1041,c/3 calle sin nombre,\nidclienteeprinsa 1041 1041 1041 1041 1041 1041 1041 1041 1041 1041 1041 1041 1041 1041 1041 1041 1041 1041 1041 1041 nombre calle ejido calle 28 de febrero c/19 calle sin nombre calle ulia calle huerta alcoba calle vega c/13 calle sin nombre camino nuevo de la rambla calle san acacio calle portichuelo c/34 calle sin nombre callejon del obispo calle salvador carmona calle cerrillo calle justo moreno c/59 calle sin nombre calle 3 de octubre calle solares c/60 calle sin nombre c/3 calle sin nombre numeración",
+      "metadato_fileName": "meta_34c53ba3e905706ab379cc3a2ec97ea107b7316c.json",
+      "resource_fileName": "fc614978e6e7e676fad5cff4ba7486bb212b75b2.csv",
+      "retrieval": {
+        "qwen": {
+          "rank": 48,
+          "score": 1.3733062999999999
+        },
+        "bm25": {
+          "rank": 28,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140459-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1045,calle federico garcia lorca, 1045,c.p. 55 de moriles a puente genil, 1045,calle casablanca, 1045,calle santon, 1045,calle san antonio, 1045,plaza de abastos, 1045,calle doctor fleming, 1045,c/12 calle sin pavimentar, 1045,calle travesia lucena los canelas, 1045,c/19 calle sin nombre, 1045,c/15 calle sin nombre, 1045,calle san jeronimo, 1045,calle garcia de leaniz, 1045,calle o , 1045,c/24 calle sin nombre, 1045,calle g , 1045,c/3 calle sin pavimentar, 1045,calle garcia leaniz, 1045,calle ramon y cajal, 1045,calle horno,\nidclienteeprinsa 1045 1045 1045 1045 1045 1045 1045 1045 1045 1045 1045 1045 1045 1045 1045 1045 1045 1045 1045 1045 nombre calle federico garcia lorca c.p. 55 de moriles a puente genil calle casablanca calle santon calle san antonio plaza de abastos calle doctor fleming c/12 calle sin pavimentar calle travesia lucena los canelas c/19 calle sin nombre c/15 calle sin nombre calle san jeronimo calle garcia de leaniz calle o c/24 calle sin nombre calle g c/3 calle sin pavimentar calle garcia leaniz calle ramon y cajal calle horno numeración",
+      "metadato_fileName": "meta_48a7e568590b7c131ec72c6502f6fc9092697c5c.json",
+      "resource_fileName": "4d60edc6af23a3db9c482aa5bca723f4cf2bb878.csv",
+      "retrieval": {
+        "qwen": {
+          "rank": 49,
+          "score": 1.3733062999999999
+        },
+        "bm25": {
+          "rank": 29,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140478-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1047,calle castillo, 1047,calle sin nombre c/19, 1047,calle vereda, 1047,camino vereda, 1047,calle cordoba, 1047,calle cuatro vientos, 1047,calle los geranios, 1047,plaza sin nombre c/1a, 1047,calle sin nombre c/29, 1047,calle sin nombre c/17, 1047,calle san antonio abad, 1047,carretera n-432 cordoba badajoz, 1047,calle sin nombre c/26, 1047,c/1 calle sin pavimentar, 1047,calle barrio bajo, 1047,calle sin nombre c/23, 1047,calle de la media luna, 1047,calle acera de los eucaliptos, 1047,calle cerrillo, 1047,calle san benito,\nidclienteeprinsa 1047 1047 1047 1047 1047 1047 1047 1047 1047 1047 1047 1047 1047 1047 1047 1047 1047 1047 1047 1047 nombre calle castillo calle sin nombre c/19 calle vereda camino vereda calle cordoba calle cuatro vientos calle los geranios plaza sin nombre c/1a calle sin nombre c/29 calle sin nombre c/17 calle san antonio abad carretera n-432 cordoba badajoz calle sin nombre c/26 c/1 calle sin pavimentar calle barrio bajo calle sin nombre c/23 calle de la media luna calle acera de los eucaliptos calle cerrillo calle san benito numeración",
+      "metadato_fileName": "meta_4bfa42501a4947b809bbc590b740f836e6904858.json",
+      "resource_fileName": "855021e87733470ed022093ead2c22fd97a382fa.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 43,
+          "score": 1.36682629
+        },
+        "bm25": {
+          "rank": 30,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140235-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1023,calle huelva, 1023,carretera pedroche dos torres, 1023,calle la paz, 1023,calle virgen de loreto, 1023,calle magdalena, 1023,c/24 calle sin nombre, 1023,calle san blas, 1023,calle arriba, 1023,calle fuente, 1023,calle clara campoamor, 1023,avenida doctor cornejo, 1023,calle cruz dorada, 1023,calle san sebastian, 1023,calle parra, 1023,c/27 calle sin nombre, 1023,camino de la mina, 1023,calle pradillo, 1023,calle hospital, 1023,camino de la dehesa, 1023,calle san jose,\nidclienteeprinsa 1023 1023 1023 1023 1023 1023 1023 1023 1023 1023 1023 1023 1023 1023 1023 1023 1023 1023 1023 1023 nombre calle huelva carretera pedroche dos torres calle la paz calle virgen de loreto calle magdalena c/24 calle sin nombre calle san blas calle arriba calle fuente calle clara campoamor avenida doctor cornejo calle cruz dorada calle san sebastian calle parra c/27 calle sin nombre camino de la mina calle pradillo calle hospital camino de la dehesa calle san jose numeración",
+      "metadato_fileName": "meta_705c128b05f245e5bc1edf3a1b74632694939242.json",
+      "resource_fileName": "0212591370cacdec737a3cf53c7eef134c66259d.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 19,
+          "score": 1.36719085
+        },
+        "qwen": {
+          "rank": 15,
+          "score": 1.3766042
+        },
+        "bm25": {
+          "rank": 31,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140386-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1038,calle escuelas nuevas, 1038,calle cortijo escuelas, 1038,calle torneros, 1038,plaza de andalucia, 1038,callejon de torremolinos, 1038,calle palma del rio, 1038,calle mediabarba, 1038,calle arena, 1038,calle la palmera, 1038,calle organizacion nacional de ciegos españoles, 1038,glorieta ishaq ibn gayyat, 1038,calle canalejas, 1038,calle antonio calvo sanchez, 1038,plaza la barrera, 1038,calle francisco de paula canalejas, 1038,calle espejo, 1038,calle peri-ns1 vial a, 1038,calle lademora, 1038,calle martin alonso, 1038,calle islas canarias,\nidclienteeprinsa 1038 1038 1038 1038 1038 1038 1038 1038 1038 1038 1038 1038 1038 1038 1038 1038 1038 1038 1038 1038 nombre calle escuelas nuevas calle cortijo escuelas calle torneros plaza de andalucia callejon de torremolinos calle palma del rio calle mediabarba calle arena calle la palmera calle organizacion nacional de ciegos españoles glorieta ishaq ibn gayyat calle canalejas calle antonio calvo sanchez plaza la barrera calle francisco de paula canalejas calle espejo calle peri-ns1 vial a calle lademora calle martin alonso calle islas canarias numeración",
+      "metadato_fileName": "meta_f0a13355b2c30e485ea72fbc832db187ca60576a.json",
+      "resource_fileName": "53c0b466c3832a70a1601b910211422f459c3ae5.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 16,
+          "score": 1.3672853699999998
+        },
+        "qwen": {
+          "rank": 20,
+          "score": 1.37537864
+        },
+        "bm25": {
+          "rank": 32,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140312-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1031,c/6 calle sin nombre, 1031,calle plaza la fuente, 1031,c/10 calle sin nombre, 1031,calle federico garcia lorca, 1031,calle escareluera, 1031,plaza calle carrera de la virgen, 1031,calle los danzantes, 1031,calle veronica, 1031,calle san jose, 1031,calle san isidro, 1031,calle andalucia, 1031,calle canteruela, 1031,calle la cruz, 1031,calle llana, 1031,calle nueva, 1031,avenida constitucion española, 1031,c/11 calle sin nombre, 1031,calle san agustin, 1031,calle alta, 1031,calle trascortijos,\nidclienteeprinsa 1031 1031 1031 1031 1031 1031 1031 1031 1031 1031 1031 1031 1031 1031 1031 1031 1031 1031 1031 1031 nombre c/6 calle sin nombre calle plaza la fuente c/10 calle sin nombre calle federico garcia lorca calle escareluera plaza calle carrera de la virgen calle los danzantes calle veronica calle san jose calle san isidro calle andalucia calle canteruela calle la cruz calle llana calle nueva avenida constitucion española c/11 calle sin nombre calle san agustin calle alta calle trascortijos numeración",
+      "metadato_fileName": "meta_6bd2267d7412bc9c74f1829442ff3279dbb68f4d.json",
+      "resource_fileName": "4f246371fa3b73ffb5e1ee096c280635682bb9e8.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 8,
+          "score": 1.36733687
+        },
+        "qwen": {
+          "rank": 37,
+          "score": 1.3737158
+        },
+        "bm25": {
+          "rank": 33,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140484-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1048,calle travesia, 1048,calle maestro francisco, 1048,calle nueva, 1048,c/5 calle sin nombre, 1048,ronda san lucas, 1048,calle gracia, 1048,calle urbanizacion primavera, 1048,calle la ronda, 1048,plaza nuestra señora del carmen, 1048,calle cordoba, 1048,calle cambron, 1048,calle cruz, 1048,calle estepa, 1048,calle maestra remedios cruz, 1048,calle ronda nueva, 1048,calle rafael alberti, 1048,calle eras altas, 1048,calle arroyo, 1048,carretera de antequera, 1048,calle donantes de sangre,\nidclienteeprinsa 1048 1048 1048 1048 1048 1048 1048 1048 1048 1048 1048 1048 1048 1048 1048 1048 1048 1048 1048 1048 nombre calle travesia calle maestro francisco calle nueva c/5 calle sin nombre ronda san lucas calle gracia calle urbanizacion primavera calle la ronda plaza nuestra señora del carmen calle cordoba calle cambron calle cruz calle estepa calle maestra remedios cruz calle ronda nueva calle rafael alberti calle eras altas calle arroyo carretera de antequera calle donantes de sangre numeración",
+      "metadato_fileName": "meta_9bbd7a1130643cf05ca8583a9483d5f3b1233fd2.json",
+      "resource_fileName": "1ce35d158cc57d73953dee64a246de0bdea8e5b3.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 20,
+          "score": 1.36719085
+        },
+        "qwen": {
+          "rank": 16,
+          "score": 1.3766042
+        },
+        "bm25": {
+          "rank": 34,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140364-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1036,calle sevilla, 1036,calle plaza mayor, 1036,calle cervantes, 1036,calle la palma, 1036,calle mirador, 1036,calle murcia, 1036,ronda oeste, 1036,calle jaen, 1036,calle corraliza, 1036,calle los angeles, 1036,calle formentera, 1036,calle castilla, 1036,c/2 calle sin nombre, 1036,calle del castaño, 1036,calle la palmera, 1036,calle la encina, 1036,calle el roble, 1036,calle ancha, 1036,calle las diamelas, 1036,calle romero,\nidclienteeprinsa 1036 1036 1036 1036 1036 1036 1036 1036 1036 1036 1036 1036 1036 1036 1036 1036 1036 1036 1036 1036 nombre calle sevilla calle plaza mayor calle cervantes calle la palma calle mirador calle murcia ronda oeste calle jaen calle corraliza calle los angeles calle formentera calle castilla c/2 calle sin nombre calle del castaño calle la palmera calle la encina calle el roble calle ancha calle las diamelas calle romero numeración",
+      "metadato_fileName": "meta_a32570a093641721bd57b4a618d8bcd9c85b8aae.json",
+      "resource_fileName": "80f7a442655ed58023ed410d2d58c737c427c511.csv",
+      "retrieval": {
+        "bm25": {
+          "rank": 35,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140155-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1015,c/11 calle sin nombre, 1015,calle vicario, 1015,calle lucena, 1015,calle del pozo, 1015,calle sauceda, 1015,calle baja, 1015,calle san marcos, 1015,calle cañuelo, 1015,calle cerrillo, 1015,calle doctor federico soria, 1015,calle carrera de santa ana, 1015,calle carniceria, 1015,calle maestro francisco carmona, 1015,calle las parras, 1015,calle majadilla, 1015,calle de la era alta, 1015,calle ancha, 1015,calle cuesta centella, 1015,calle san isidro, 1015,c/13 calle sin nombre,\nidclienteeprinsa 1015 1015 1015 1015 1015 1015 1015 1015 1015 1015 1015 1015 1015 1015 1015 1015 1015 1015 1015 1015 nombre c/11 calle sin nombre calle vicario calle lucena calle del pozo calle sauceda calle baja calle san marcos calle cañuelo calle cerrillo calle doctor federico soria calle carrera de santa ana calle carniceria calle maestro francisco carmona calle las parras calle majadilla calle de la era alta calle ancha calle cuesta centella calle san isidro c/13 calle sin nombre numeración",
+      "metadato_fileName": "meta_b0806dbb88a05c42b705f5370b6637c6952fef92.json",
+      "resource_fileName": "51b4d9ff05d99cdc726c0a190f369a2fb82b0ced.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 9,
+          "score": 1.36733687
+        },
+        "qwen": {
+          "rank": 38,
+          "score": 1.3737158
+        },
+        "bm25": {
+          "rank": 36,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140581-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1058,calle ruiseñor, 1058,calle cervantes, 1058,c/41 camino sin nombre, 1058,ronda del fresno, 1058,c/13 calle sin nombre, 1058,c/8 calle sin nombre, 1058,calle herrero, 1058,calle poeta federico garcia lorca, 1058,calle chacarrao, 1058,c/7 camino sin nombre, 1058,calle andalucia, 1058,calle prolongacion de cortijuelos, 1058,calle canalejas, 1058,camino de los morales, 1058,calle conde de las cruces, 1058,calle jesus obrero, 1058,calle san bartolome, 1058,c/6 calle sin nombre, 1058,calle abel anton, 1058,calle ubada,\nidclienteeprinsa 1058 1058 1058 1058 1058 1058 1058 1058 1058 1058 1058 1058 1058 1058 1058 1058 1058 1058 1058 1058 nombre calle ruiseñor calle cervantes c/41 camino sin nombre ronda del fresno c/13 calle sin nombre c/8 calle sin nombre calle herrero calle poeta federico garcia lorca calle chacarrao c/7 camino sin nombre calle andalucia calle prolongacion de cortijuelos calle canalejas camino de los morales calle conde de las cruces calle jesus obrero calle san bartolome c/6 calle sin nombre calle abel anton calle ubada numeración",
+      "metadato_fileName": "meta_ff3ea18a0e900b1912f7b407d454da1ccca38e19.json",
+      "resource_fileName": "b495620781f04b17d141ad4c22e5f40f74282aec.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 47,
+          "score": 1.36679227
+        },
+        "bm25": {
+          "rank": 37,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140095-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1009,calle santa maria, 1009,calle echegaray, 1009,plaza iglesia de la anunciacion , 1009,calle nueva, 1009,calle san gregorio, 1009,calle negrillos, 1009,calle andalucia, 1009,calle san antonio, 1009,calle doña rama, 1009,c/10 calle sin nombre, 1009,calle hoyancones, 1009,calle velazquez, 1009,calle jose alcantara, 1009,calle vinculo, 1009,avenida de la consitucion, 1009,calle lagares, 1009,calle rey ramiro, 1009,calle cruz de la carrera, 1009,calle cuesta del paseo, 1009,calle pozonuevo,\nidclienteeprinsa 1009 1009 1009 1009 1009 1009 1009 1009 1009 1009 1009 1009 1009 1009 1009 1009 1009 1009 1009 1009 nombre calle santa maria calle echegaray plaza iglesia de la anunciacion calle nueva calle san gregorio calle negrillos calle andalucia calle san antonio calle doña rama c/10 calle sin nombre calle hoyancones calle velazquez calle jose alcantara calle vinculo avenida de la consitucion calle lagares calle rey ramiro calle cruz de la carrera calle cuesta del paseo calle pozonuevo numeración",
+      "metadato_fileName": "meta_c5de608a1400ea0be296abd8bac996ca06cf4b14.json",
+      "resource_fileName": "ab7c1ca6a63927d20c1465d2c17af7ede614a085.csv",
+      "retrieval": {
+        "qwen": {
+          "rank": 32,
+          "score": 1.37385675
+        },
+        "bm25": {
+          "rank": 38,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140253-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1025,calle barriada del cerro, 1025,camino de montemayoe a espejo, 1025,c/53 camino sin pavimentar, 1025,paseo de andalucia, 1025,calle moral, 1025,calle de espejo cordoba, 1025,callejon de la molina, 1025,calle castro del rio, 1025,calleja chorro, 1025,c/2 calle sin nombre, 1025,carretera co-4204, 1025,calle de la harina, 1025,calle sol, 1025,calle trasera de las piqueras, 1025,carretera co-4203, 1025,calle carril alto, 1025,calle cordoba, 1025,c/14 calle sin nombre, 1025,camino de la albufera, 1025,callejon de la fuente,\nidclienteeprinsa 1025 1025 1025 1025 1025 1025 1025 1025 1025 1025 1025 1025 1025 1025 1025 1025 1025 1025 1025 1025 nombre calle barriada del cerro camino de montemayoe a espejo c/53 camino sin pavimentar paseo de andalucia calle moral calle de espejo cordoba callejon de la molina calle castro del rio calleja chorro c/2 calle sin nombre carretera co-4204 calle de la harina calle sol calle trasera de las piqueras carretera co-4203 calle carril alto calle cordoba c/14 calle sin nombre camino de la albufera callejon de la fuente numeración",
+      "metadato_fileName": "meta_e46802008796bc724860d2236da8ff33a1190ec3.json",
+      "resource_fileName": "db494f08cd7120daa9b5f8b1fa78832aef30af1a.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 49,
+          "score": 1.3665209
+        },
+        "bm25": {
+          "rank": 39,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140142-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1014,c/15 calle sin nombre, 1014,calle ronda del convento, 1014,c/16 calle sin nombre, 1014,calle martires, 1014,calle plaza, 1014,calle julio romero, 1014,calle los alamillos, 1014,calle capellanias, 1014,calle reyes catolicos, 1014,calle doctor marañon, 1014,calle antonio machado, 1014,plaza de la paz, 1014,calle arco, 1014,carretera a-3127, 1014,calle maria pineda, 1014,calle velazquez, 1014,c/2 camino sin pavimentar, 1014,calle pozo viñas, 1014,calle madre de dios, 1014,calle molino,\nidclienteeprinsa 1014 1014 1014 1014 1014 1014 1014 1014 1014 1014 1014 1014 1014 1014 1014 1014 1014 1014 1014 1014 nombre c/15 calle sin nombre calle ronda del convento c/16 calle sin nombre calle martires calle plaza calle julio romero calle los alamillos calle capellanias calle reyes catolicos calle doctor marañon calle antonio machado plaza de la paz calle arco carretera a-3127 calle maria pineda calle velazquez c/2 camino sin pavimentar calle pozo viñas calle madre de dios calle molino numeración",
+      "metadato_fileName": "meta_40620948c77b5276eaa80072b0a4f36d18776ac0.json",
+      "resource_fileName": "64eb33935e71fcd9a18f2677b8ed8508872fc423.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 21,
+          "score": 1.36719085
+        },
+        "qwen": {
+          "rank": 17,
+          "score": 1.3766042
+        },
+        "bm25": {
+          "rank": 40,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140018-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1001,calle rosalia de castro, 1001,calle san anton, 1001,calle del madroño, 1001,calle del castaño, 1001,carretera a villafranca, 1001,calle fray albino, 1001,calle de la palma, 1001,calle juan vacas, 1001,plaza constitucion, 1001,calle san isidro, 1001,calle rivera guadalquivir, 1001,calle yerbabuena, 1001,calle de la fuente, 1001,calle antonio machado, 1001,c/4 calle sin nombre, 1001,calle del horno, 1001,calle paseo de la tremesina, 1001,calle de la soledad, 1001,calle avicena, 1001,calle mariana pineda,\nidclienteeprinsa 1001 1001 1001 1001 1001 1001 1001 1001 1001 1001 1001 1001 1001 1001 1001 1001 1001 1001 1001 1001 nombre calle rosalia de castro calle san anton calle del madroño calle del castaño carretera a villafranca calle fray albino calle de la palma calle juan vacas plaza constitucion calle san isidro calle rivera guadalquivir calle yerbabuena calle de la fuente calle antonio machado c/4 calle sin nombre calle del horno calle paseo de la tremesina calle de la soledad calle avicena calle mariana pineda numeración",
+      "metadato_fileName": "meta_7899f2227f36af494748df52453eb2acecbe8b61.json",
+      "resource_fileName": "fc062e743af7d4f048e8622816b7dd5a8219c6fe.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 18,
+          "score": 1.36720025
+        },
+        "qwen": {
+          "rank": 24,
+          "score": 1.3751644
+        },
+        "bm25": {
+          "rank": 41,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140403-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1040,calle el fontanar, 1040,calle madre de dios, 1040,parcelacion huerta dios 2, 1040,plaza calle las viñas, 1040,calle pedro garfias, 1040,calle gloria fuertes, 1040,calle san jose, 1040,calle agua, 1040,parcelacion huerta dios 5, 1040,parcelacion huerta dios 1, 1040,c/5 calle sin pavimentar, 1040,calle nueva, 1040,calle la paz, 1040,calle las viñas, 1040,calle empedrada, 1040,calle la vega, 1040,calle amargura, 1040,calle san sebastian de jesus, 1040,paraje huerta de marquitos, 1040,calle ancha,\nidclienteeprinsa 1040 1040 1040 1040 1040 1040 1040 1040 1040 1040 1040 1040 1040 1040 1040 1040 1040 1040 1040 1040 nombre calle el fontanar calle madre de dios parcelacion huerta dios 2 plaza calle las viñas calle pedro garfias calle gloria fuertes calle san jose calle agua parcelacion huerta dios 5 parcelacion huerta dios 1 c/5 calle sin pavimentar calle nueva calle la paz calle las viñas calle empedrada calle la vega calle amargura calle san sebastian de jesus paraje huerta de marquitos calle ancha numeración",
+      "metadato_fileName": "meta_8298e36c658cc33e723838596b4c92de6db027d5.json",
+      "resource_fileName": "32643ea08de29139ce05b354ca53d31378dcb0cf.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 41,
+          "score": 1.3668947999999999
+        },
+        "bm25": {
+          "rank": 42,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140594-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1059,calle enrique gastardi, 1059,calle la rambla, 1059,calle las viñas, 1059,calle barbero, 1059,callejon del cura, 1059,plaza del fuero, 1059,calle iglesia, 1059,c/8 calle sin nombre, 1059,calle caño, 1059,camino de fernan nuñez, 1059,calle carlos iii, 1059,c/6 calle sin nombre, 1059,calle paseo el carril, 1059,calle calero, 1059,calle teniente berni, 1059,c/5 calle sin nombre, 1059,calle pablo olavide, 1059,calle torreblanca, 1059,calle suerte del rey, 1059,calle 1,\nidclienteeprinsa 1059 1059 1059 1059 1059 1059 1059 1059 1059 1059 1059 1059 1059 1059 1059 1059 1059 1059 1059 1059 nombre calle enrique gastardi calle la rambla calle las viñas calle barbero callejon del cura plaza del fuero calle iglesia c/8 calle sin nombre calle caño camino de fernan nuñez calle carlos iii c/6 calle sin nombre calle paseo el carril calle calero calle teniente berni c/5 calle sin nombre calle pablo olavide calle torreblanca calle suerte del rey calle 1 numeración",
+      "metadato_fileName": "meta_896300a3722777192c0b32b731fe9af36ee7cbb1.json",
+      "resource_fileName": "23921f2bfacbec0a69b53b87da53bdf816541ca0.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 44,
+          "score": 1.36682629
+        },
+        "bm25": {
+          "rank": 43,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140752-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1075,carretera de la cueva, 1075,calle horno, 1075,calle barrera, 1075,calle tras las casas, 1075,camino del cementerio, 1075,calle pozo, 1075,calle hoya, 1075,calle pozo abajo, 1075,calle tercias, 1075,calle llana, 1075,calle parralejo, 1075,calle piedra mingolopez, 1075,calle nueva, 1075,calle mirador, 1075,calle mina, 1075,calle las cruces, 1075,c/2 calle sin nombre, 1075,calle fotógrafo josé jimenez poyato, 1075,plaza lopez del arbol, 1075,calle cerrillo,\nidclienteeprinsa 1075 1075 1075 1075 1075 1075 1075 1075 1075 1075 1075 1075 1075 1075 1075 1075 1075 1075 1075 1075 nombre carretera de la cueva calle horno calle barrera calle tras las casas camino del cementerio calle pozo calle hoya calle pozo abajo calle tercias calle llana calle parralejo calle piedra mingolopez calle nueva calle mirador calle mina calle las cruces c/2 calle sin nombre calle fotógrafo josé jimenez poyato plaza lopez del arbol calle cerrillo numeración",
+      "metadato_fileName": "meta_8d777e26d4982996a0c1222fdf213fcef94a1141.json",
+      "resource_fileName": "49da46061fa2ad01e76e1ceecc1df775cd00b7d7.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 25,
+          "score": 1.36708832
+        },
+        "qwen": {
+          "rank": 22,
+          "score": 1.375295
+        },
+        "bm25": {
+          "rank": 44,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140538-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1053,calle maestro musico rafael siles, 1053,calle julio romero de torres, 1053,avenida maria auxiliadora, 1053,calle jose aumente baena, 1053,plaza jaen benavides, 1053,calle ossio, 1053,calle de la libertad, 1053,calle del pintor pablo picasso, 1053,calle almeria, 1053,calle de los nogales, 1053,calle isaac albeniz, 1053,pasaje ciudad de rubi, 1053,avenida huerta piñero, 1053,plaza de la luna, 1053,calle poligono industrial, 1053,calle gran capitan, 1053,urbanizacion bella rosa, 1053,calle ronda oeste, 1053,calle felix rodriguez de la fuente, 1053,calle pablo neruda,\nidclienteeprinsa 1053 1053 1053 1053 1053 1053 1053 1053 1053 1053 1053 1053 1053 1053 1053 1053 1053 1053 1053 1053 nombre calle maestro musico rafael siles calle julio romero de torres avenida maria auxiliadora calle jose aumente baena plaza jaen benavides calle ossio calle de la libertad calle del pintor pablo picasso calle almeria calle de los nogales calle isaac albeniz pasaje ciudad de rubi avenida huerta piñero plaza de la luna calle poligono industrial calle gran capitan urbanizacion bella rosa calle ronda oeste calle felix rodriguez de la fuente calle pablo neruda numeración",
+      "metadato_fileName": "meta_cd0216e51dac02b3b914c735b582e82aafcb8a2a.json",
+      "resource_fileName": "b92a9ce6968ffe48b4a86f8a0553582e3fe6c445.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 45,
+          "score": 1.36682629
+        },
+        "bm25": {
+          "rank": 45,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140229-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1022,calle las moreras, 1022,c/15 calle sin nombre, 1022,calle higueras, 1022,calle martin luther king, 1022,travesia pepita jimenez, 1022,calle la plata, 1022,calle el jardinito, 1022,c/18 calle sin nombre, 1022,calle carril, 1022,calle juan xxiii, 1022,calle cervantes, 1022,calle lucano, 1022,calle era de los frailes, 1022,calle doctor ortiz gan, 1022,calle historiador padre cantero, 1022,c/18 camino sin nombre, 1022,calle junco, 1022,calle c, 1022,calle alto de los olivares, 1022,calle antonio machado,\nidclienteeprinsa 1022 1022 1022 1022 1022 1022 1022 1022 1022 1022 1022 1022 1022 1022 1022 1022 1022 1022 1022 1022 nombre calle las moreras c/15 calle sin nombre calle higueras calle martin luther king travesia pepita jimenez calle la plata calle el jardinito c/18 calle sin nombre calle carril calle juan xxiii calle cervantes calle lucano calle era de los frailes calle doctor ortiz gan calle historiador padre cantero c/18 camino sin nombre calle junco calle c calle alto de los olivares calle antonio machado numeración",
+      "metadato_fileName": "meta_dec86108ae973fbdf21f6f2bae9d55f6d6ed063a.json",
+      "resource_fileName": "c4f61522dc9298420c42635def69ca329c2312ab.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 17,
+          "score": 1.3672707100000001
+        },
+        "qwen": {
+          "rank": 6,
+          "score": 1.37714655
+        },
+        "bm25": {
+          "rank": 46,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140522-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1052,calle doctor fleming, 1052,calle joaquin cuadrado, 1052,carretera del silo, 1052,calle malaga, 1052,calle isaac peral , 1052,calle parras, 1052,calle industria, 1052,c/31 calle sin nombre, 1052,c/57 calle sin nombre, 1052,calle sagasta, 1052,c/88 calle sin nombre, 1052,c/21 calle sin nombre, 1052,calle gran capitan , 1052,plaza de andalucia, 1052,calle lepanto, 1052,c/46 calle sin pavimentar, 1052,c/8 calle sin nombre, 1052,calle campo reseco, 1052,c/44 calle sin nombre, 1052,calle pablo gal ,\nidclienteeprinsa 1052 1052 1052 1052 1052 1052 1052 1052 1052 1052 1052 1052 1052 1052 1052 1052 1052 1052 1052 1052 nombre calle doctor fleming calle joaquin cuadrado carretera del silo calle malaga calle isaac peral calle parras calle industria c/31 calle sin nombre c/57 calle sin nombre calle sagasta c/88 calle sin nombre c/21 calle sin nombre calle gran capitan plaza de andalucia calle lepanto c/46 calle sin pavimentar c/8 calle sin nombre calle campo reseco c/44 calle sin nombre calle pablo gal numeración",
+      "metadato_fileName": "meta_f7ffcdb34db8be7dbb1ea49334d0643a75565773.json",
+      "resource_fileName": "685a6ccaa7710fe16ebef9ffb099d035ffd5ed92.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 10,
+          "score": 1.36733687
+        },
+        "qwen": {
+          "rank": 39,
+          "score": 1.3737158
+        },
+        "bm25": {
+          "rank": 47,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140446-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1044,calle santo cristo, 1044,calle nueva, 1044,c/6 calle sin nombre, 1044,camino de écija o de metedores, 1044,calle de rafael de lara, 1044,calle miguel angel blanco, 1044,calle aguilar, 1044,c/22 calle sin pavimentar, 1044,calle padre manjon, 1044,c/27 camino sin pavimentar, 1044,c/19 calle sin pavimentar, 1044,calle san mateo, 1044,carretera co-5208 de monturque a moriles, 1044,calle peñuelas, 1044,calle baldomero bartolessi marquez, 1044,carretera a doña mencia, 1044,c/30 calle sin pavimentar, 1044,calle seneca, 1044,c/21 calle sin pavimentar, 1044,c/23 calle sin pavimentar,\nidclienteeprinsa 1044 1044 1044 1044 1044 1044 1044 1044 1044 1044 1044 1044 1044 1044 1044 1044 1044 1044 1044 1044 nombre calle santo cristo calle nueva c/6 calle sin nombre camino de écija o de metedores calle de rafael de lara calle miguel angel blanco calle aguilar c/22 calle sin pavimentar calle padre manjon c/27 camino sin pavimentar c/19 calle sin pavimentar calle san mateo carretera co-5208 de monturque a moriles calle peñuelas calle baldomero bartolessi marquez carretera a doña mencia c/30 calle sin pavimentar calle seneca c/21 calle sin pavimentar c/23 calle sin pavimentar numeración",
+      "metadato_fileName": "meta_9556c1c4e4f99a18cf87f782b305ea018c6f549f.json",
+      "resource_fileName": "6ebcc2dc2f40c3b4f45de78364b52cac87565f67.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 48,
+          "score": 1.36679227
+        },
+        "bm25": {
+          "rank": 48,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140517-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1051,calle dos de mayo, 1051,calle lope de vega, 1051,calle el cirio, 1051,carretera provincial cp-225, 1051,calle el guijo, 1051,calle escalinata de la constitucion, 1051,calle de la costurera, 1051,carretera a el guijo, 1051,calle sin nombre c/25, 1051,calle concejo, 1051,calle arzobispo moya, 1051,calle virrey moya contreras, 1051,calle sin nombre c/7, 1051,calle hernan ruiz, 1051,calle carretera a dos torres co-225, 1051,calle sin nombre c/12, 1051,c/6 calle sin pavimentar, 1051,c/4 calle sin nombre, 1051,c/33 calle sin nobre, 1051,calle monjas,\nidclienteeprinsa 1051 1051 1051 1051 1051 1051 1051 1051 1051 1051 1051 1051 1051 1051 1051 1051 1051 1051 1051 1051 nombre calle dos de mayo calle lope de vega calle el cirio carretera provincial cp-225 calle el guijo calle escalinata de la constitucion calle de la costurera carretera a el guijo calle sin nombre c/25 calle concejo calle arzobispo moya calle virrey moya contreras calle sin nombre c/7 calle hernan ruiz calle carretera a dos torres co-225 calle sin nombre c/12 c/6 calle sin pavimentar c/4 calle sin nombre c/33 calle sin nobre calle monjas numeración",
+      "metadato_fileName": "meta_432c6cb1f07470f66440651bc41577bf1a27d1dd.json",
+      "resource_fileName": "0ced0c8037c8add39f20fe74d87b4e7c3b74ec0d.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 34,
+          "score": 1.36703935
+        },
+        "qwen": {
+          "rank": 29,
+          "score": 1.3746324
+        },
+        "bm25": {
+          "rank": 49,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140039-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1003,c/7 camino sin pavimentar, 1003,calle alferez fernandez perez, 1003,calle cordoba, 1003,camino villanueva del duque, 1003,calle nueva, 1003,c/5 calle sin pavimentar, 1003,calle reina sofia, 1003,calle cumbre, 1003,c/4 calle sin nombre, 1003,travesia alferez fernandez, 1003,calle velazquez, 1003,calle capitan ferrer morales, 1003,callejon calvo sotelo, 1003,calle de german santos, 1003,jardin a calle murillo, 1003,callejon hospital, 1003,plaza de los pedroches, 1003,c/6 camino sin pavimentar, 1003,camino de las eras, 1003,calle antonio lopez ,\nidclienteeprinsa 1003 1003 1003 1003 1003 1003 1003 1003 1003 1003 1003 1003 1003 1003 1003 1003 1003 1003 1003 1003 nombre c/7 camino sin pavimentar calle alferez fernandez perez calle cordoba camino villanueva del duque calle nueva c/5 calle sin pavimentar calle reina sofia calle cumbre c/4 calle sin nombre travesia alferez fernandez calle velazquez calle capitan ferrer morales callejon calvo sotelo calle de german santos jardin a calle murillo callejon hospital plaza de los pedroches c/6 camino sin pavimentar camino de las eras calle antonio lopez numeración",
+      "metadato_fileName": "meta_00eeb82dfe929a57ef356438e9619e312f563004.json",
+      "resource_fileName": "5a3e6f77afec61de64dc115acd881655f8be256f.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 14,
+          "score": 1.367314
+        },
+        "qwen": {
+          "rank": 25,
+          "score": 1.3750423500000002
+        },
+        "bm25": {
+          "rank": 50,
+          "score": 36.552647
+        }
+      }
+    },
+    {
+      "id": "l01140667-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1066,c/5 camino sin nombre, 1066,c/28 calle sin nombre, 1066,c/31 calle sin nombre, 1066,calle hierro, 1066,calle viñas, 1066,c/2 camino sin pavimentar, 1066,calle horabuena, 1066,c/8 camino sin pavimentar, 1066,calle el naranjo, 1066,calle juana lino, 1066,calle madrid, 1066,c/1 camino sin pavimentar, 1066,c/15 camino sin pavimentar, 1066,calle alta, 1066,calle molinos, 1066,calle san roque, 1066,calle fuentes de andalucia, 1066,plaza calle juan ramon jimenez, 1066,calle ribera, 1066,calle mariana pineda,\nidclienteeprinsa 1066 1066 1066 1066 1066 1066 1066 1066 1066 1066 1066 1066 1066 1066 1066 1066 1066 1066 1066 1066 nombre c/5 camino sin nombre c/28 calle sin nombre c/31 calle sin nombre calle hierro calle viñas c/2 camino sin pavimentar calle horabuena c/8 camino sin pavimentar calle el naranjo calle juana lino calle madrid c/1 camino sin pavimentar c/15 camino sin pavimentar calle alta calle molinos calle san roque calle fuentes de andalucia plaza calle juan ramon jimenez calle ribera calle mariana pineda numeración",
+      "metadato_fileName": "meta_1cf70a095fa0cfcdcd294724e81cdbf4930b91bc.json",
+      "resource_fileName": "bb08572819591bb1313103b74a56053a9b470764.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 31,
+          "score": 1.36706544
+        }
+      }
+    },
+    {
+      "id": "l01140569-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1056,calle sin nombre 24, 1056,calle del horno, 1056,camino sin nombre 1, 1056,calle los pinos, 1056,calle sin nombre 5, 1056,calle ingeniero guillermo ortiz, 1056,carretera de puente genil a el palomar, 1056,calle de parejo y cañero, 1056,calle de miralrio, 1056,calle de pablo picasso, 1056,avd. de la estacion, 1056,calle majuela, 1056,calle de san luis, 1056,c 7, 1056,calle ceuta, 1056,callejon alto, 1056,camno sin nombre 5, 1056,calle montalban, 1056,calle ronda oeste, 1056,calle de daoiz y velarde,\nidclienteeprinsa 1056 1056 1056 1056 1056 1056 1056 1056 1056 1056 1056 1056 1056 1056 1056 1056 1056 1056 1056 1056 nombre calle sin nombre 24 calle del horno camino sin nombre 1 calle los pinos calle sin nombre 5 calle ingeniero guillermo ortiz carretera de puente genil a el palomar calle de parejo y cañero calle de miralrio calle de pablo picasso avd. de la estacion calle majuela calle de san luis c 7 calle ceuta callejon alto camno sin nombre 5 calle montalban calle ronda oeste calle de daoiz y velarde numeración",
+      "metadato_fileName": "meta_28998eb462a8fe113c7b1001d1021618b025e6b4.json",
+      "resource_fileName": "bc3a8299957a521c17dba62a318ff66c95954866.csv",
+      "retrieval": {
+        "qwen": {
+          "rank": 45,
+          "score": 1.3734798000000001
+        }
+      }
+    },
+    {
+      "id": "l01140706-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1070,plaza duque de bejar, 1070,calle comandante manuel mora figueroa, 1070,calle rogelio fernandez, 1070,calle toledo, 1070,calle reyes catolicos, 1070,calle luna, 1070,camino de la fuente, 1070,calle martires, 1070,calle san mateo, 1070,calle cristo dela piedad, 1070,calle portugal, 1070,plaza de los heroes, 1070,c/9 calle sin nombre, 1070,calle cristo de la piedad, 1070,avenida de america, 1070,plaza de la iglesia, 1070,carretera comarcal 420, 1070,ronda de los pedroches, 1070,callejon sin nombre, 1070,calle miguel angel blanco garrido,\nidclienteeprinsa 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 nombre plaza duque de bejar calle comandante manuel mora figueroa calle rogelio fernandez calle toledo calle reyes catolicos calle luna camino de la fuente calle martires calle san mateo calle cristo dela piedad calle portugal plaza de los heroes c/9 calle sin nombre calle cristo de la piedad avenida de america plaza de la iglesia carretera comarcal 420 ronda de los pedroches callejon sin nombre calle miguel angel blanco garrido numeración",
+      "metadato_fileName": "meta_47647dfc6c72cdb4cc6807f3f4a3c00f80e7e2b1.json",
+      "resource_fileName": "bbd5d250f8d003c385d39a0faab505fe930168b0.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 3,
+          "score": 1.36764087
+        }
+      }
+    },
+    {
+      "id": "l01140180-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1018,calle revueltas, 1018,plaza fray luis cabello, 1018,calle ramon y cajal, 1018,calle jaen, 1018,calle andres lora lopez, 1018,calle rigoberta menchu, 1018,calle venus, 1018,calle del olivo, 1018,calle carretera co-203, 1018,calle el naranjo, 1018,calle del peral, 1018,avenida mariana pineda, 1018,calle garcia lorca, 1018,calle cantarero, 1018,calle jupiter, 1018,calle el rio, 1018,calle ronda este, 1018,calle huelva, 1018,calle luis galvez lopez-cozar, 1018,calle pablo picasso,\nidclienteeprinsa 1018 1018 1018 1018 1018 1018 1018 1018 1018 1018 1018 1018 1018 1018 1018 1018 1018 1018 1018 1018 nombre calle revueltas plaza fray luis cabello calle ramon y cajal calle jaen calle andres lora lopez calle rigoberta menchu calle venus calle del olivo calle carretera co-203 calle el naranjo calle del peral avenida mariana pineda calle garcia lorca calle cantarero calle jupiter calle el rio calle ronda este calle huelva calle luis galvez lopez-cozar calle pablo picasso numeración",
+      "metadato_fileName": "meta_6658971642a734bf3058be1432872d13c97e3348.json",
+      "resource_fileName": "2ed5948cf4b23397bc69c10552393230a2768b42.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 32,
+          "score": 1.36706544
+        }
+      }
+    },
+    {
+      "id": "l01140425-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1042,calle avenida de malaga, 1042,calle venencia, 1042,calle gabriel celaya, 1042,calle asuncion de alvear, 1042,calle sin nombre 14 ppi1, 1042,calle escuelas, 1042,plaza dolores ibarruri {pasionaria}, 1042,calle sin nombre, 1042,avenida pio xii, 1042,calle arrumbadores, 1042,calle teresa casas, 1042,calle iglesia, 1042,calle sin nombre 11 ppi1, 1042,calle bodega, 1042,calle trujal, 1042,calle la pradera, 1042,calle puerta del sol, 1042,calle herradores, 1042,calle santa teresa j. jornet, 1042,avenida santa maria,\nidclienteeprinsa 1042 1042 1042 1042 1042 1042 1042 1042 1042 1042 1042 1042 1042 1042 1042 1042 1042 1042 1042 1042 nombre calle avenida de malaga calle venencia calle gabriel celaya calle asuncion de alvear calle sin nombre 14 ppi1 calle escuelas plaza dolores ibarruri {pasionaria} calle sin nombre avenida pio xii calle arrumbadores calle teresa casas calle iglesia calle sin nombre 11 ppi1 calle bodega calle trujal calle la pradera calle puerta del sol calle herradores calle santa teresa j. jornet avenida santa maria numeración",
+      "metadato_fileName": "meta_8a508ce216d872557577d2c910b9caaec5d97a00.json",
+      "resource_fileName": "62eaf8202235cfc5a52ce2cfef7121a20df5b915.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 11,
+          "score": 1.36733687
+        },
+        "qwen": {
+          "rank": 40,
+          "score": 1.3737158
+        }
+      }
+    },
+    {
+      "id": "l01140291-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1029,callejon san isidro, 1029,callejon santa clara, 1029,calle cordoba, 1029,c/7 camino sin nombre, 1029,calle del duque, 1029,calle cuesta robas, 1029,trasera calle la ermita, 1029,calle san luis, 1029,calle de la cruz, 1029,c/26 calle sin nombre, 1029,calle juan carlos i, 1029,calle rincones, 1029,calle maria cristina, 1029,avenida de andalucia, 1029,plaza de san juan, 1029,calle tejera, 1029,callejon camino los altos, 1029,c/9 calle sin nombre, 1029,calle san francisco, 1029,callejon de la luna,\nidclienteeprinsa 1029 1029 1029 1029 1029 1029 1029 1029 1029 1029 1029 1029 1029 1029 1029 1029 1029 1029 1029 1029 nombre callejon san isidro callejon santa clara calle cordoba c/7 camino sin nombre calle del duque calle cuesta robas trasera calle la ermita calle san luis calle de la cruz c/26 calle sin nombre calle juan carlos i calle rincones calle maria cristina avenida de andalucia plaza de san juan calle tejera callejon camino los altos c/9 calle sin nombre calle san francisco callejon de la luna numeración",
+      "metadato_fileName": "meta_aeb3e0143c16cfe3cb929fd96f896b9aae023a7f.json",
+      "resource_fileName": "134939b4a3ce4a843d104dacff088775020d5125.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 15,
+          "score": 1.3672879
+        }
+      }
+    },
+    {
+      "id": "l01140497-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1049,calle gracia, 1049,calle beato juan de avila, 1049,travesia julio pintor, 1049,c/15 calle sin nombre, 1049,calle el pozo, 1049,calle mayor, 1049,c/14 calle sin nombre, 1049,calle maria blanchara, 1049,avenida de vazquez diaz, 1049,c/35 calle sin nombre, 1049,calle de pedro bueno, 1049,calle uruguay, 1049,c/11 calle sin nombre, 1049,calle juan miro, 1049,c/27 calle sin nombre, 1049,calle coronada, 1049,gran via de aurelio cornelio palma, 1049,calle segunda, 1049,calle virgen de fatima, 1049,calle juan gris,\nidclienteeprinsa 1049 1049 1049 1049 1049 1049 1049 1049 1049 1049 1049 1049 1049 1049 1049 1049 1049 1049 1049 1049 nombre calle gracia calle beato juan de avila travesia julio pintor c/15 calle sin nombre calle el pozo calle mayor c/14 calle sin nombre calle maria blanchara avenida de vazquez diaz c/35 calle sin nombre calle de pedro bueno calle uruguay c/11 calle sin nombre calle juan miro c/27 calle sin nombre calle coronada gran via de aurelio cornelio palma calle segunda calle virgen de fatima calle juan gris numeración",
+      "metadato_fileName": "meta_67b34a00dd7536236dad6b83463518ff8ed568fc.json",
+      "resource_fileName": "205176273bfeb4b537c54cb8e3754472eaa369d0.csv",
+      "retrieval": {
+        "qwen": {
+          "rank": 43,
+          "score": 1.37365994
+        }
+      }
+    },
+    {
+      "id": "l01140728-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1072,c/12 calle sin pavimentar, 1072,calle donanrtes de sangre, 1072,plaza bartolome peralbo, 1072,calle pastores, 1072,calle carmelo, 1072,calle alta, 1072,calle capitan rico, 1072,calle iglesia, 1072,calle huertas, 1072,calle cervantes, 1072,calle san pedro, 1072,travesia herradores, 1072,calle jardines, 1072,camino de las carreteras, 1072,travesia avenida de andalucia, 1072,calle flor, 1072,calle colectivo cultural ¨ el jardal´´, 1072,paseo de la constitucion, 1072,calle rosales, 1072,calle tejar,\nidclienteeprinsa 1072 1072 1072 1072 1072 1072 1072 1072 1072 1072 1072 1072 1072 1072 1072 1072 1072 1072 1072 1072 nombre c/12 calle sin pavimentar calle donanrtes de sangre plaza bartolome peralbo calle pastores calle carmelo calle alta calle capitan rico calle iglesia calle huertas calle cervantes calle san pedro travesia herradores calle jardines camino de las carreteras travesia avenida de andalucia calle flor calle colectivo cultural ¨ el jardal´´ paseo de la constitucion calle rosales calle tejar numeración",
+      "metadato_fileName": "meta_20c082b24b8bafb764909fc5fb0e7fbde04b44e9.json",
+      "resource_fileName": "cc80185138893aa5e3a3c6e0d2e0733b504a3c6e.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 6,
+          "score": 1.3674393999999999
+        },
+        "qwen": {
+          "rank": 26,
+          "score": 1.375025
+        }
+      }
+    },
+    {
+      "id": "l01140044-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1004,travesia ronda de andalucia, 1004,calle barranquillo a, 1004,calle barranquillo, 1004,calle sin nombre c/5, 1004,carretera de alcaudete y fte tojar, 1004,carretera cp-105, 1004,calle caicena, 1004,calle sin nombre c/15, 1004,carretera, 1004,calle iglesia, 1004,calle escuelas, 1004,calle plaza de abril, 1004,calle bermejales, 1004,carretera a sileras, 1004,calle 16, 1004,calle 9, 1004,calle costanillas de san juan, 1004,calle molinos, 1004,plaza nueva era, 1004,calle 10,\nidclienteeprinsa 1004 1004 1004 1004 1004 1004 1004 1004 1004 1004 1004 1004 1004 1004 1004 1004 1004 1004 1004 1004 nombre travesia ronda de andalucia calle barranquillo a calle barranquillo calle sin nombre c/5 carretera de alcaudete y fte tojar carretera cp-105 calle caicena calle sin nombre c/15 carretera calle iglesia calle escuelas calle plaza de abril calle bermejales carretera a sileras calle 16 calle 9 calle costanillas de san juan calle molinos plaza nueva era calle 10 numeración",
+      "metadato_fileName": "meta_37b1b959285f435d73ad81f9988edabc16625da4.json",
+      "resource_fileName": "5397e3d22a4ea3eaadef42ec73dff55d22755f9b.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 42,
+          "score": 1.3668604
+        }
+      }
+    },
+    {
+      "id": "l01140116-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1011, calle huertas, 1011,calle escambron, 1011,calle virgen del rosario, 1011,calle fuentes, 1011,calle clara campoamor, 1011,c10/ calle sin pavimentar, 1011,calle san antonio, 1011,calle travesia, 1011,calle lope de vega, 1011, calle luis de gongora, 1011,calle san juan, 1011,camino de las huertas, 1011,calle iglesia, 1011, calle martires, 1011,calle sevilla, 1011,calle tejares, 1011,avenida extremadura, 1011,carretera co-8404, 1011,calle carretera, 1011,calle rafael alberti,\nidclienteeprinsa 1011 1011 1011 1011 1011 1011 1011 1011 1011 1011 1011 1011 1011 1011 1011 1011 1011 1011 1011 1011 nombre calle huertas calle escambron calle virgen del rosario calle fuentes calle clara campoamor c10/ calle sin pavimentar calle san antonio calle travesia calle lope de vega calle luis de gongora calle san juan camino de las huertas calle iglesia calle martires calle sevilla calle tejares avenida extremadura carretera co-8404 calle carretera calle rafael alberti numeración",
+      "metadato_fileName": "meta_4767b0ca4e3299580e457d108ca7d2a9a25519e2.json",
+      "resource_fileName": "ceaf65665615535a3642cb83cba45bcc542972f2.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 22,
+          "score": 1.36719085
+        },
+        "qwen": {
+          "rank": 18,
+          "score": 1.3766042
+        }
+      }
+    },
+    {
+      "id": "l01140327-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1032,calle sevilla, 1032,calle pablo picasso, 1032,calle juan ramon jimenez, 1032,c/11 calle sin nombre, 1032,calle cordoba, 1032,c/7 calle sin nombre, 1032,calle antonio machado, 1032,calle calvario, 1032,calle maria amaro, 1032,calle gran capitan, 1032,calle seneca, 1032,c/1 calle sin nombre, 1032,calle felisa alamo, 1032,calle san roque, 1032,calle triana, 1032,calle julio romero de torres, 1032,calle malaga, 1032,calle ramon y cajal, 1032,calle ricardo delgado vizcaino, 1032,calle antonio camacho,\nidclienteeprinsa 1032 1032 1032 1032 1032 1032 1032 1032 1032 1032 1032 1032 1032 1032 1032 1032 1032 1032 1032 1032 nombre calle sevilla calle pablo picasso calle juan ramon jimenez c/11 calle sin nombre calle cordoba c/7 calle sin nombre calle antonio machado calle calvario calle maria amaro calle gran capitan calle seneca c/1 calle sin nombre calle felisa alamo calle san roque calle triana calle julio romero de torres calle malaga calle ramon y cajal calle ricardo delgado vizcaino calle antonio camacho numeración",
+      "metadato_fileName": "meta_679b0cfa2cdfb6ccdb8c68dccb798a945c58fdc1.json",
+      "resource_fileName": "754d2198811d3a12c944f024003431dba5629745.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 2,
+          "score": 1.3677434000000002
+        },
+        "qwen": {
+          "rank": 35,
+          "score": 1.37379175
+        }
+      }
+    },
+    {
+      "id": "l01140272-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1027,calle rodriguez de la fuente, 1027,calle maestro manolo, 1027,calle mateo inurria, 1027,calle luis braille, 1027,c/6 plaza sin nombre, 1027,calle jose zorrilla, 1027,calle de los arcos, 1027,calle jorge guillen, 1027,calle la feria, 1027,calle san jose, 1027,calle luisa vargas, 1027,calle abentojil, 1027,calle doctor marañon, 1027,calle camino, 1027,camino de la galdeposa-c, 1027,calle juan criado, 1027,calle ricardo lopez laguna, 1027,calle aben calez, 1027,calle miguel baena rodriguez, 1027,calle dolores ibarruri,\nidclienteeprinsa 1027 1027 1027 1027 1027 1027 1027 1027 1027 1027 1027 1027 1027 1027 1027 1027 1027 1027 1027 1027 nombre calle rodriguez de la fuente calle maestro manolo calle mateo inurria calle luis braille c/6 plaza sin nombre calle jose zorrilla calle de los arcos calle jorge guillen calle la feria calle san jose calle luisa vargas calle abentojil calle doctor marañon calle camino camino de la galdeposa-c calle juan criado calle ricardo lopez laguna calle aben calez calle miguel baena rodriguez calle dolores ibarruri numeración",
+      "metadato_fileName": "meta_73536531da09d623a997b6feec5a2906a5a65285.json",
+      "resource_fileName": "e768edf649b3a52a576c58a5ea1112a3d6015fbf.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 4,
+          "score": 1.367618
+        },
+        "qwen": {
+          "rank": 33,
+          "score": 1.3738091
+        }
+      }
+    },
+    {
+      "id": "l01140305-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1030,c/72 calle sin nombre, 1030,calle de huelva, 1030,c/51 calle sin pavimentar, 1030,calle particular molino del rey, 1030,calle velazquez, 1030,calle encina, 1030,calle camilo delgado, 1030,calle sevilla, 1030,calle antonio sanchez, 1030,calle palma, 1030,calle juan hens, 1030,calle almendros, 1030,calle sacerdote paco adame, 1030,calle camino de posadas a ecija, 1030,calle rafael alberti, 1030,calle maestra lolita guisado, 1030,calle poeta rafael adolfo tellez, 1030,calle de cabello de alba, 1030,plaza calle palma, 1030,calle antonio rodriguez quero,\nidclienteeprinsa 1030 1030 1030 1030 1030 1030 1030 1030 1030 1030 1030 1030 1030 1030 1030 1030 1030 1030 1030 1030 nombre c/72 calle sin nombre calle de huelva c/51 calle sin pavimentar calle particular molino del rey calle velazquez calle encina calle camilo delgado calle sevilla calle antonio sanchez calle palma calle juan hens calle almendros calle sacerdote paco adame calle camino de posadas a ecija calle rafael alberti calle maestra lolita guisado calle poeta rafael adolfo tellez calle de cabello de alba plaza calle palma calle antonio rodriguez quero numeración",
+      "metadato_fileName": "meta_7f45f52e477eeeeac120a7761557cd93d9f1234a.json",
+      "resource_fileName": "4574cab0c56dc4d6e5de9632b53ced4731663813.csv",
+      "retrieval": {
+        "qwen": {
+          "rank": 50,
+          "score": 1.3733062999999999
+        }
+      }
+    },
+    {
+      "id": "l01140288-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1028,calle del risquillo, 1028,calle andalucia, 1028,camino virgen de guia, 1028,calle maria auxiliadora, 1028,calle fuente vieja, 1028,calle de las viñas, 1028,calle fuente del tejar, 1028,calle villaralto, 1028,camino del molino, 1028,plaza de sotomayor y zuñiga, 1028,camino del calvario, 1028,calle del calvario, 1028,carretera a-422, 1028,calle blas infante, 1028,calle nueva, 1028,calle virgen del rosario, 1028,calle de la constitucion, 1028,calle santa catalina, 1028,calle virgen de guia, 1028,calle concordia,\nidclienteeprinsa 1028 1028 1028 1028 1028 1028 1028 1028 1028 1028 1028 1028 1028 1028 1028 1028 1028 1028 1028 1028 nombre calle del risquillo calle andalucia camino virgen de guia calle maria auxiliadora calle fuente vieja calle de las viñas calle fuente del tejar calle villaralto camino del molino plaza de sotomayor y zuñiga camino del calvario calle del calvario carretera a-422 calle blas infante calle nueva calle virgen del rosario calle de la constitucion calle santa catalina calle virgen de guia calle concordia numeración",
+      "metadato_fileName": "meta_b80bf55b24dc17fe65ff4ccbb7208828b40c382a.json",
+      "resource_fileName": "462e5aaaacde33d6a14f90a909ba03e4315ca6b1.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 12,
+          "score": 1.36733687
+        },
+        "qwen": {
+          "rank": 41,
+          "score": 1.3737158
+        }
+      }
+    },
+    {
+      "id": "l01140673-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1067,calle luis perez ponce, 1067,calle herrera, 1067,calle panel, 1067,calle lepanto, 1067,calle distribucion, 1067,calle g, 1067,calle plaza andalucia, 1067,calle hornillo, 1067,calle palomar, 1067,calle los julianes, 1067,calle el naranjo, 1067,calle a, 1067,c/19 calle sin nombre, 1067,calle d ua-1 huerta de san anton, 1067,calle cno. ayo. del palomar, 1067,calle federico garcia lorca, 1067,c/13 calle sin nombre, 1067,calle bujalance, 1067,calle montoro, 1067,calle jose ignacio muñoz,\nidclienteeprinsa 1067 1067 1067 1067 1067 1067 1067 1067 1067 1067 1067 1067 1067 1067 1067 1067 1067 1067 1067 1067 nombre calle luis perez ponce calle herrera calle panel calle lepanto calle distribucion calle g calle plaza andalucia calle hornillo calle palomar calle los julianes calle el naranjo calle a c/19 calle sin nombre calle d ua-1 huerta de san anton calle cno. ayo. del palomar calle federico garcia lorca c/13 calle sin nombre calle bujalance calle montoro calle jose ignacio muñoz numeración",
+      "metadato_fileName": "meta_c66ba7dd3e28e212fa4cacd33ee14e611e6ade86.json",
+      "resource_fileName": "e643dfb56ca11bf6c5789da133fd15408a2a5436.csv",
+      "retrieval": {
+        "qwen": {
+          "rank": 46,
+          "score": 1.3734798000000001
+        }
+      }
+    },
+    {
+      "id": "l01140654-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1065,calle melilla, 1065,calle de jesus y maria, 1065,calle velazquez, 1065,calle de infantas, 1065,calle murillo, 1065,c/3 calle sin nombre, 1065,avenida de la victoria, 1065,calle plaza de la constitucion, 1065,c/25 calle sin nombre, 1065,carretera de san sebastian, 1065,c/15 calle sin pavimentar, 1065,calle almiar, 1065,calle osio, 1065,calle paseo de la victoria, 1065,calle cervantes, 1065,calle felix rodriguez de la fuente, 1065,calle plaza de andalucia, 1065,c/20 calle sin nombre, 1065,calle cisneros, 1065,calle de seneca,\nidclienteeprinsa 1065 1065 1065 1065 1065 1065 1065 1065 1065 1065 1065 1065 1065 1065 1065 1065 1065 1065 1065 1065 nombre calle melilla calle de jesus y maria calle velazquez calle de infantas calle murillo c/3 calle sin nombre avenida de la victoria calle plaza de la constitucion c/25 calle sin nombre carretera de san sebastian c/15 calle sin pavimentar calle almiar calle osio calle paseo de la victoria calle cervantes calle felix rodriguez de la fuente calle plaza de andalucia c/20 calle sin nombre calle cisneros calle de seneca numeración",
+      "metadato_fileName": "meta_db331ed263d40a87f800e88b9043ad90c131a17b.json",
+      "resource_fileName": "e0bff467bbdd63e42c1deacac7ef621245738fd4.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 5,
+          "score": 1.3674943
+        },
+        "qwen": {
+          "rank": 5,
+          "score": 1.37836745
+        }
+      }
+    },
+    {
+      "id": "l01140636-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1063,c/15 calle calle sin nombre, 1063,calle quemada, 1063,c/19 calle sin nombre, 1063,calle cervantes, 1063,c/8 calle sin nombre, 1063,c/3 calle sin nombre, 1063,c/16 calle sin nombre 91, 1063,calle nueva, 1063,calle de las erillas, 1063,calle alta, 1063,calle g, 1063,avenida de andalucia, 1063,c/11 calle sin nombre, 1063,c/17 calle sin nombre, 1063,c/12 calle sin nombre, 1063,calle san pedro, 1063,calle caño, 1063,calle ancha, 1063,calle de la erillas, 1063,calle virgen de los dolores,\nidclienteeprinsa 1063 1063 1063 1063 1063 1063 1063 1063 1063 1063 1063 1063 1063 1063 1063 1063 1063 1063 1063 1063 nombre c/15 calle calle sin nombre calle quemada c/19 calle sin nombre calle cervantes c/8 calle sin nombre c/3 calle sin nombre c/16 calle sin nombre 91 calle nueva calle de las erillas calle alta calle g avenida de andalucia c/11 calle sin nombre c/17 calle sin nombre c/12 calle sin nombre calle san pedro calle caño calle ancha calle de la erillas calle virgen de los dolores numeración",
+      "metadato_fileName": "meta_dbc9c0b42a531f5e3b93bbf35e371588efd75196.json",
+      "resource_fileName": "c92a5b6b1fbfaf0fe77508e9d4eb78651cd84601.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 13,
+          "score": 1.36733687
+        },
+        "qwen": {
+          "rank": 42,
+          "score": 1.3737158
+        }
+      }
+    },
+    {
+      "id": "l01140431-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1043,c/37 calle sin nombre, 1043,c/12 calle sin nombre, 1043,c/9 calle sin pavimentar, 1043,calle cordoneros, 1043,calle rosario, 1043,calle catalina alanzabes, 1043,c/16 calle sin pavimentar, 1043,plaza calle general castaños, 1043,calle los duques, 1043,calle marin, 1043,avenida de la estacion, 1043,prolongacion juan mohedano canales, 1043,calle cerrillo, 1043,calle puente, 1043,calle 1 poligono ind el olmo, 1043,calle san francisco solano, 1043,calle santa ana, 1043,calle mota, 1043,calle juan criado baena, 1043,calle camino del jarron,\nidclienteeprinsa 1043 1043 1043 1043 1043 1043 1043 1043 1043 1043 1043 1043 1043 1043 1043 1043 1043 1043 1043 1043 nombre c/37 calle sin nombre c/12 calle sin nombre c/9 calle sin pavimentar calle cordoneros calle rosario calle catalina alanzabes c/16 calle sin pavimentar plaza calle general castaños calle los duques calle marin avenida de la estacion prolongacion juan mohedano canales calle cerrillo calle puente calle 1 poligono ind el olmo calle san francisco solano calle santa ana calle mota calle juan criado baena calle camino del jarron numeración",
+      "metadato_fileName": "meta_dd016e6213122d3e747b0029d7f99e76b3a6ae62.json",
+      "resource_fileName": "43668952e57bf1fc01dd224c549a1dc90da0cf35.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 46,
+          "score": 1.36682629
+        }
+      }
+    },
+    {
+      "id": "l01140109-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1010,calle jardines, 1010,calle jaen, 1010,calle jose rodriguez de la borbolla, 1010,c/5 calle sin nombre, 1010,calle alberto doncel, 1010,plaza de andalucia, 1010,calle doce de septiembre, 1010,calle francisco moya ojeda, 1010,calle rosario nieto del pino, 1010,calle de los fruteros, 1010,calle granada, 1010,calle de los mecánicos, 1010,calle miguel hernandez, 1010,calle recinto ferial, 1010,plaza de andres segovia, 1010,carretera de cordoba a malaga, 1010,calle rafael leiva, 1010,calle martinez victoria, 1010,calle cuesta de la venta, 1010,calle domingo aparicio,\nidclienteeprinsa 1010 1010 1010 1010 1010 1010 1010 1010 1010 1010 1010 1010 1010 1010 1010 1010 1010 1010 1010 1010 nombre calle jardines calle jaen calle jose rodriguez de la borbolla c/5 calle sin nombre calle alberto doncel plaza de andalucia calle doce de septiembre calle francisco moya ojeda calle rosario nieto del pino calle de los fruteros calle granada calle de los mecánicos calle miguel hernandez calle recinto ferial plaza de andres segovia carretera de cordoba a malaga calle rafael leiva calle martinez victoria calle cuesta de la venta calle domingo aparicio numeración",
+      "metadato_fileName": "meta_7c3d6ef06c3bbd7644523a8531c1a9a7008b4770.json",
+      "resource_fileName": "0d6132959775fd664cb3360d94deee40f606340f.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 38,
+          "score": 1.3669517
+        },
+        "qwen": {
+          "rank": 10,
+          "score": 1.3767436000000002
+        }
+      }
+    },
+    {
+      "id": "l01140023-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1002,calle el limon, 1002,calle alferez, 1002,calle bellavista, 1002,calle cueta de jesus, 1002,calle poligono industrial huerta zurera, 1002,c/11 calle sin nombre, 1002,calle cerrillo, 1002,calle rafael valle manu, 1002,calle molinos, 1002,plaza de san jose, 1002,calle curva de san jose, 1002,calle eras, 1002,calle camino de la hormigosa, 1002,camino de los albarizos, 1002,calle martinete, 1002,camino del pozo, 1002,calle el paraje, 1002,calle cuadrillas g, 1002,calle miguel de cervantes, 1002,avenida de cordoba,\nidclienteeprinsa 1002 1002 1002 1002 1002 1002 1002 1002 1002 1002 1002 1002 1002 1002 1002 1002 1002 1002 1002 1002 nombre calle el limon calle alferez calle bellavista calle cueta de jesus calle poligono industrial huerta zurera c/11 calle sin nombre calle cerrillo calle rafael valle manu calle molinos plaza de san jose calle curva de san jose calle eras calle camino de la hormigosa camino de los albarizos calle martinete camino del pozo calle el paraje calle cuadrillas g calle miguel de cervantes avenida de cordoba numeración",
+      "metadato_fileName": "meta_11b39715f10fbb2983d0d68785f84ccb86e6a71e.json",
+      "resource_fileName": "952c92186cc47a3ef866a6cc66503a9ad3348c4b.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 30,
+          "score": 1.36706545
+        },
+        "qwen": {
+          "rank": 14,
+          "score": 1.37662155
+        }
+      }
+    },
+    {
+      "id": "l01140333-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1033,calle manuel diaz hidalgo, 1033,calle huerta honda, 1033,c/9 calle sin nombre, 1033,calle san jose, 1033,calle la liebre, 1033,calle escultor sebastian rodriguez, 1033,calle pilares, 1033,calle clara campoamor, 1033,calle obispo andres fernandez, 1033,calle herreria, 1033,calle martin de roa, 1033,calle silera, 1033,calle redonda molino de viento, 1033,calle diego de velazquez, 1033,carretera co-3304, 1033,plaza calle fernando revuelta, 1033,calle eduardo cadenas, 1033,calle felix rodriguez de la fuente, 1033,calle la perdiz, 1033,calle lope gutierrez de cordoba,\nidclienteeprinsa 1033 1033 1033 1033 1033 1033 1033 1033 1033 1033 1033 1033 1033 1033 1033 1033 1033 1033 1033 1033 nombre calle manuel diaz hidalgo calle huerta honda c/9 calle sin nombre calle san jose calle la liebre calle escultor sebastian rodriguez calle pilares calle clara campoamor calle obispo andres fernandez calle herreria calle martin de roa calle silera calle redonda molino de viento calle diego de velazquez carretera co-3304 plaza calle fernando revuelta calle eduardo cadenas calle felix rodriguez de la fuente calle la perdiz calle lope gutierrez de cordoba numeración",
+      "metadato_fileName": "meta_a8ff4334bbc0d2cc31d7b706b766e0f70cf2b748.json",
+      "resource_fileName": "4eb3a8356f38576c0cae55101560234268935f73.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 26,
+          "score": 1.36708832
+        },
+        "qwen": {
+          "rank": 23,
+          "score": 1.375295
+        }
+      }
+    },
+    {
+      "id": "l01140556-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1055,calle luis rosales, 1055,calle victoria kent, 1055,calle fatima, 1055,paraje el castellar, 1055,calle cava, 1055,calle manantial, 1055,calle antonio ruiz, 1055,calle nueva, 1055,calle rihuelo, 1055,plaza del carmen, 1055,calle bailajarros, 1055,calle jazmines, 1055,calle azahar, 1055,calle enmedio huerta palacio, 1055,calle almozara, 1055,calle lucena, 1055,plaza de andalucia, 1055,camino del cañueloy vado de priego en el rio caicena, 1055,calle subida, 1055,calle albaicin,\nidclienteeprinsa 1055 1055 1055 1055 1055 1055 1055 1055 1055 1055 1055 1055 1055 1055 1055 1055 1055 1055 1055 1055 nombre calle luis rosales calle victoria kent calle fatima paraje el castellar calle cava calle manantial calle antonio ruiz calle nueva calle rihuelo plaza del carmen calle bailajarros calle jazmines calle azahar calle enmedio huerta palacio calle almozara calle lucena plaza de andalucia camino del cañueloy vado de priego en el rio caicena calle subida calle albaicin numeración",
+      "metadato_fileName": "meta_0908a09dbe0029eaf3a1802f9b4069a4ab08397a.json",
+      "resource_fileName": "e18c18493dfd33c3a9363ac61eccf7748078b3c6.csv",
+      "retrieval": {
+        "qwen": {
+          "rank": 31,
+          "score": 1.3739788000000002
+        }
+      }
+    },
+    {
+      "id": "l01140174-callejero1",
+      "title": "Callejero",
+      "description": "Callejero oficial del municipio que debe contener información sobre viales y numeración",
+      "header": "idclienteeprinsa nombre numeración",
+      "content": "1017,c/10 calle sin nombre, 1017,calle del aire, 1017,calle camino juan blanco, 1017,calle bloque malaga, 1017,calle granada, 1017,calle almeria , 1017,c/32 calle sin pavimentar, 1017,c/65 calle sin nombre, 1017,avenida san fernando, 1017,c/66 calle sin nombre, 1017,c/31 calle sin pavimentar, 1017,calle batalla de lepanto, 1017,calle de la ciencia, 1017,calle la marinera, 1017,calle la rivera, 1017,c/14 calle sin pavimentar, 1017,calle primero de mayo, 1017,c/36 calle sin nombre, 1017,calle san sebastian ballesteros, 1017,avenida de las dueñas,\nidclienteeprinsa 1017 1017 1017 1017 1017 1017 1017 1017 1017 1017 1017 1017 1017 1017 1017 1017 1017 1017 1017 1017 nombre c/10 calle sin nombre calle del aire calle camino juan blanco calle bloque malaga calle granada calle almeria c/32 calle sin pavimentar c/65 calle sin nombre avenida san fernando c/66 calle sin nombre c/31 calle sin pavimentar calle batalla de lepanto calle de la ciencia calle la marinera calle la rivera c/14 calle sin pavimentar calle primero de mayo c/36 calle sin nombre calle san sebastian ballesteros avenida de las dueñas numeración",
+      "metadato_fileName": "meta_2b65ba505e0beaff3fb61b6a543dfe137ee0f3af.json",
+      "resource_fileName": "cb6f0079f0c00730772917efb26f946e960fd63e.csv",
+      "retrieval": {
+        "harrier": {
+          "rank": 23,
+          "score": 1.36719085
+        },
+        "qwen": {
+          "rank": 19,
+          "score": 1.3766042
+        }
+      }
+    },
+    {
+      "id": "l01280148-callejero-relacion-alfabetica-calles",
+      "title": "Callejero. Relacion alfabética calles",
+      "description": "Callejero. Relacion alfabética calles",
+      "header": "nombrevia \"tipo via\"",
+      "content": "alamos,calle atardecer,calle bozo,calle cacera de la balona,camino canario,calle colombia,calle damaso alonso,calle dulcinea del toboso,calle emisora onda media,fn jazmin,calle lisboa, de,avenida monte igueldo,calle morata, de,carretera puerta de levante,plaza puerto del escudo,calle raya, de la,camino roble,calle siete vientos,calle velilla de san antonio,carretera villa carlos fonseca,calle\nnombrevia alamos atardecer bozo cacera de la balona canario colombia damaso alonso dulcinea del toboso emisora onda media jazmin lisboa, de monte igueldo morata, de puerta de levante puerto del escudo raya, de la roble siete vientos velilla de san antonio villa carlos fonseca tipo via calle calle calle camino calle calle calle calle fn calle avenida calle carretera plaza calle camino calle calle carretera calle",
+      "metadato_fileName": "meta_035e697ea7378bf7204ce42528f19b2c5d86807e.json",
+      "resource_fileName": "09b66a13935f6ea3c5e09892a5eb2818249f4222.csv",
+      "retrieval": {
+        "qwen": {
+          "rank": 4,
+          "score": 1.38845372
+        }
+      }
+    },
+    {
+      "id": "l01082798-callejero1",
+      "title": "Callejero",
+      "description": "Relación de las calles de la ciudad",
+      "header": "carrers_codi carrers_tipus_via carrers_nom_oficial carrers_nom18",
+      "content": "325;pa;bastard;de bastard 1175;ca;faraday;de faraday 1210;ca;ferrocarril;del ferrocarril 180;ca;aragó;d' aragó 215;ca;atlàntida;de l' atlàntida 290;ca;balears;de les balears 2531;ca;palet i barba;de palet i barba 3006;ca;rosella;de la rosella 3430;ca;segre;del segre 1335;ca;frontó;del frontó 1680;ca;independència;de la independència 2030;ca;manuel de falla;de manuel de falla 5607;pl;gueraldes;de les gueraldes 5663;pl;josefines;de les josefines 5704;p ;;pla de la font de l'apotecari 5612;ds;;ca n'amat de les farines 3895;ca;viladecavalls;de viladecavalls 5739;pn;béjar;de béjar 5756;pl;bon aire;del bon aire 5766;pl;salvador dalí;de salvador dalí\ncarrers_codi 325 1175 1210 180 215 290 2531 3006 3430 1335 1680 2030 5607 5663 5704 5612 3895 5739 5756 5766 carrers_tipus_via pa ca ca ca ca ca ca ca ca ca ca ca pl pl p ds ca pn pl pl carrers_nom_oficial bastard faraday ferrocarril aragó atlàntida balears palet i barba rosella segre frontó independència manuel de falla gueraldes josefines viladecavalls béjar bon aire salvador dalí carrers_nom18 de bastard de faraday del ferrocarril d' aragó de l' atlàntida de les balears de palet i barba de la rosella del segre del frontó de la independència de manuel de falla de les gueraldes de les josefines pla de la font de l'apotecari ca n'amat de les farines de viladecavalls de béjar del bon aire de salvador dalí",
+      "metadato_fileName": "meta_c6b468407dffd8b39bd658c5498f1d3b3a4571ca.json",
+      "resource_fileName": "c09591d5054cecdf939e54f88fd8ebd45fd6d528.csv",
+      "retrieval": {
+        "qwen": {
+          "rank": 1,
+          "score": 1.47451914
+        }
+      }
+    },
+    {
+      "id": "calle-cortada",
+      "title": "Calle cortada",
+      "description": "Calles cortadas al tráfico rodado",
+      "header": "idtrafico nombreincidencia detalleincidencia fechainicio fechafin calle longitud latitud url",
+      "content": "32547,calle cortada,prohibido estacionar actos semana santa.,29/03/2026 0:00:00,03/04/2026 0:00:00,actos semana santa: dias 29 marzo y 3 abril: iglesia de zarcilla de ramos, c/santa teresa, c/la paca, c/diputación provincial, c/nueva-iglesia, exp. 454/2026,-1.87654918624484,37.8437252244868,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=32547 23856,calle cortada,cortado tráfico rodado, en horario escolar, (2 vallas con señales de entrada prohibida, r-101 y carteles zona de seguridad escolar). curso 2025-2026 desde el 09/09/2025 al 22/06/2026.,14/09/2020 0:00:00,22/06/2026 0:00:00,calle junto acceso colegio zarcilla de ramos,exp. 703/2020,-1.8734154193278,37.8434442218847,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=23856 23855,calle cortada,cortado tráfico rodado en horario escolar (2 vallas con señal de entrada prohibida, r-101 y cartel zona seguridad escolar. curso 2025-2026 desde el 09/09/2025 al 22/06/2026.,14/09/2020 0:00:00,22/06/2026 0:00:00,calle del trasvase y c/. la fábrica colegio nuevo de primaria de almendricos y calle patrón colegio de infantil del almendricos, exp. 702/2020,-1.77650213825848,37.4697363636955,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=23855 29551,calle cortada,obras del ave, adif corta el tráfico en la zona, con desvío bypass, responsable debe señalizar según normativa vigente.,24/06/2024 0:00:00,31/12/2026 0:00:00,obras ave-adif pk 422 de lorca-pulpi: salida vial sur población de almendricos a ctra. pulpi, prolongación rm-d17,desvío con bypass exp. 869/2024 y matriz 498/2024,-1.76993635071896,37.4677855046218,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=29551 28271,calle cortada,obras del ave, desvío provisional, para construcción de pérgola sobre trasvase tajo-segura, responsable debe señalizar según normativa vigente, incluido desvío provisional.,26/09/2023 0:00:00,31/12/2026 0:00:00,obras ave lorca-pulpi: carretera canal del trasvase de almendricos, altura frente iglesia de redón y desvío alternativo con carretera del barranco, junto a iglesia indicada, exp. 1235/2023 y matriz 108/2023,-1.7696744564358,37.4760501226986,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=28271 27805,calle cortada,demolición de pasos superiores de vía ferrea por obras del ave, responsable debe señalizar según normativa vigente, y desvío alternativo por paso a nivel camino velopache.,05/06/2023 0:00:00,31/12/2026 0:00:00,obras ave lorca-pulpi: puente sobre vía férrea ps 406,2 de dip. torrecilla, exp. 375/2023 y matriz 108/2023,-1.72162564314731,37.6084217827063,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=27805 23852,calle cortada,cortado el tráfico rodado en horario escolar. curso 2025-2026 desde el 09/09/2025 al 22/06/2026. ,14/09/2020 0:00:00,22/06/2026 0:00:00,c/. diego pallares cacha, c/. alfareria, c/. tintoreros, exp. 697/2020,-1.70973124116163,37.6626795681132,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=23852 32505,calle cortada,prohibido estacionar, en toda la calle, actos semana santa,26/03/2026 0:00:00,05/04/2026 0:00:00,actos semana santa: calvario, calles bajada calvario, alonso vargas, placica nueva, bordadora angela morales y nogalte, exp. 410/2026,-1.70351922069652,37.6718940957197,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=32505 26506,calle cortada,cortado tráfico rodado en horario escolar hasta final de curso. curso 2025-2026 desde el 09/09/2025 al 22/06/2026,12/09/2022 0:00:00,22/06/2026 0:00:00,c/. francisco escobar barberan - colegio ana caicedo y c/. ong,s, exp. 1081/2022,-1.7022586668462,37.6626753215234,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=26506 32420,calle cortada,corte vial por derrumbamiento de inmueble. se colocan vallas amarillas.,10/03/2026 0:00:00,30/04/2026 0:00:00,c/rojano con c/reloj, exp. 318/2026,-1.70086276910694,37.6768940904695,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=32420 31573,calle cortada,corte vial por peligro desprendimiento tras incendio de inmueble en ruina. señalizado con 2 vallas amarillas con r-101 en cada extremo.,03/09/2025 0:00:00,30/04/2026 0:00:00,c/. santa victoria, 2, exp. 1206/2025,-1.7003471384599,37.675522267544,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=31573 32502,calle cortada,prohibido estacionar desde 19:00 horas, ensayo con tronos, desde 21:00 horas.,31/03/2026 0:00:00,31/03/2026 0:00:00,actos semana santa: c/zapateria, c/abad de los arcos, c/corregidor-fachada san patricio, plaza españa-por interior de la misma y regreso, exp. 407/2026,-1.69960311737724,37.6771845009794,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=32502 32584,calle cortada,prohibido estacionar de 8:00 a 20:00 horas, en toda la calle, obras, reserva espacio por obras arreglo fachada inmueble c/monte naranco, 8, responsable debe señalizar según normativa vigente, incluido pasillo seguridad peatonal.,31/03/2026 0:00:00,02/04/2026 0:00:00,c/marines y c/monte aneto, exp. 486/2026,-1.69890489964219,37.6834842331988,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=32584 30662,calle cortada,corte vial por obras reparación urgente avería suministro agua potable, responsable debe señalizar según normativa vigente, incluido pasillos seguridad peatonal. dejadas 9 vallas con r-101, ,05/03/2025 0:00:00,31/03/2026 0:00:00,c/. los pozos con c/. gigante y c/. zapateria-gomelez con c/. minas-paula, exp. 314/2025,-1.69770415653788,37.6795238777229,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=30662 30374,calle cortada,prohibido estacionar, desde 13 enero 2025, obras adif para ave soterrado, responsable debe señalizar según normativa vigente, incluido pasillo seguridad peatonal.,13/01/2025 0:00:00,31/12/2026 0:00:00,obras de adif ave soterrado: travesía alameda rafael mendez, acceso n 10, exp. 16/2025, matriz 692/2024,-1.69619566097122,37.6705945238405,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=30374 29608,calle cortada,obras de ave, prohibido estacionar en toda la explanada, responsable debe señalizar según normativa vigente, incluido pasillo seguridad peatonal y señalizados accesos desvíos alternativos a vecinos por alameda rafael mendez, zona de obras vial entre vía férrea y huerto sastre o acceso entrada prohibida r-101, excepto vecinos por alameda ramón y cajal-dr. jimenez díaz-alameda constitución.,01/07/2024 0:00:00,31/12/2026 0:00:00,obras ave soterrado: adif corta accesos tráfico rodado a explanada aparcamiento de la ora entre plaza toros y vía ferrea con sus accesos, exp. 925/2024, matriz 692/2024,-1.69578627262578,37.6716956985152,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=29608 32564,calle cortada,desde 20:30 horas cortado tráfico rodado, y prohibido estacionar desde 15:00 horas. procesión del encuentro de martes santo en barrio san cristobal. vias afectadas: itinerario y vías adyacentes. itinerario: salidas desde 21:00 horas de la procesión del encuentro de martes santo en barrio san cristobal y de la siguiente manera: -cristo de la sangre: salida desde 21:00 horas del asilo de san diego, avda. europa, avda. paso encarnado, c/ortega melgares, c/mayor y plaza la estrella (encuentro), ,31/03/2026 0:00:00,31/03/2026 0:00:00,c/caballon, 2-4-ortega melgares, plaza la estrella, c/alcalde pelegrin rodriguez, canal san diego-iglesia, los veras, beato pedro soler, juan minguez, parte c/abellaneda, c/san fernando-desvio, exp. 472/2026,-1.69541627168655,37.6818417173689,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=32564 23845,calle cortada,corte al tráfico rodado en horario escolar. curso 2025-2026 desde el 09/09/2025 al 22/06/2026.,14/09/2020 0:00:00,22/06/2026 0:00:00,alameda de los tristes expte.: 692/2020,-1.69520406625377,37.6698219882971,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=23845 30116,calle cortada,corte vial, rodado y peatonal, por adif con motivo de obras del ave, responsable debe señalizar según normativa vigente, entrada prohibida, excepto residentes, y doble sentido de circulación para residentes entre alda. dr. gimeno baduell y callejón sin salida de alda. rafael méndez, al igual que en alda. de los tristes con c/. dr. gimeno baduell, incluido pasillo seguridad peatonal. itinerario peatonal alternativo por alameda corregidor lapuente o alameda de los tristes.,11/11/2024 0:00:00,31/12/2026 0:00:00,ave soterrado: adif corta al tráfico alda. rafael mendez, entre alda. de los tristes y callejon sin salida altura n 16, exp. 1436/2024 matriz 692/2024,-1.69488831204737,37.6710151555797,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=30116 30804,calle cortada,prohibido estacionar en toda la calle, y corte vial por obras para desvío de servicios por construcción corredor mediterráneo ave, responsable debe señalizar según normativa vigente, incluido pasillo seguridad peatonal. habilitan accesos a iglesia bautista y 2 contadores de servicios de la misma fuera del ámbito de la obra. ,22/04/2025 0:00:00,31/12/2026 0:00:00,obras ave soterrado: c/. asilo de san diego, entre c/. canal de san diego y via ferrocarril, exp. 447/2025 matriz 692/2024,-1.68821990375767,37.6801607188717,https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=30804\nidtrafico 32547 23856 23855 29551 28271 27805 23852 32505 26506 32420 31573 32502 32584 30662 30374 29608 32564 23845 30116 30804 nombreincidencia calle cortada calle cortada calle cortada calle cortada calle cortada calle cortada calle cortada calle cortada calle cortada calle cortada calle cortada calle cortada calle cortada calle cortada calle cortada calle cortada calle cortada calle cortada calle cortada calle cortada detalleincidencia prohibido estacionar actos semana santa. cortado tráfico rodado, en horario escolar, (2 vallas con señales de entrada prohibida, r-101 y carteles zona de seguridad escolar). curso 2025-2026 desde el 09/09/2025 al 22/06/2026. cortado tráfico rodado en horario escolar (2 vallas con señal de entrada prohibida, r-101 y cartel zona seguridad escolar. curso 2025-2026 desde el 09/09/2025 al 22/06/2026. obras del ave, adif corta el tráfico en la zona, con desvío bypass, responsable debe señalizar según normativa vigente. obras del ave, desvío provisional, para construcción de pérgola sobre trasvase tajo-segura, responsable debe señalizar según normativa vigente, incluido desvío provisional. demolición de pasos superiores de vía ferrea por obras del ave, responsable debe señalizar según normativa vigente, y desvío alternativo por paso a nivel camino velopache. cortado el tráfico rodado en horario escolar. curso 2025-2026 desde el 09/09/2025 al 22/06/2026. prohibido estacionar, en toda la calle, actos semana santa cortado tráfico rodado en horario escolar hasta final de curso. curso 2025-2026 desde el 09/09/2025 al 22/06/2026 corte vial por derrumbamiento de inmueble. se colocan vallas amarillas. corte vial por peligro desprendimiento tras incendio de inmueble en ruina. señalizado con 2 vallas amarillas con r-101 en cada extremo. prohibido estacionar desde 19:00 horas, ensayo con tronos, desde 21:00 horas. prohibido estacionar de 8:00 a 20:00 horas, en toda la calle, obras, reserva espacio por obras arreglo fachada inmueble c/monte naranco, 8, responsable debe señalizar según normativa vigente, incluido pasillo seguridad peatonal. corte vial por obras reparación urgente avería suministro agua potable, responsable debe señalizar según normativa vigente, incluido pasillos seguridad peatonal. dejadas 9 vallas con r-101, prohibido estacionar, desde 13 enero 2025, obras adif para ave soterrado, responsable debe señalizar según normativa vigente, incluido pasillo seguridad peatonal. obras de ave, prohibido estacionar en toda la explanada, responsable debe señalizar según normativa vigente, incluido pasillo seguridad peatonal y señalizados accesos desvíos alternativos a vecinos por alameda rafael mendez, zona de obras vial entre vía férrea y huerto sastre o acceso entrada prohibida r-101, excepto vecinos por alameda ramón y cajal-dr. jimenez díaz-alameda constitución. desde 20:30 horas cortado tráfico rodado, y prohibido estacionar desde 15:00 horas. procesión del encuentro de martes santo en barrio san cristobal. vias afectadas: itinerario y vías adyacentes. itinerario: salidas desde 21:00 horas de la procesión del encuentro de martes santo en barrio san cristobal y de la siguiente manera: -cristo de la sangre: salida desde 21:00 horas del asilo de san diego, avda. europa, avda. paso encarnado, c/ortega melgares, c/mayor y plaza la estrella (encuentro), corte al tráfico rodado en horario escolar. curso 2025-2026 desde el 09/09/2025 al 22/06/2026. corte vial, rodado y peatonal, por adif con motivo de obras del ave, responsable debe señalizar según normativa vigente, entrada prohibida, excepto residentes, y doble sentido de circulación para residentes entre alda. dr. gimeno baduell y callejón sin salida de alda. rafael méndez, al igual que en alda. de los tristes con c/. dr. gimeno baduell, incluido pasillo seguridad peatonal. itinerario peatonal alternativo por alameda corregidor lapuente o alameda de los tristes. prohibido estacionar en toda la calle, y corte vial por obras para desvío de servicios por construcción corredor mediterráneo ave, responsable debe señalizar según normativa vigente, incluido pasillo seguridad peatonal. habilitan accesos a iglesia bautista y 2 contadores de servicios de la misma fuera del ámbito de la obra. fechainicio 29/03/2026 0:00:00 14/09/2020 0:00:00 14/09/2020 0:00:00 24/06/2024 0:00:00 26/09/2023 0:00:00 05/06/2023 0:00:00 14/09/2020 0:00:00 26/03/2026 0:00:00 12/09/2022 0:00:00 10/03/2026 0:00:00 03/09/2025 0:00:00 31/03/2026 0:00:00 31/03/2026 0:00:00 05/03/2025 0:00:00 13/01/2025 0:00:00 01/07/2024 0:00:00 31/03/2026 0:00:00 14/09/2020 0:00:00 11/11/2024 0:00:00 22/04/2025 0:00:00 fechafin 03/04/2026 0:00:00 22/06/2026 0:00:00 22/06/2026 0:00:00 31/12/2026 0:00:00 31/12/2026 0:00:00 31/12/2026 0:00:00 22/06/2026 0:00:00 05/04/2026 0:00:00 22/06/2026 0:00:00 30/04/2026 0:00:00 30/04/2026 0:00:00 31/03/2026 0:00:00 02/04/2026 0:00:00 31/03/2026 0:00:00 31/12/2026 0:00:00 31/12/2026 0:00:00 31/03/2026 0:00:00 22/06/2026 0:00:00 31/12/2026 0:00:00 31/12/2026 0:00:00 calle actos semana santa: dias 29 marzo y 3 abril: iglesia de zarcilla de ramos, c/santa teresa, c/la paca, c/diputación provincial, c/nueva-iglesia, exp. 454/2026 calle junto acceso colegio zarcilla de ramos,exp. 703/2020 calle del trasvase y c/. la fábrica colegio nuevo de primaria de almendricos y calle patrón colegio de infantil del almendricos, exp. 702/2020 obras ave-adif pk 422 de lorca-pulpi: salida vial sur población de almendricos a ctra. pulpi, prolongación rm-d17,desvío con bypass exp. 869/2024 y matriz 498/2024 obras ave lorca-pulpi: carretera canal del trasvase de almendricos, altura frente iglesia de redón y desvío alternativo con carretera del barranco, junto a iglesia indicada, exp. 1235/2023 y matriz 108/2023 obras ave lorca-pulpi: puente sobre vía férrea ps 406,2 de dip. torrecilla, exp. 375/2023 y matriz 108/2023 c/. diego pallares cacha, c/. alfareria, c/. tintoreros, exp. 697/2020 actos semana santa: calvario, calles bajada calvario, alonso vargas, placica nueva, bordadora angela morales y nogalte, exp. 410/2026 c/. francisco escobar barberan - colegio ana caicedo y c/. ong,s, exp. 1081/2022 c/rojano con c/reloj, exp. 318/2026 c/. santa victoria, 2, exp. 1206/2025 actos semana santa: c/zapateria, c/abad de los arcos, c/corregidor-fachada san patricio, plaza españa-por interior de la misma y regreso, exp. 407/2026 c/marines y c/monte aneto, exp. 486/2026 c/. los pozos con c/. gigante y c/. zapateria-gomelez con c/. minas-paula, exp. 314/2025 obras de adif ave soterrado: travesía alameda rafael mendez, acceso n 10, exp. 16/2025, matriz 692/2024 obras ave soterrado: adif corta accesos tráfico rodado a explanada aparcamiento de la ora entre plaza toros y vía ferrea con sus accesos, exp. 925/2024, matriz 692/2024 c/caballon, 2-4-ortega melgares, plaza la estrella, c/alcalde pelegrin rodriguez, canal san diego-iglesia, los veras, beato pedro soler, juan minguez, parte c/abellaneda, c/san fernando-desvio, exp. 472/2026 alameda de los tristes expte.: 692/2020 ave soterrado: adif corta al tráfico alda. rafael mendez, entre alda. de los tristes y callejon sin salida altura n 16, exp. 1436/2024 matriz 692/2024 obras ave soterrado: c/. asilo de san diego, entre c/. canal de san diego y via ferrocarril, exp. 447/2025 matriz 692/2024 longitud -1.87654918624484 -1.8734154193278 -1.77650213825848 -1.76993635071896 -1.7696744564358 -1.72162564314731 -1.70973124116163 -1.70351922069652 -1.7022586668462 -1.70086276910694 -1.7003471384599 -1.69960311737724 -1.69890489964219 -1.69770415653788 -1.69619566097122 -1.69578627262578 -1.69541627168655 -1.69520406625377 -1.69488831204737 -1.68821990375767 latitud 37.8437252244868 37.8434442218847 37.4697363636955 37.4677855046218 37.4760501226986 37.6084217827063 37.6626795681132 37.6718940957197 37.6626753215234 37.6768940904695 37.675522267544 37.6771845009794 37.6834842331988 37.6795238777229 37.6705945238405 37.6716956985152 37.6818417173689 37.6698219882971 37.6710151555797 37.6801607188717 url https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=32547 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=23856 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=23855 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=29551 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=28271 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=27805 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=23852 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=32505 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=26506 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=32420 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=31573 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=32502 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=32584 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=30662 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=30374 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=29608 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=32564 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=23845 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=30116 https://www.lorca.es/incidencias-trafico/incidencia.asp?idt=30804",
+      "metadato_fileName": "meta_644bb9deb57c28eaa75adeffa7003930956958e3.json",
+      "resource_fileName": "f79760b19cfd3e6333c354660faaff691edc97e1.csv",
+      "retrieval": {
+        "qwen": {
+          "rank": 3,
+          "score": 1.40269303
+        }
+      }
+    }
+  ]
+}

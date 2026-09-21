@@ -1,0 +1,58 @@
+{
+  "models": [
+    {
+      "id": "gemini-2.5-flash",
+      "short_name": "Gemini",
+      "platform": "Google Vertex AI",
+      "execution": "api",
+      "generation": {
+        "temperature": 0.2,
+        "top_p": 0.95,
+        "max_output_tokens": 4096,
+        "response_mime_type": "application/json"
+      }
+    },
+    {
+      "id": "gemma4:26b",
+      "short_name": "Gemma4",
+      "platform": "Ollama",
+      "execution": "local",
+      "generation": {
+        "num_ctx": 12288,
+        "temperature": 0.2,
+        "top_p": 0.95,
+        "repeat_penalty": 1.2,
+        "max_output_tokens": 1024,
+        "structured_output": true
+      }
+    },
+    {
+      "id": "gpt-4.1-mini",
+      "short_name": "GPT-4.1-mini",
+      "platform": "OpenAI API",
+      "execution": "api",
+      "generation": {}
+    },
+    {
+      "id": "gpt-5.4-mini",
+      "short_name": "GPT-5.4-mini",
+      "platform": "OpenAI API",
+      "execution": "api",
+      "generation": {}
+    },
+    {
+      "id": "gpt-oss:20b",
+      "short_name": "GPT-OSS",
+      "platform": "Ollama",
+      "execution": "local",
+      "generation": {
+        "num_ctx": 12288,
+        "temperature": 0.2,
+        "top_p": 0.95,
+        "repeat_penalty": 1.2,
+        "max_output_tokens": 1024,
+        "structured_output": false
+      }
+    }
+  ]
+}

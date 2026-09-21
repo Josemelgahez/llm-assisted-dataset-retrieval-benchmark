@@ -1,0 +1,6 @@
+model,false_negatives_total,false_negatives_with_majority_reason,human_majority_direct_match,model_reason_direct_match,human_majority_subtype,model_reason_subtype,human_majority_generic,model_reason_generic,human_majority_unrelated,model_reason_unrelated,human_majority_insufficient_evidence,model_reason_insufficient_evidence,generic_among_fn_with_majority_reason,generic_rate_among_fn_with_majority_reason
+gpt-oss:20b,28,27,4,0,23,0,0,5,0,18,0,4,5,0.18518518518518517
+gpt-4.1-mini,65,63,17,0,46,0,0,20,0,17,0,26,20,0.31746031746031744
+gemma4:26b,108,106,36,0,70,0,0,93,0,13,0,0,93,0.8773584905660378
+gemini-2.5-flash,22,20,1,0,19,0,0,12,0,8,0,0,12,0.6
+gpt-5.4-mini,86,84,27,0,57,0,0,64,0,7,0,13,64,0.7619047619047619

@@ -1,0 +1,19 @@
+fastapi==0.115.9
+uvicorn[standard]==0.34.2
+qdrant-client==1.15.1
+fastembed==0.6.1
+sentence-transformers==4.1.0
+transformers==4.51.3
+torch==2.7.0
+accelerate==1.6.0
+huggingface-hub==0.31.1
+spacy==3.8.7
+es-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/es_core_news_lg-3.8.0/es_core_news_lg-3.8.0-py3-none-any.whl
+nltk==3.9.1
+pandas==2.2.3
+requests==2.32.3
+tqdm==4.67.1
+ollama==0.4.8
+openai==1.78.1
+python-dotenv==1.1.0
+google-cloud-aiplatform==1.92.0

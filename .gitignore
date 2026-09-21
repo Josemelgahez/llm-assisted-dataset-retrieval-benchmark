@@ -1,0 +1,10 @@
+.env
+__pycache__/
+.venv/
+venv/
+env/
+data/normalized_collection/
+qdrant_storage/
+storage/
+snapshots/
+*.zip

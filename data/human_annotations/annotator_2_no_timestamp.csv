@@ -1,0 +1,301 @@
+annotator,pair_key,id_query,id_dataset,main_resource,scope,supporting_field,quote,reason,relevance
+humano_2,123||ea0042931-precio-final-horas-provisionales-2020,123,ea0042931-precio-final-horas-provisionales-2020,dana,,,,unrelated,false
+humano_2,68||a04003003-distritos-censales1,68,a04003003-distritos-censales1,ayuntamientos,,,,unrelated,false
+humano_2,10||a06004074-censo-de-ganado2,10,a06004074-censo-de-ganado2,poblacion,,title,Censo de Ganado,subtype,true
+humano_2,150||l01280148-subvenciones-2022,150,l01280148-subvenciones-2022,ayudas,,title,Subvenciones,direct_match,true
+humano_2,11||a04003003-zonas-interes-minero1,11,a04003003-zonas-interes-minero1,multas,,,,unrelated,false
+humano_2,54||l01140060-gestion-de-residuos-epremasa1,54,l01140060-gestion-de-residuos-epremasa1,residuos,,title,Gestión de residuos,direct_match,true
+humano_2,47||l01140517-callejero1,47,l01140517-callejero1,callejero,,title,Callejero,direct_match,true
+humano_2,4||l01280148-cartas-de-servicios1,4,l01280148-cartas-de-servicios1,empresas,,,,insufficient_evidence,false
+humano_2,84||a05003423-estancias-causadas-en-hospitales-de-canarias-segun-comunidades-y-provincias-de-residencia-2014,84,a05003423-estancias-causadas-en-hospitales-de-canarias-segun-comunidades-y-provincias-de-residencia-2014,cnae,,,,unrelated,false
+humano_2,37||a09002970-instalacion-de-produccion-de-energia-electrica-datos-individualizados,37,a09002970-instalacion-de-produccion-de-energia-electrica-datos-individualizados,energia,,title,producción de energía eléctrica,subtype,true
+humano_2,140||a02002834-carreteras-informacion-geografica1,140,a02002834-carreteras-informacion-geografica1,cartografia,,title,información geográfica,subtype,true
+humano_2,113||l01140673-consumo-electrico-municipal,113,l01140673-consumo-electrico-municipal,electricidad,,title,eléctrico,direct_match,true
+humano_2,53||a04003003-puntos-limpio,53,a04003003-puntos-limpio,futbol,,,,unrelated,false
+humano_2,103||turismo-visitas-concertadas,103,turismo-visitas-concertadas,bienes de interes cultural,,,,unrelated,false
+humano_2,38||l01280148-bienestar-social-emergencia-social,38,l01280148-bienestar-social-emergencia-social,catastro,,,,unrelated,false
+humano_2,45||a04003003-estaciones-bombeo-abastecimiento-abaqua1,45,a04003003-estaciones-bombeo-abastecimiento-abaqua1,incendios,,title,Estaciones Bombeo,subtype,true
+humano_2,73||l01140121-alojamientos-de-turismo1,73,l01140121-alojamientos-de-turismo1,hoteles,,title,turismo,direct_match,true
+humano_2,100||ea0010587-emigraciones-de-extranjeros-al-extranjero-clasificadas-por-pais-de-destino-y-grupos-de-edad-identificador-api-t20-p307-a2007-l0-020922-px,100,ea0010587-emigraciones-de-extranjeros-al-extranjero-clasificadas-por-pais-de-destino-y-grupos-de-edad-identificador-api-t20-p307-a2007-l0-020922-px,inmigracion,,title,Emigraciones,subtype,true
+humano_2,94||u01200001-estudiantes-matriculados-por-residencia-familiar-grado-2024-2025,94,u01200001-estudiantes-matriculados-por-residencia-familiar-grado-2024-2025,Estudiantes,,,,generic,false
+humano_2,46||l02000014-gestion-de-residuos-epremasa1,46,l02000014-gestion-de-residuos-epremasa1,calidad del aire,,,,unrelated,false
+humano_2,16||ea0010587-usos-del-agua-reutilizada-por-comunidades-y-ciudades-autonomas-tipo-de-uso-y-periodo-identificador-api-53452,16,ea0010587-usos-del-agua-reutilizada-por-comunidades-y-ciudades-autonomas-tipo-de-uso-y-periodo-identificador-api-53452,agua,,title,agua reutilizada,direct_match,true
+humano_2,142||u01200001-estudiantes-matriculados-por-dedicacion-doctorado-2024-2025,142,u01200001-estudiantes-matriculados-por-dedicacion-doctorado-2024-2025,estudiantes,,title,Estudiantes,direct_match,true
+humano_2,71||a04003003-datos-covid-19-positividad-en-7-dias-illes-balears1,71,a04003003-datos-covid-19-positividad-en-7-dias-illes-balears1,covid,,title,COVID-19,direct_match,true
+humano_2,114||u02100001-acuerdos-de-movilidad-de-estudiantes-erasmus-y-sicue-curso-2020-2021-universidad-de-zaragoza1,114,u02100001-acuerdos-de-movilidad-de-estudiantes-erasmus-y-sicue-curso-2020-2021-universidad-de-zaragoza1,movilidad,,title,movilidad de estudiantes,subtype,true
+humano_2,24||e05073401-estadistica-de-personal-de-las-universidades-personal-docente-e-investigadorpdi-edad-de-la-plantilla-docente-resultados-por-universidades-edad-de-la-plantilla-docente-en-centros-propios-de-universidades-publicas-por-rama-de-ensenanza-y-sexo,24,e05073401-estadistica-de-personal-de-las-universidades-personal-docente-e-investigadorpdi-edad-de-la-plantilla-docente-resultados-por-universidades-edad-de-la-plantilla-docente-en-centros-propios-de-universidades-publicas-por-rama-de-ensenanza-y-sexo,universidades,,title,plantilla docente en centros propios de universidades públicas,subtype,true
+humano_2,104||a05003423-uso-de-internet-segun-momento-ultimo-de-utilizacion-y-situaciones-laborales-en-canarias-2010,104,a05003423-uso-de-internet-segun-momento-ultimo-de-utilizacion-y-situaciones-laborales-en-canarias-2010,ipc,,,,unrelated,false
+humano_2,103||bienes_artisticos_ayuntamiento,103,bienes_artisticos_ayuntamiento,bienes de interes cultural,,title,Bienes histórico artísticos,direct_match,true
+humano_2,103||l01360577-comercios-de-artesania-puntos-de-interes-turistico1,103,l01360577-comercios-de-artesania-puntos-de-interes-turistico1,bienes de interes cultural,,,,generic,false
+humano_2,84||a04003003-estaciones-bombeo-abastecimiento-abaqua1,84,a04003003-estaciones-bombeo-abastecimiento-abaqua1,cnae,,,,unrelated,false
+humano_2,63||a04003003-depositos-abastecimiento-abaqua1,63,a04003003-depositos-abastecimiento-abaqua1,pib,,,,unrelated,false
+humano_2,101||l01280148-contratos-mayores-20181,101,l01280148-contratos-mayores-20181,contratos,,title,Contratos,direct_match,true
+humano_2,37||ea0042931-mercado-minorista-de-electricidad-2019t1,37,ea0042931-mercado-minorista-de-electricidad-2019t1,energia,,title,Mercado minorista de electricidad,subtype,true
+humano_2,92||l01140351-gestion-de-residuos-epremasa1,92,l01140351-gestion-de-residuos-epremasa1,gasolineras,,,,unrelated,false
+humano_2,141||a05003423-esquema-de-conceptos-de-medida-de-la-estadistica-de-crecimiento-vegetativo-en-canarias-istac-csm_c00042a,141,a05003423-esquema-de-conceptos-de-medida-de-la-estadistica-de-crecimiento-vegetativo-en-canarias-istac-csm_c00042a,curvas de nivel,,,,unrelated,false
+humano_2,41||l01140155-gestion-de-residuos-epremasa1,41,l01140155-gestion-de-residuos-epremasa1,aemet,,,,unrelated,false
+humano_2,104||a04003003-infraestructuras-abaqua1,104,a04003003-infraestructuras-abaqua1,ipc,,,,unrelated,false
+humano_2,5||a05003423-poblacion-de-16-y-mas-anos-en-viviendas-familiares-ocupada-que-ha-residido-fuera-del-municipio-segun-anos-de-llegada-a-los-municipios-sexos-y-situaciones-profesionales-municipios-por-islas-1-11-2001,5,a05003423-poblacion-de-16-y-mas-anos-en-viviendas-familiares-ocupada-que-ha-residido-fuera-del-municipio-segun-anos-de-llegada-a-los-municipios-sexos-y-situaciones-profesionales-municipios-por-islas-1-11-2001,municipios,,,,generic,false
+humano_2,141||l01080193-tipologias-de-las-placas-fotovoltaicas-municipales-en-la-ciudad-de-barcelona,141,l01080193-tipologias-de-las-placas-fotovoltaicas-municipales-en-la-ciudad-de-barcelona,curvas de nivel,,,,unrelated,false
+humano_2,45||l01280148-solicitudes-de-licencia-de-actividades-inocuas-2005-2016,45,l01280148-solicitudes-de-licencia-de-actividades-inocuas-2005-2016,incendios,,,,unrelated,false
+humano_2,54||l01140137-gestion-de-residuos-epremasa,54,l01140137-gestion-de-residuos-epremasa,residuos,,title,Gestión de residuos,direct_match,true
+humano_2,64||l01082798-farmacias1,64,l01082798-farmacias1,farmacias,,title,Farmacias,direct_match,true
+humano_2,148||a09002970-sistema-de-informacion-geografica-de-parcelas-agricolas-sigpac-de-la-comarca-de-anoia2018,148,a09002970-sistema-de-informacion-geografica-de-parcelas-agricolas-sigpac-de-la-comarca-de-anoia2018,pesca,,,,unrelated,false
+humano_2,31||ea0001302-estacion-meteorologica-sirena,31,ea0001302-estacion-meteorologica-sirena,clima,,title,Estación meteorológica,subtype,true
+humano_2,142||u01200001-estudiantes-nuevo-ingreso-master-2024-2025,142,u01200001-estudiantes-nuevo-ingreso-master-2024-2025,estudiantes,,title,Estudiantes,direct_match,true
+humano_2,90||l03380010-puntos-de-interes,90,l03380010-puntos-de-interes,restaurantes,,,,unrelated,false
+humano_2,141||ea0010587-maximo-nivel-de-dificultad-para-realizar-alguna-actividad-del-hogar-segun-sexo-grupo-de-edad-y-nivel-de-estudios-poblacion-de-55-y-mas-anos-identificador-api-47766,141,ea0010587-maximo-nivel-de-dificultad-para-realizar-alguna-actividad-del-hogar-segun-sexo-grupo-de-edad-y-nivel-de-estudios-poblacion-de-55-y-mas-anos-identificador-api-47766,curvas de nivel,,,,unrelated,false
+humano_2,49||a04003003-calendario-laboral-general-y-local-illes-balears-20241,49,a04003003-calendario-laboral-general-y-local-illes-balears-20241,calendario laboral,,title,Calendario Laboral,direct_match,true
+humano_2,19||presupuesto-comparativo-de-gastos-2018,19,presupuesto-comparativo-de-gastos-2018,presupuestos,,title,Presupuesto,direct_match,true
+humano_2,103||a06004074-turismo-cultural,103,a06004074-turismo-cultural,cultural,,title,Turismo cultural,subtype,true
+humano_2,40||l02000047-cajeros-moviles,40,l02000047-cajeros-moviles,transporte,,,,unrelated,false
+humano_2,65||calendario-de-ferias-y-exposiciones-en-aragon-2019,65,calendario-de-ferias-y-exposiciones-en-aragon-2019,calendario,,title,Calendario de ferias y exposiciones,subtype,true
+humano_2,82||l02000020-bienes-inmuebles-de-naturaleza-urbana-orio,82,l02000020-bienes-inmuebles-de-naturaleza-urbana-orio,patrimonio,,title,Bienes Inmuebles de Naturaleza Urbana,subtype,true
+humano_2,114||l01360577-pistas-atletismo-instalaciones-deportivas,114,l01360577-pistas-atletismo-instalaciones-deportivas,movilidad,,,,unrelated,false
+humano_2,135||i00000687-iniciativas-tsjc-2010-vii-legislatura,135,i00000687-iniciativas-tsjc-2010-vii-legislatura,justicia,,title,Iniciativas TSJC - 2010 - VII Legislatura,subtype,true
+humano_2,80||deportes-instalaciones,80,deportes-instalaciones,deporte,,title,Instalaciones deportivas,subtype,true
+humano_2,1||ea0010587-altas-hospitalarias-segun-el-sexo-el-grupo-de-edad-la-provincia-comunidad-y-ciudad-autonoma-de-hospitalizacion-identificador-api-66354,1,ea0010587-altas-hospitalarias-segun-el-sexo-el-grupo-de-edad-la-provincia-comunidad-y-ciudad-autonoma-de-hospitalizacion-identificador-api-66354,aulas hospitalarias,,,,generic,false
+humano_2,11||l01280148-sanciones-infraccion-omt-2-trimestre-20201,11,l01280148-sanciones-infraccion-omt-2-trimestre-20201,multas,,title,Sanciones,direct_match,true
+humano_2,26||a05003423-victimas-heridas-en-accidentes-de-circulacion-por-lugar-del-accidente-provincias-de-canarias-y-anos,26,a05003423-victimas-heridas-en-accidentes-de-circulacion-por-lugar-del-accidente-provincias-de-canarias-y-anos,accidentes,,title,Víctimas heridas en accidentes de circulación,subtype,true
+humano_2,98||a04003003-actuaciones-gestion-saneamiento-depuracion-programa-medidas-abaqua1,98,a04003003-actuaciones-gestion-saneamiento-depuracion-programa-medidas-abaqua1,centros de salud,,,,unrelated,false
+humano_2,55||a04027063-conceptos-operacionales-de-los-vinos-de-calidad-de-las-illes-balears-ibestat-cso_000274a,55,a04027063-conceptos-operacionales-de-los-vinos-de-calidad-de-las-illes-balears-ibestat-cso_000274a,dgt,,,,unrelated,false
+humano_2,57||a05003423-viajes-en-periodos-vacacionales-segun-destinos-sexos-y-grupos-de-edad-canarias-2004,57,a05003423-viajes-en-periodos-vacacionales-segun-destinos-sexos-y-grupos-de-edad-canarias-2004,festivos,,title,Viajes en periodos vacacionales,subtype,true
+humano_2,89||l01140121-gestion-de-residuos-epremasa1,89,l01140121-gestion-de-residuos-epremasa1,cancer,,,,unrelated,false
+humano_2,135||personal_administracion_justicia,135,personal_administracion_justicia,justicia,,title,Personal de la Administración de Justicia,subtype,true
+humano_2,21||l01280148-subvenciones-2022,21,l01280148-subvenciones-2022,subvenciones,,title,Subvenciones,direct_match,true
+humano_2,19||a01002820-presupuesto-de-la-comunidad-autonoma-de-andalucia-ano-2020,19,a01002820-presupuesto-de-la-comunidad-autonoma-de-andalucia-ano-2020,presupuestos,,title,Presupuesto,direct_match,true
+humano_2,70||ea0010587-c-inteligencia-artificial-identificador-api-59913,70,ea0010587-c-inteligencia-artificial-identificador-api-59913,inteligencia artificial,,title,Inteligencia artificial,direct_match,true
+humano_2,54||l02000014-gestion-de-residuos-epremasa1,54,l02000014-gestion-de-residuos-epremasa1,residuos,,title,Gestión de residuos,direct_match,true
+humano_2,55||l01290672-trabajo,55,l01290672-trabajo,dgt,,,,unrelated,false
+humano_2,39||a02002834-fechas-de-aprobaciones-y-publicaciones-de-plantillas-de-personal-de-entidades-publicas1,39,a02002834-fechas-de-aprobaciones-y-publicaciones-de-plantillas-de-personal-de-entidades-publicas1,empleo,,title,Plantillas de Personal de entidades públicas,subtype,true
+humano_2,70||l01030092-bajas-en-padron,70,l01030092-bajas-en-padron,inteligencia artificial,,,,unrelated,false
+humano_2,104||ea0010587-ponderaciones-de-subgrupos-ipca-identificador-api-51068,104,ea0010587-ponderaciones-de-subgrupos-ipca-identificador-api-51068,ipc,,,,unrelated,false
+humano_2,51||a04003003-red-hidrografica-provisional,51,a04003003-red-hidrografica-provisional,paro,,,,unrelated,false
+humano_2,14||a05003423-poblacion-total-segun-tiempo-transcurrido-desde-la-ultima-consulta-de-medicina-general-en-un-centro-de-salud-del-servicio-canario-de-la-salud-grandes-comarcas-de-canarias-2009-2015-2021,14,a05003423-poblacion-total-segun-tiempo-transcurrido-desde-la-ultima-consulta-de-medicina-general-en-un-centro-de-salud-del-servicio-canario-de-la-salud-grandes-comarcas-de-canarias-2009-2015-2021,salud,,title,tiempo transcurrido desde la última consulta de medicina general,subtype,true
+humano_2,3||a05003423-viviendas-segun-numero-de-telefonos-y-tamano-del-hogar-en-canarias-2006,3,a05003423-viviendas-segun-numero-de-telefonos-y-tamano-del-hogar-en-canarias-2006,Viviendas,,title,Viviendas según número de teléfonos,subtype,true
+humano_2,40||l01080193-tipologia-del-parque-de-vehiculos-de-la-ciudad-de-barcelona,40,l01080193-tipologia-del-parque-de-vehiculos-de-la-ciudad-de-barcelona,transporte,,title,Padrón de vehículos,subtype,true
+humano_2,86||i00000687-miembros-de-la-comision-agricultura-ganaderia-pesca-y-alimentacion-vii-legislatura,86,i00000687-miembros-de-la-comision-agricultura-ganaderia-pesca-y-alimentacion-vii-legislatura,agricultura,,title,Miembros de la comisión - Agricultura,subtype,true
+humano_2,131||ocio-y-diversion,131,ocio-y-diversion,playas,,,,generic,false
+humano_2,34||ea0042931-mercado-minorista-de-electricidad-2012t3,34,ea0042931-mercado-minorista-de-electricidad-2012t3,instaladores gas,,,,unrelated,false
+humano_2,63||l01140734-gestion-de-residuos-epremasa1,63,l01140734-gestion-de-residuos-epremasa1,pib,,,,unrelated,false
+humano_2,95||l01080193-estimacion-del-precio-de-venta-de-la-ciudad-de-barcelona-serie-anual-del-precio-m2-de-venta-de-las-viviendas-de-segunda-mano-por-barrios-2007-2011-tasa-de-variacion-interanual-cambio-de-fuente,95,l01080193-estimacion-del-precio-de-venta-de-la-ciudad-de-barcelona-serie-anual-del-precio-m2-de-venta-de-las-viviendas-de-segunda-mano-por-barrios-2007-2011-tasa-de-variacion-interanual-cambio-de-fuente,ventas,Estimación del precio de venta de la ciudad de Barcelona.,title,Estimación del precio de venta de la ciudad de Barcelona,subtype,true
+humano_2,90||l01030092-bajas-en-padron,90,l01030092-bajas-en-padron,restaurantes,,,,unrelated,false
+humano_2,35||l01140116-asociaciones-registradas1,35,l01140116-asociaciones-registradas1,asociaciones,,title,Asociaciones,direct_match,true
+humano_2,112||l01140348-mercados-municipales1,112,l01140348-mercados-municipales1,barrios,,,,unrelated,false
+humano_2,45||l03380010-red-de-incendios,45,l03380010-red-de-incendios,incendios,,title,red de incendios,direct_match,true
+humano_2,86||ea0010587-distribucion-de-la-superficie-de-agricultura-ecologica-certificada-calificada-y-o-en-periodo-de-conversion-identificador-api-t01-p044-a2016-ccaa05-l0-0902-px,86,ea0010587-distribucion-de-la-superficie-de-agricultura-ecologica-certificada-calificada-y-o-en-periodo-de-conversion-identificador-api-t01-p044-a2016-ccaa05-l0-0902-px,agricultura,,title,Distribución de la superficie de agricultura ecológica certificada,subtype,true
+humano_2,57||calendario-de-festivos-en-comunidad-de-aragon-2015,57,calendario-de-festivos-en-comunidad-de-aragon-2015,festivos,,title,Calendario de festivos,direct_match,true
+humano_2,116||l01330045-presupuestos-2022-f-m-cultura,116,l01330045-presupuestos-2022-f-m-cultura,cultura,,title,Cultura,subtype,true
+humano_2,127||l01140155-asociaciones-registradas1,127,l01140155-asociaciones-registradas1,fundaciones,,title,Asociaciones,subtype,true
+humano_2,59||l01140023-adjudicatarios-de-suministros1,59,l01140023-adjudicatarios-de-suministros1,licitaciones,,description,adjudicatarios de licitaciones correspondientes a suministros,subtype,true
+humano_2,39||a02002834-datos-de-anuncios-de-oposiciones-y-ofertas-de-empleo-publico,39,a02002834-datos-de-anuncios-de-oposiciones-y-ofertas-de-empleo-publico,empleo,,title,ofertas de empleo público,direct_match,true
+humano_2,34||l01140478-gestion-de-residuos-epremasa1,34,l01140478-gestion-de-residuos-epremasa1,instaladores gas,,,,unrelated,false
+humano_2,53||l01081691-calendaris-de-dies-festius,53,l01081691-calendaris-de-dies-festius,futbol,,,,unrelated,false
+humano_2,104||a04027063-esquema-de-conceptos-de-medidas-de-indices-de-precios-de-consumo-ipc-ibestat-csm_r00020a_ipc,104,a04027063-esquema-de-conceptos-de-medidas-de-indices-de-precios-de-consumo-ipc-ibestat-csm_r00020a_ipc,ipc,,title,Preus de Consum (IPC),direct_match,true
+humano_2,4||ea0010587-actividades-innovadoras-en-el-periodo-2020-2022-empresas-por-tipo-de-financiacion-privada-por-rama-de-actividad-y-tamano-de-la-empresa-identificador-api-61313,4,ea0010587-actividades-innovadoras-en-el-periodo-2020-2022-empresas-por-tipo-de-financiacion-privada-por-rama-de-actividad-y-tamano-de-la-empresa-identificador-api-61313,empresas,,title,"Actividades innovadoras en el período 2020-2022: Empresas por tipo de financiación privada, por rama de actividad y tamaño de la empresa",subtype,true
+humano_2,105||l01280148-inventario-patrimonio-municipal-bienes-inmuebles-1991,105,l01280148-inventario-patrimonio-municipal-bienes-inmuebles-1991,libros,,,,unrelated,false
+humano_2,22||ea0010587-poblacion-segun-comunidad-autonoma-y-provincia-y-sexo-identificador-api-73024,22,ea0010587-poblacion-segun-comunidad-autonoma-y-provincia-y-sexo-identificador-api-73024,provincias,,title,Población según comunidad autónoma y provincia y sexo,subtype,true
+humano_2,95||l01140121-mercados-municipales,95,l01140121-mercados-municipales,ventas,,,,generic,false
+humano_2,74||ea0010587-p-i-b-a-precios-de-mercado-y-valor-anadido-bruto-a-precios-basicos-precios-corrientes-por-comunidades-y-ciudades-autonomas-ramas-de-actividad-y-periodo-identificador-api-67286,74,ea0010587-p-i-b-a-precios-de-mercado-y-valor-anadido-bruto-a-precios-basicos-precios-corrientes-por-comunidades-y-ciudades-autonomas-ramas-de-actividad-y-periodo-identificador-api-67286,precio,,title,P.I.B. a precios de mercado,subtype,true
+humano_2,71||a05003423-estancias-causadas-en-hospitales-de-canarias-segun-diagnosticos-principales-sexos-y-grupos-de-edad-2014,71,a05003423-estancias-causadas-en-hospitales-de-canarias-segun-diagnosticos-principales-sexos-y-grupos-de-edad-2014,covid,,,,unrelated,false
+humano_2,6||a05003423-viajes-en-periodos-vacacionales-segun-destinos-por-comarcas-2004,6,a05003423-viajes-en-periodos-vacacionales-segun-destinos-por-comarcas-2004,turismo,,title,Viajes en periodos vacacionales,subtype,true
+humano_2,39||a05003423-clasificacion-de-situaciones-en-el-empleo-istac-cl_situacion_empleo,39,a05003423-clasificacion-de-situaciones-en-el-empleo-istac-cl_situacion_empleo,empleo,,title,Clasificación de situaciones en el empleo,subtype,true
+humano_2,83||l01140689-asociaciones-registradas1,83,l01140689-asociaciones-registradas1,cooperativas,,title,Asociaciones,subtype,true
+humano_2,131||censo_clasificacion_zonas_bano,131,censo_clasificacion_zonas_bano,playas,,,,insufficient_evidence,false
+humano_2,131||a04003003-playa-duna-albufera,131,a04003003-playa-duna-albufera,playas,,title,Playa,direct_match,true
+humano_2,55||ea0001302-tiempo-de-acceso-terminal-berge,55,ea0001302-tiempo-de-acceso-terminal-berge,dgt,,,,unrelated,false
+humano_2,142||oai-zaguan-unizar-es-70144,142,oai-zaguan-unizar-es-70144,estudiantes,,title,estudiantes ERASMUS y SICUE,subtype,true
+humano_2,101||renta-mensual-media-contratos-alquiler-libre-vivienda-habitual-colectiva-contrato-vivienda-habitual-territorio-historico-y-tamano-del-municipio-trimestre-inicio-del-contrato-eurosmes,101,renta-mensual-media-contratos-alquiler-libre-vivienda-habitual-colectiva-contrato-vivienda-habitual-territorio-historico-y-tamano-del-municipio-trimestre-inicio-del-contrato-eurosmes,contratos,,title,contratos de alquiler,subtype,true
+humano_2,139||l01280148-cementerios1,139,l01280148-cementerios1,arqueologia,,,,unrelated,false
+humano_2,62||l01140538-gestion-de-residuos-epremasa1,62,l01140538-gestion-de-residuos-epremasa1,embalses,,,,unrelated,false
+humano_2,63||l01140327-gestion-de-residuos-epremasa1,63,l01140327-gestion-de-residuos-epremasa1,pib,,,,unrelated,false
+humano_2,148||a05003423-esquema-de-conceptos-de-medida-de-la-recopilacion-de-estadisticas-de-pesca-en-canarias-istac-csm_c00106a,148,a05003423-esquema-de-conceptos-de-medida-de-la-recopilacion-de-estadisticas-de-pesca-en-canarias-istac-csm_c00106a,pesca,,title,Estadísticas de Pesca,direct_match,true
+humano_2,3||a05003423-viviendas-segun-tipos-de-ordenador-y-tipos-de-familia-en-canarias-2006,3,a05003423-viviendas-segun-tipos-de-ordenador-y-tipos-de-familia-en-canarias-2006,vivienda,,title,Viviendas según tipos de ordenador y tipos de familia,subtype,true
+humano_2,58||1923451,58,1923451,delitos,,title,Delitos contra la propiedad intelectual,direct_match,true
+humano_2,31||a04003003-datos-meteorologicos-estacion-son-real-20231,31,a04003003-datos-meteorologicos-estacion-son-real-20231,clima,,title,Datos Meteorológicos,direct_match,true
+humano_2,6||a05003423-distribucion-de-turistas-en-intervalos-de-gastos-medios-segun-grupos-de-edades-o-sexos-islas-de-canarias-y-periodos,6,a05003423-distribucion-de-turistas-en-intervalos-de-gastos-medios-segun-grupos-de-edades-o-sexos-islas-de-canarias-y-periodos,turismo,,title,Distribución de turistas,direct_match,true
+humano_2,32||ea0042931-indice-mibgas1,32,ea0042931-indice-mibgas1,gas,,description,Informe de supervisión del mercado mayorista y aprovisionamiento de gas,subtype,true
+humano_2,49||a02002834-calendario-de-ferias-y-exposiciones-en-aragon-20181,49,a02002834-calendario-de-ferias-y-exposiciones-en-aragon-20181,calendario laboral,,,,unrelated,false
+humano_2,16||l01280148-consumo-agua-centros-publicos-municipales-20161,16,l01280148-consumo-agua-centros-publicos-municipales-20161,agua,,title,Consumo agua,direct_match,true
+humano_2,86||a17002943-transportistas-de-ganado1,86,a17002943-transportistas-de-ganado1,agricultura,,,,unrelated,false
+humano_2,63||l01140044-gestion-de-residuos-epremasa1,63,l01140044-gestion-de-residuos-epremasa1,pib,,,,unrelated,false
+humano_2,73||l01140327-hogares-segun-su-tamano1,73,l01140327-hogares-segun-su-tamano1,hoteles,,,,generic,false
+humano_2,101||contratos-2023,101,contratos-2023,contratos,,title,Contratos 2023,direct_match,true
+humano_2,37||l01140673-consumo-electrico-municipal,37,l01140673-consumo-electrico-municipal,energia,,title,Consumo eléctrico,direct_match,true
+humano_2,57||l01360577-centros-de-dia-de-vigo1,57,l01360577-centros-de-dia-de-vigo1,festivos,,,,unrelated,false
+humano_2,121||u01200001-estudiantes-matriculados-grado-2023-2024,121,u01200001-estudiantes-matriculados-grado-2023-2024,matriculaciones,,title,Estudiantes matriculados Grado,subtype,true
+humano_2,58||l01280148-criminalidad-2016,58,l01280148-criminalidad-2016,delitos,,title,Criminalidad,subtype,true
+humano_2,65||ordenes_mantenimiento_alumbrado_historico,65,ordenes_mantenimiento_alumbrado_historico,calendario,,,,unrelated,false
+humano_2,13||l01140109-gestion-de-residuos-epremasa1,13,l01140109-gestion-de-residuos-epremasa1,codigos postales,,,,unrelated,false
+humano_2,42||a05003423-resultados-de-elecciones-al-senado-segun-candidaturas-canarias-hasta-escala-de-municipios-elecciones-de-23-de-julio-de-2023-datos-provisionales,42,a05003423-resultados-de-elecciones-al-senado-segun-candidaturas-canarias-hasta-escala-de-municipios-elecciones-de-23-de-julio-de-2023-datos-provisionales,elecciones,,title,Resultados de elecciones,direct_match,true
+humano_2,109||a06004074-catastro-titulares,109,a06004074-catastro-titulares,defunciones,,,,unrelated,false
+humano_2,51||l01030092-gimnasios,51,l01030092-gimnasios,paro,,,,unrelated,false
+humano_2,34||a07002862-consumo-gasoil-en-centros-de-educacion-sanidad-y-cultura-de-la-administracion-autonomica-de-castilla-y-leon1,34,a07002862-consumo-gasoil-en-centros-de-educacion-sanidad-y-cultura-de-la-administracion-autonomica-de-castilla-y-leon1,instaladores gas,,,,unrelated,false
+humano_2,68||l01080193-relacion-de-contratistas-del-ayuntamiento-de-barcelona-y-entidades-municipales,68,l01080193-relacion-de-contratistas-del-ayuntamiento-de-barcelona-y-entidades-municipales,ayuntamientos,,title,Relación de contratistas del Ayuntamiento de Barcelona,subtype,true
+humano_2,64||l03380010-centros-sanitarios1,64,l03380010-centros-sanitarios1,farmacias,,title,centros sanitarios,subtype,true
+humano_2,139||l01360577-areas-comerciales-puntos-de-interes-turistico1,139,l01360577-areas-comerciales-puntos-de-interes-turistico1,arqueologia,,,,unrelated,false
+humano_2,55||l01280148-directorio-unidades-administrativas-dir-31,55,l01280148-directorio-unidades-administrativas-dir-31,dgt,,,,unrelated,false
+humano_2,40||incidencias_via_publica_resueltas,40,incidencias_via_publica_resueltas,transporte,,,,unrelated,false
+humano_2,51||ordenes_mantenimiento_alumbrado_historico,51,ordenes_mantenimiento_alumbrado_historico,paro,,,,unrelated,false
+humano_2,32||l01140636-gestion-de-residuos-epremasa1,32,l01140636-gestion-de-residuos-epremasa1,gas,,,,unrelated,false
+humano_2,40||l01080193-tipos-de-vehiculos-en-las-denuncias-y-sanciones-de-trafico-tramitadas-por-el-institut-municipal-dhisenda-del-ayuntamiento-de-barcelona,40,l01080193-tipos-de-vehiculos-en-las-denuncias-y-sanciones-de-trafico-tramitadas-por-el-institut-municipal-dhisenda-del-ayuntamiento-de-barcelona,transporte,,title,Tipos de vehículos,subtype,true
+humano_2,31||ea0042926-categorizacion-con-los-criterios-de-los-ods-de-la-nueva-actividad-directa-del-instituto-de-credito-oficial,31,ea0042926-categorizacion-con-los-criterios-de-los-ods-de-la-nueva-actividad-directa-del-instituto-de-credito-oficial,clima,,description,Acción por el clima,subtype,true
+humano_2,100||demografia-extranjeros,100,demografia-extranjeros,inmigracion,,title,Personas extranjeras,direct_match,true
+humano_2,62||l01140155-gestion-de-residuos-epremasa1,62,l01140155-gestion-de-residuos-epremasa1,embalses,,,,unrelated,false
+humano_2,62||l01140713-gestion-de-residuos-epremasa1,62,l01140713-gestion-de-residuos-epremasa1,embalses,,,,unrelated,false
+humano_2,76||a05003423-poblacion-de-16-y-mas-anos-segun-estado-de-salud-mental-y-relacion-con-la-actividad-canarias-2021,76,a05003423-poblacion-de-16-y-mas-anos-segun-estado-de-salud-mental-y-relacion-con-la-actividad-canarias-2021,salud mental,,title,estado de salud mental,subtype,true
+humano_2,74||a04027063-indice-de-precios-en-alojamientos-de-turismo-rural-segun-tarifa-illes-balears-y-mes,74,a04027063-indice-de-precios-en-alojamientos-de-turismo-rural-segun-tarifa-illes-balears-y-mes,precio,,title,Índex de preus,subtype,true
+humano_2,26||a05003423-accidentes-de-trabajo-con-baja-segun-sectores-economicos-y-lugares-del-accidente-canarias-y-anos,26,a05003423-accidentes-de-trabajo-con-baja-segun-sectores-economicos-y-lugares-del-accidente-canarias-y-anos,accidentes,,title,Accidentes de trabajo,subtype,true
+humano_2,48||l03380011-intensidad-media-diaria-imd-de-trafico-de-tenerife,48,l03380011-intensidad-media-diaria-imd-de-trafico-de-tenerife,carreteras,,description,tráfico en la red de carreteras,subtype,true
+humano_2,72||a06004074-juegos-de-azar,72,a06004074-juegos-de-azar,faros,,,,unrelated,false
+humano_2,103||servicios-cultura,103,servicios-cultura,bienes de interes cultural,,title,Equipamientos culturales,subtype,true
+humano_2,142||u01200001-estudiantes-matriculados-por-nacionalidad-grado-2020-2021,142,u01200001-estudiantes-matriculados-por-nacionalidad-grado-2020-2021,estudiantes,,title,Estudiantes matriculados,direct_match,true
+humano_2,80||servicios-deporte,80,servicios-deporte,deporte,,title,Equipamientos deportivos,direct_match,true
+humano_2,133||bibliotecas-publicas-de-la-c-a-de-eukadi-segun-territorio-historico,133,bibliotecas-publicas-de-la-c-a-de-eukadi-segun-territorio-historico,bibliotecas,,title,Bibliotecas públicas,direct_match,true
+humano_2,64||a04003003-zonas-interes-minero1,64,a04003003-zonas-interes-minero1,farmacias,,,,unrelated,false
+humano_2,6||turismo-casas-rurales,6,turismo-casas-rurales,turismo,,title,turísticas,subtype,true
+humano_2,133||l01280796-bibliotecas-especializadas-prestamos-activos1,133,l01280796-bibliotecas-especializadas-prestamos-activos1,bibliotecas,,title,Bibliotecas,direct_match,true
+humano_2,113||ea0042931-mercado-minorista-de-electricidad-2021t4,113,ea0042931-mercado-minorista-de-electricidad-2021t4,electricidad,,title,Mercado minorista de electricidad,direct_match,true
+humano_2,64||a05003423-poblacion-total-segun-tipos-de-medicamentos-consumo-de-medicamentos-y-automedicacion-en-las-ultimas-2-semanas-canarias-2004,64,a05003423-poblacion-total-segun-tipos-de-medicamentos-consumo-de-medicamentos-y-automedicacion-en-las-ultimas-2-semanas-canarias-2004,farmacias,,,,generic,false
+humano_2,150||l01280148-subvenciones-convocatorias,150,l01280148-subvenciones-convocatorias,ayudas,,title,Subvenciones,direct_match,true
+humano_2,104||ea0010587-indices-nacionales-de-grupos-especiales-ipc-identificador-api-76130,104,ea0010587-indices-nacionales-de-grupos-especiales-ipc-identificador-api-76130,ipc,,title,IPC,direct_match,true
+humano_2,90||a06004074-directorio-central-de-empresas-dirce,90,a06004074-directorio-central-de-empresas-dirce,restaurantes,,,,unrelated,false
+humano_2,10||l01330045-poblacion-total,10,l01330045-poblacion-total,poblacion,,title,Población,direct_match,true
+humano_2,112||l01080193-dimensiones-de-los-conjuntos-de-datos-del-padron-municipal-de-habitantes-de-la-ciudad-de-barcelona,112,l01080193-dimensiones-de-los-conjuntos-de-datos-del-padron-municipal-de-habitantes-de-la-ciudad-de-barcelona,barrios,,,,generic,false
+humano_2,102||l01140207-gestion-de-residuos-epremasa1,102,l01140207-gestion-de-residuos-epremasa1,renfe,,,,unrelated,false
+humano_2,48||a17002943-vehiculos-para-transporte-de-ganado1,48,a17002943-vehiculos-para-transporte-de-ganado1,carreteras,,,,unrelated,false
+humano_2,102||ea0003337-puntos-de-venta-internacionales1,102,ea0003337-puntos-de-venta-internacionales1,renfe,,,,unrelated,false
+humano_2,18||l01280066-reservas-de-estacionamiento-para-personas-con-movilidad-reducida,18,l01280066-reservas-de-estacionamiento-para-personas-con-movilidad-reducida,trafico,,,,generic,false
+humano_2,150||a05003423-poblacion-de-6-y-mas-anos-con-limitacion-de-la-actividad-diaria-que-necesita-ayuda-o-cuidados-de-otras-personas-segun-recepcion-de-la-ayuda-necesitada-grandes-comarcas-de-canarias-2018,150,a05003423-poblacion-de-6-y-mas-anos-con-limitacion-de-la-actividad-diaria-que-necesita-ayuda-o-cuidados-de-otras-personas-segun-recepcion-de-la-ayuda-necesitada-grandes-comarcas-de-canarias-2018,ayudas,,title,necesita ayuda o cuidados,subtype,true
+humano_2,16||l01140575-consumo-de-agua1,16,l01140575-consumo-de-agua1,agua,,title,Consumo de agua,direct_match,true
+humano_2,116||turismo-activo,116,turismo-activo,cultura,,,,generic,false
+humano_2,76||a08002880-residencias-comunitarias-incluidas-en-la-red-de-salud-mental-de-castilla-la-mancha,76,a08002880-residencias-comunitarias-incluidas-en-la-red-de-salud-mental-de-castilla-la-mancha,salud mental,,title,Salud Mental,subtype,true
+humano_2,135||a19002898-tramitacion,135,a19002898-tramitacion,justicia,,content,sanciones,subtype,true
+humano_2,31||a05003423-clasificacion-de-los-principales-factores-de-clima-empresarial-istac-cl_encuestas_factores_clima_empresarial,31,a05003423-clasificacion-de-los-principales-factores-de-clima-empresarial-istac-cl_encuestas_factores_clima_empresarial,clima,,,,unrelated,false
+humano_2,19||presupuesto-ingresos-2018,19,presupuesto-ingresos-2018,presupuestos,,title,Presupuesto,direct_match,true
+humano_2,10||l01140608-poblacion1,10,l01140608-poblacion1,poblacion,,title,Población,direct_match,true
+humano_2,127||registro-de-fundaciones-de-la-comunidad-autonoma-de-la-region-de-murcia,127,registro-de-fundaciones-de-la-comunidad-autonoma-de-la-region-de-murcia,fundaciones,,title,Fundaciones,direct_match,true
+humano_2,126||praias-galegas-con-bandeira-azul-2019,126,praias-galegas-con-bandeira-azul-2019,banderas azules,,title,Playas gallegas con bandera azul,direct_match,true
+humano_2,150||l01280148-subvenciones-2024,150,l01280148-subvenciones-2024,ayudas,,title,Subvenciones,direct_match,true
+humano_2,5||a05003423-poblacion-de-16-y-mas-anos-en-viviendas-familiares-no-ocupada-que-cursa-estudios-y-no-estudia-en-su-domicilio-ni-en-varios-municipios-segun-medios-de-desplazamiento-sexos-y-numero-de-viajes-municipios-por-islas-1-11-2001,5,a05003423-poblacion-de-16-y-mas-anos-en-viviendas-familiares-no-ocupada-que-cursa-estudios-y-no-estudia-en-su-domicilio-ni-en-varios-municipios-segun-medios-de-desplazamiento-sexos-y-numero-de-viajes-municipios-por-islas-1-11-2001,municipios,municipios,title,municipios,subtype,true
+humano_2,131||a04003003-caudal-agua-depurada-abaqua1,131,a04003003-caudal-agua-depurada-abaqua1,playas,,,,unrelated,false
+humano_2,84||l01280148-eso-centros-concertados-unidades-2010-20171,84,l01280148-eso-centros-concertados-unidades-2010-20171,cnae,,,,unrelated,false
+humano_2,17||coches-de-alquiler,17,coches-de-alquiler,alquiler,,title,Coches de Alquiler,subtype,true
+humano_2,83||organizaciones-empresariales,83,organizaciones-empresariales,cooperativas,,title,Organizaciones empresariales,direct_match,true
+humano_2,98||a04003003-equipamiento-sanitario,98,a04003003-equipamiento-sanitario,centros de salud,,title,Equipamiento sanitario,subtype,true
+humano_2,1||a06004074-poblacion-reclusa,1,a06004074-poblacion-reclusa,aulas hospitalarias andalucia,,,,unrelated,false
+humano_2,48||l01080193-inventario-de-los-separadores-de-carriles-bici-de-la-red-de-infraestructuras-de-la-ciudad-de-barcelona,48,l01080193-inventario-de-los-separadores-de-carriles-bici-de-la-red-de-infraestructuras-de-la-ciudad-de-barcelona,carreteras,,title,carriles bici de la red de infraestructuras,subtype,true
+humano_2,95||i00000687-contratos-por-procedimiento-con-negociado-con-publicidad1,95,i00000687-contratos-por-procedimiento-con-negociado-con-publicidad1,ventas,,title,Contratos,subtype,true
+humano_2,25||a01002820-centros-educativos-bilingues-en-andalucia,25,a01002820-centros-educativos-bilingues-en-andalucia,centros educativos,,title,Centros educativo,direct_match,true
+humano_2,54||l01140288-gestion-de-residuos-epremasa1,54,l01140288-gestion-de-residuos-epremasa1,residuos,,title,Gestión de residuos,direct_match,true
+humano_2,4||registro_sociedades_laborales,4,registro_sociedades_laborales,empresas,,description,sociedades laborales,direct_match,true
+humano_2,118||a05003423-poblacion-de-16-y-mas-anos-que-ha-sido-atendida-en-un-hospital-de-dia-en-los-ultimos-12-meses-segun-calidad-de-la-atencion-recibida-en-los-hospitales-de-dia-publicos-o-concertados-y-grupos-de-edad-canarias-2021,118,a05003423-poblacion-de-16-y-mas-anos-que-ha-sido-atendida-en-un-hospital-de-dia-en-los-ultimos-12-meses-segun-calidad-de-la-atencion-recibida-en-los-hospitales-de-dia-publicos-o-concertados-y-grupos-de-edad-canarias-2021,hospitales,,title,Población de 16 y más años que ha sido atendida en un hospital de día,subtype,true
+humano_2,103||i00000687-bienes-e-inmuebles1,103,i00000687-bienes-e-inmuebles1,bienes de interes cultural,,,,unrelated,false
+humano_2,22||l01280148-registro-de-entrada-unidades-administrativas-2010,22,l01280148-registro-de-entrada-unidades-administrativas-2010,provincias,provincias,title,Unidades administrativas,subtype,true
+humano_2,38||a06004074-relieve,38,a06004074-relieve,catastro,,,,unrelated,false
+humano_2,31||101017,31,101017,clima,,title,Días de nieve,subtype,true
+humano_2,41||l01030092-bajas-en-padron,41,l01030092-bajas-en-padron,aemet,,,,unrelated,false
+humano_2,135||l01280148-bienestar-social-asesoria-juridica-edades-de-los-usuarios-atendidos-2016,135,l01280148-bienestar-social-asesoria-juridica-edades-de-los-usuarios-atendidos-2016,justicia,,title,Asesoría Jurídica,subtype,true
+humano_2,15||l01140410-flota-de-vehiculos-municipales1,15,l01140410-flota-de-vehiculos-municipales1,vehiculos,,title,vehículos municipales,direct_match,true
+humano_2,116||l02000006-centros-culturales-de-la-provincia-de-badajoz,116,l02000006-centros-culturales-de-la-provincia-de-badajoz,cultura,,title,Centros Culturales,direct_match,true
+humano_2,150||l01140410-subvenciones1,150,l01140410-subvenciones1,ayudas,,title,Subvenciones,direct_match,true
+humano_2,57||l01030092-altas-en-padron,57,l01030092-altas-en-padron,festivos,,,,unrelated,false
+humano_2,13||l01290672-relacion-alfabetica-de-calles,13,l01290672-relacion-alfabetica-de-calles,codigos postales,,title,por código postal,subtype,true
+humano_2,73||ea0010587-hoteles-y-alojamientos-similares-grupo-551-cnae-2009-principales-empresas-por-desglose-de-la-cifra-de-negocios-segun-el-tipo-de-cliente-identificador-api-67509,73,ea0010587-hoteles-y-alojamientos-similares-grupo-551-cnae-2009-principales-empresas-por-desglose-de-la-cifra-de-negocios-segun-el-tipo-de-cliente-identificador-api-67509,hoteles,,title,Hoteles,direct_match,true
+humano_2,42||l01140713-elecciones1,42,l01140713-elecciones1,elecciones,,title,Elecciones,direct_match,true
+humano_2,103||a04003003-equipamiento-educativo,103,a04003003-equipamiento-educativo,bienes de interes cultural,,,,unrelated,false
+humano_2,142||e05073401-estudiantes-y-profesores-extranjeros-resultados-nacionales-numero-de-estudiantes-extranjeros-en-el-sistema-universitario-espanol-sue-incluidos-los-provenientes-por-programas-de-movilidad-por-tipo-y-modalidad-de-la-universidad-pais-de-nacionalidad-sexo-y-tipo-de-estudiante,142,e05073401-estudiantes-y-profesores-extranjeros-resultados-nacionales-numero-de-estudiantes-extranjeros-en-el-sistema-universitario-espanol-sue-incluidos-los-provenientes-por-programas-de-movilidad-por-tipo-y-modalidad-de-la-universidad-pais-de-nacionalidad-sexo-y-tipo-de-estudiante,estudiantes,,title,estudiantes extranjeros,direct_match,true
+humano_2,102||l01140713-gestion-de-residuos-epremasa1,102,l01140713-gestion-de-residuos-epremasa1,renfe,,,,unrelated,false
+humano_2,39||ea0010587-motivo-por-el-que-considera-que-no-encuentra-empleo-por-sexo-poblacion-de-16-y-mas-anos-con-discapacidad-que-esta-buscando-empleo-identificador-api-51886,39,ea0010587-motivo-por-el-que-considera-que-no-encuentra-empleo-por-sexo-poblacion-de-16-y-mas-anos-con-discapacidad-que-esta-buscando-empleo-identificador-api-51886,empleo,,title,no encuentra empleo,subtype,true
+humano_2,125||familias-por-decil-de-renta-familiar-de-la-c-a-de-euskadi-segun-territorio-historico-y-sexo-de-la-persona-perceptora-principal,125,familias-por-decil-de-renta-familiar-de-la-c-a-de-euskadi-segun-territorio-historico-y-sexo-de-la-persona-perceptora-principal,renta,,title,renta,direct_match,true
+humano_2,104||incidencias_via_publica_resueltas,104,incidencias_via_publica_resueltas,ipc,,,,unrelated,false
+humano_2,98||u01600001-listado-de-centros,98,u01600001-listado-de-centros,centros de salud,,,,unrelated,false
+humano_2,127||a03002951-registro-fundaciones-docentes-culturales-asturias,127,a03002951-registro-fundaciones-docentes-culturales-asturias,fundaciones,,title,fundaciones,subtype,true
+humano_2,46||oai-zaguan-unizar-es-95026,46,oai-zaguan-unizar-es-95026,calidad del aire,,title,air quality,direct_match,true
+humano_2,95||l01280148-contratos-menores-2023,95,l01280148-contratos-menores-2023,ventas,,title,Contratos Menores,direct_match,true
+humano_2,57||a02002834-calendario-de-festivos-en-comunidad-de-aragon-20141,57,a02002834-calendario-de-festivos-en-comunidad-de-aragon-20141,festivos,,title,Calendario de festivos,direct_match,true
+humano_2,91||a05003423-conceptos-operacionales-de-la-estadistica-de-calidad-del-aire-en-canarias-istac-cso_e23041b,91,a05003423-conceptos-operacionales-de-la-estadistica-de-calidad-del-aire-en-canarias-istac-cso_e23041b,contaminacion,,title,Calidad del Aire,direct_match,true
+humano_2,42||a05003423-resultados-de-elecciones-municipales-segun-candidaturas-canarias-hasta-escala-de-secciones-electorales-elecciones-de-22-de-mayo-de-2011,42,a05003423-resultados-de-elecciones-municipales-segun-candidaturas-canarias-hasta-escala-de-secciones-electorales-elecciones-de-22-de-mayo-de-2011,elecciones,,title,Resultados de elecciones,direct_match,true
+humano_2,63||ea0010587-agenda-2030-ods-tasa-de-crecimiento-del-pib-generado-por-el-turismo-identificador-api-180-8,63,ea0010587-agenda-2030-ods-tasa-de-crecimiento-del-pib-generado-por-el-turismo-identificador-api-180-8,pib,,title,PIB,direct_match,true
+humano_2,141||l01080193-inventario-de-estacionamientos-reservados-de-la-red-de-infraestructuras-de-la-ciudad-de-barcelona1,141,l01080193-inventario-de-estacionamientos-reservados-de-la-red-de-infraestructuras-de-la-ciudad-de-barcelona1,curvas de nivel,,,,unrelated,false
+humano_2,80||l01280148-abonos-deportivos-3-trimestre-2017,80,l01280148-abonos-deportivos-3-trimestre-2017,deporte,,title,Abonos Deportivos,subtype,true
+humano_2,94||u01200001-estudiantes-matriculados-grado-2023-2024,94,u01200001-estudiantes-matriculados-grado-2023-2024,colegios,,title,Estudiantes matriculados,subtype,true
+humano_2,58||ea0010587-delitos-segun-sexo-cona-identificador-api-26022,58,ea0010587-delitos-segun-sexo-cona-identificador-api-26022,delitos,,title,Delitos,direct_match,true
+humano_2,47||l01280148-callejero-coordenadas-calles,47,l01280148-callejero-coordenadas-calles,callejero,,title,Callejero,direct_match,true
+humano_2,141||l03380010-zona-de-flujo-preferente-0006,141,l03380010-zona-de-flujo-preferente-0006,curvas de nivel,,,,unrelated,false
+humano_2,59||l01140364-adjudicatarios-de-obras1,59,l01140364-adjudicatarios-de-obras1,licitaciones,,description,adjudicatarios de licitaciones,direct_match,true
+humano_2,83||registro_cooperativas,83,registro_cooperativas,cooperativas,,title,Cooperativas,direct_match,true
+humano_2,104||a05003423-uso-de-ordenador-en-los-ultimos-3-meses-segun-frecuencias-de-uso-por-islas-de-canarias-2010,104,a05003423-uso-de-ordenador-en-los-ultimos-3-meses-segun-frecuencias-de-uso-por-islas-de-canarias-2010,ipc,,,,unrelated,false
+humano_2,39||a05003423-personal-de-la-empresa-ocupacion-y-formacion-en-tic-segun-agrupaciones-de-actividad-cnae-93-en-canarias-20061,39,a05003423-personal-de-la-empresa-ocupacion-y-formacion-en-tic-segun-agrupaciones-de-actividad-cnae-93-en-canarias-20061,empleo,,title,Ocupación,subtype,true
+humano_2,90||l01080193-listado-de-equipamientos-de-restaurantes-de-la-ciudad-de-barcelona,90,l01080193-listado-de-equipamientos-de-restaurantes-de-la-ciudad-de-barcelona,restaurantes,,title,equipamientos de restaurantes,subtype,true
+humano_2,68||l02000020-variaciones-en-el-padron-municipal-de-habitantes-del-ayuntamiento-de-mendaro-ayuntamiento-de-mendaro,68,l02000020-variaciones-en-el-padron-municipal-de-habitantes-del-ayuntamiento-de-mendaro-ayuntamiento-de-mendaro,ayuntamientos,,title,Habitantes del Ayuntamiento,subtype,true
+humano_2,24||u01600001-tesis-dirigidas-en-la-uc,24,u01600001-tesis-dirigidas-en-la-uc,universidades,,title,Tesis dirigidas en la UC,subtype,true
+humano_2,86||ea0010587-aprovechamiento-de-las-tierras-labradas-en-regadio-identificador-api-t01-p044-a2016-ccaa05-l0-0105-px,86,ea0010587-aprovechamiento-de-las-tierras-labradas-en-regadio-identificador-api-t01-p044-a2016-ccaa05-l0-0105-px,agricultura,,title,Aprovechamiento de las tierras labrada,direct_match,true
+humano_2,80||l01280148-cursillos-deportivos-1-trimestre-20181,80,l01280148-cursillos-deportivos-1-trimestre-20181,deporte,,title,Cursillos Deportivos,direct_match,true
+humano_2,42||a05003423-resultados-de-elecciones-al-senado-segun-candidaturas-canarias-hasta-escala-de-municipios-elecciones-de-9-de-marzo-de-2008,42,a05003423-resultados-de-elecciones-al-senado-segun-candidaturas-canarias-hasta-escala-de-municipios-elecciones-de-9-de-marzo-de-2008,elecciones,,title,Resultados de elecciones,direct_match,true
+humano_2,109||ea0010587-defunciones-por-causas-lista-reducida-sexo-y-nacionalidad-ecm-identificador-api-t15-p417-a2007-l0-01002b-px,109,ea0010587-defunciones-por-causas-lista-reducida-sexo-y-nacionalidad-ecm-identificador-api-t15-p417-a2007-l0-01002b-px,defunciones,,title,Defunciones,direct_match,true
+humano_2,1||institutos-lorca,1,institutos-lorca,aulas hospitalarias andalucia,,,,unrelated,false
+humano_2,121||a06004074-registro-central-de-personal,121,a06004074-registro-central-de-personal,matriculaciones,,,,unrelated,false
+humano_2,140||l01080193-inventario-de-las-especies-de-arbolado-del-atlas-de-la-biodiversidad-de-la-ciudad-de-barcelona,140,l01080193-inventario-de-las-especies-de-arbolado-del-atlas-de-la-biodiversidad-de-la-ciudad-de-barcelona,cartografia,,,,unrelated,false
+humano_2,108||a05003423-conceptos-de-medida-de-la-estadistica-de-encuesta-sobre-el-gasto-turistico-de-canarias-istac-csm_c00028a,108,a05003423-conceptos-de-medida-de-la-estadistica-de-encuesta-sobre-el-gasto-turistico-de-canarias-istac-csm_c00028a,censo,,,,unrelated,false
+humano_2,22||datos-de-entidades-menores,22,datos-de-entidades-menores,provincias,provincias,title,Entidades Menores en administraciones locales de Aragón,subtype,true
+humano_2,10||l02000014-poblacion-por-unidad-poblacional1,10,l02000014-poblacion-por-unidad-poblacional1,poblacion,,title,Población,direct_match,true
+humano_2,111||101018,111,101018,precipitacion,,title,Días de granizo,subtype,true
+humano_2,22||ea0042931-tabla-15-consumos-por-provincias-y-segmento-de-mercado-por-provincia-y-ultimo-ano,22,ea0042931-tabla-15-consumos-por-provincias-y-segmento-de-mercado-por-provincia-y-ultimo-ano,provincias,provincias,title,Por provincia,subtype,true
+humano_2,1||ea0010587-altas-hospitalarias-y-estancias-causadas-segun-el-sexo-y-el-diagnostico-principal-identificador-api-74875,1,ea0010587-altas-hospitalarias-y-estancias-causadas-segun-el-sexo-y-el-diagnostico-principal-identificador-api-74875,aulas hospitalarias,andalucia,,,unrelated,false
+humano_2,126||l01290672-zona-de-bajas-emisiones-cabinas,126,l01290672-zona-de-bajas-emisiones-cabinas,banderas azules,,,,unrelated,false
+humano_2,66||consumo-semanal-de-las-familias-de-la-c-a-de-euskadi-y-proporcion-de-familias-consumidoras-en-el-mes-por-tamano-de-familia-y-tipo-de-producto,66,consumo-semanal-de-las-familias-de-la-c-a-de-euskadi-y-proporcion-de-familias-consumidoras-en-el-mes-por-tamano-de-familia-y-tipo-de-producto,consumo,,title,Consumo semanal,direct_match,true
+humano_2,150||l01140023-subvenciones1,150,l01140023-subvenciones1,ayudas,,title,Subvenciones,direct_match,true
+humano_2,121||u01200001-estudiantes-matriculados-por-nacionalidad-master-2023-2024,121,u01200001-estudiantes-matriculados-por-nacionalidad-master-2023-2024,matriculaciones,,title,Estudiantes matriculados,direct_match,true
+humano_2,101||estadistica-de-contratos-menores-por-ejercicio,101,estadistica-de-contratos-menores-por-ejercicio,contratos,,title,Estadística de contratos,direct_match,true
+humano_2,65||l01280148-registro-entrada-n-registros-fecha-1-trimestre-2024,65,l01280148-registro-entrada-n-registros-fecha-1-trimestre-2024,calendario,,title,Registro entrada. Nº registros / fecha,subtype,true
+humano_2,105||a05003423-altas-de-fondos-en-bibliotecas-islas-de-canarias-y-anos,105,a05003423-altas-de-fondos-en-bibliotecas-islas-de-canarias-y-anos,libros,,title,Altas de fondos en bibliotecas,subtype,true
+humano_2,71||602033,71,602033,covid,,,,unrelated,false
+humano_2,141||a07002862-incidencias-en-la-red-de-carreteras-titularidad-de-la-junta-de-castilla-y-leon1,141,a07002862-incidencias-en-la-red-de-carreteras-titularidad-de-la-junta-de-castilla-y-leon1,curvas de nivel,,,,unrelated,false
+humano_2,68||l01080193-tipologias-de-las-placas-fotovoltaicas-municipales-en-la-ciudad-de-barcelona,68,l01080193-tipologias-de-las-placas-fotovoltaicas-municipales-en-la-ciudad-de-barcelona,ayuntamientos,,,,unrelated,false
+humano_2,49||a05003423-accidentes-de-trabajo-con-baja-en-jornada-de-trabajo-segun-tipos-de-contrato-y-sexos-canarias-y-anos,49,a05003423-accidentes-de-trabajo-con-baja-en-jornada-de-trabajo-segun-tipos-de-contrato-y-sexos-canarias-y-anos,calendario laboral,,,,unrelated,false
+humano_2,131||l01140305-zonas-ajardinadas,131,l01140305-zonas-ajardinadas,playas,,,,unrelated,false
+humano_2,95||l01140425-mercados-municipales,95,l01140425-mercados-municipales,ventas,,title,Mercados municipales,subtype,true
+humano_2,76||a05003423-poblacion-de-16-y-mas-anos-segun-estado-de-salud-mental-y-clases-sociales-basadas-en-la-ocupacion-de-la-persona-de-referencia-canarias-2021,76,a05003423-poblacion-de-16-y-mas-anos-segun-estado-de-salud-mental-y-clases-sociales-basadas-en-la-ocupacion-de-la-persona-de-referencia-canarias-2021,salud mental,,title,salud mental,subtype,true
+humano_2,57||calendario-de-festivos-en-comunidad-de-aragon-2025,57,calendario-de-festivos-en-comunidad-de-aragon-2025,festivos,,title,Calendario de festivos,direct_match,true
+humano_2,105||a01002820-publicaciones-de-la-junta-de-andalucia,105,a01002820-publicaciones-de-la-junta-de-andalucia,libros,,description,"Catálogo colectivo de libros, revistas y otras publicaciones",direct_match,true
+humano_2,35||l01280148-relacion-subvenciones-asociaciones-2011,35,l01280148-relacion-subvenciones-asociaciones-2011,asociaciones,,title,asociaciones,direct_match,true
+humano_2,139||l01380380-instalaciones-culturales1,139,l01380380-instalaciones-culturales1,arqueologia,,title,Instalaciones culturales,subtype,true
+humano_2,31||l01080193-red-de-refugios-climaticos-en-la-ciudad-de-barcelona,31,l01080193-red-de-refugios-climaticos-en-la-ciudad-de-barcelona,clima,,title,refugios climáticos,subtype,true
+humano_2,114||l01080193-tipologia-del-parque-de-vehiculos-de-la-ciudad-de-barcelona,114,l01080193-tipologia-del-parque-de-vehiculos-de-la-ciudad-de-barcelona,movilidad,,title,Padrón de vehículos.,subtype,true
+humano_2,13||l01140235-gestion-de-residuos-epremasa1,13,l01140235-gestion-de-residuos-epremasa1,codigos postales,,,,unrelated,false
+humano_2,68||l01280148-secciones-censales-del-municipio,68,l01280148-secciones-censales-del-municipio,ayuntamientos,,title,Secciones censales del municipio,subtype,true
+humano_2,90||cafeterias-y-restaurantes-en-la-comunidad-autonoma-de-aragon,90,cafeterias-y-restaurantes-en-la-comunidad-autonoma-de-aragon,restaurantes,,title,Cafeterías y restaurantes,direct_match,true
+humano_2,45||a04003003-punto-de-recarga-de-vehiculos-electricos1,45,a04003003-punto-de-recarga-de-vehiculos-electricos1,incendios,,,,unrelated,false
+humano_2,71||a04003003-datos-covid-19-vacunaciones-dosis-adicionales-illes-balears1,71,a04003003-datos-covid-19-vacunaciones-dosis-adicionales-illes-balears1,covid,,title,Datos COVID-19,direct_match,true
+humano_2,136||l01360577-museos-de-vigo,136,l01360577-museos-de-vigo,museos,,title,Museos,direct_match,true
+humano_2,53||l02000008-equipamientos-deportivos-locales,53,l02000008-equipamientos-deportivos-locales,futbol,,description,instalaciones de diversos tipos (pistas,subtype,true
+humano_2,116||asociaciones-culturales,116,asociaciones-culturales,cultura,,title,Asociaciones culturales,subtype,true
+humano_2,89||801195,89,801195,cancer,,,,unrelated,false
+humano_2,38||l01280148-catastro-urbano-1988,38,l01280148-catastro-urbano-1988,catastro,,title,Planos Catastro,direct_match,true
+humano_2,1||ea0010587-altas-hospitalarias-segun-el-sexo-el-diagnostico-principal-la-provincia-comunidad-y-ciudad-autonoma-de-hospitalizacion-identificador-api-49025,1,ea0010587-altas-hospitalarias-segun-el-sexo-el-diagnostico-principal-la-provincia-comunidad-y-ciudad-autonoma-de-hospitalizacion-identificador-api-49025,aulas hospitalarias,andalucia,title,Altas hospitalarias,direct_match,true
+humano_2,55||l01081691-calendaris-de-dies-festius,55,l01081691-calendaris-de-dies-festius,dgt,,,,unrelated,false
+humano_2,54||residuos_peligrosos_tratamiento,54,residuos_peligrosos_tratamiento,residuos,,title,Tratamiento de residuos,direct_match,true
+humano_2,102||l01140431-gestion-de-residuos-epremasa1,102,l01140431-gestion-de-residuos-epremasa1,renfe,,,,unrelated,false
+humano_2,25||educa-colegios,25,educa-colegios,centros educativos,,title,Centros de Educación,direct_match,true
+humano_2,73||turismo-casas-rurales,73,turismo-casas-rurales,hoteles,,title,Casas rurales turísticas,direct_match,true
+humano_2,3||a05003423-hogares-segun-deficiencias-de-la-vivienda-y-tipos-de-viviendas-canarias-2007,3,a05003423-hogares-segun-deficiencias-de-la-vivienda-y-tipos-de-viviendas-canarias-2007,vivienda,,title,Hogares,direct_match,true
+humano_2,18||l01280148-parque-vehiculos-automoviles-2013-2015-evolucion,18,l01280148-parque-vehiculos-automoviles-2013-2015-evolucion,trafico,,title,Parque vehículos-automóviles,subtype,true
+humano_2,102||l01280066-servicios-de-autobus1,102,l01280066-servicios-de-autobus1,renfe,,title,Servicios de autobús,direct_match,true
+humano_2,126||l01080193-tipologias-de-las-placas-fotovoltaicas-municipales-en-la-ciudad-de-barcelona,126,l01080193-tipologias-de-las-placas-fotovoltaicas-municipales-en-la-ciudad-de-barcelona,banderas azules,,,,unrelated,false
+humano_2,139||museos-en-la-region-de-murcia,139,museos-en-la-region-de-murcia,arqueologia,,title,Museos en la Región de Murcia,subtype,true
+humano_2,25||l03380010-centros-de-educacion,25,l03380010-centros-de-educacion,centros educativos,,title,centros de educacion,direct_match,true
+humano_2,66||consumo-anual-de-las-familias-de-la-c-a-de-euskadi-y-proporcion-de-familias-consumidoras-por-edad-del-sustentador-principal-y-grupo-de-productos,66,consumo-anual-de-las-familias-de-la-c-a-de-euskadi-y-proporcion-de-familias-consumidoras-por-edad-del-sustentador-principal-y-grupo-de-productos,consumo,,title,Consumo anual,direct_match,true
+humano_2,123||l01080193-padro-de-vehiculos-evolucion-del-parque-de-vehiculos-de-la-ciutat-de-barcelona,123,l01080193-padro-de-vehiculos-evolucion-del-parque-de-vehiculos-de-la-ciutat-de-barcelona,dana,,,,unrelated,false
+humano_2,29||ea0001302-estacion-meteorologica-adossat,29,ea0001302-estacion-meteorologica-adossat,temperatura,,title,Estación meteorológica,subtype,true
+humano_2,42||l01140253-elecciones1,42,l01140253-elecciones1,elecciones,,title,Elecciones,direct_match,true
+humano_2,140||l01080193-valores-catastrales-de-los-cargos-de-la-ciudad-de-barcelona,140,l01080193-valores-catastrales-de-los-cargos-de-la-ciudad-de-barcelona,cartografia,,title,Valores catastrales,subtype,true
+humano_2,16||l01030092-bajas-en-padron,16,l01030092-bajas-en-padron,agua,,,,unrelated,false
+humano_2,114||a17002943-transportistas-de-ganado1,114,a17002943-transportistas-de-ganado1,movilidad,,title,Transportistas,subtype,true
+humano_2,37||a07002862-consumos-horarios-de-electricidad-de-los-hospitales-de-castilla-y-leon1,37,a07002862-consumos-horarios-de-electricidad-de-los-hospitales-de-castilla-y-leon1,energia,,title,Consumos horarios de electricidad,direct_match,true
+humano_2,63||l01080193-inventario-de-los-bancos-publicos-de-la-red-de-infraestructuras-de-la-ciudad-de-barcelona,63,l01080193-inventario-de-los-bancos-publicos-de-la-red-de-infraestructuras-de-la-ciudad-de-barcelona,pib,,,,unrelated,false
+humano_2,92||l01140636-gestion-de-residuos-epremasa1,92,l01140636-gestion-de-residuos-epremasa1,gasolineras,,,,unrelated,false
+humano_2,62||a04003003-actuaciones-gestion-saneamiento-depuracion-programa-medidas-abaqua1,62,a04003003-actuaciones-gestion-saneamiento-depuracion-programa-medidas-abaqua1,embalses,,title,Gestión Saneamiento Depuración,subtype,true
+humano_2,51||l01280148-paro-registrado-2025,51,l01280148-paro-registrado-2025,paro,,title,Paro,direct_match,true
+humano_2,5||l01140478-mercados-municipales,5,l01140478-mercados-municipales,municipios,municipios,title,Mercados municipales,subtype,true
+humano_2,148||a17002943-capturas-de-pesca-temporada-20151,148,a17002943-capturas-de-pesca-temporada-20151,pesca,,title,Capturas de pesca,subtype,true
