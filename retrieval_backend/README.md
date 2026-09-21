@@ -1,8 +1,8 @@
-# Clean retrieval backend for the datos.gob.es benchmark
+# Retrieval backend for the datos.gob.es benchmark
 
-This directory contains a minimal public-artifact implementation of the indexing and search backend used to build the Stage 2 candidate pool.
+This directory contains the retrieval backend used to reconstruct the Stage 2 candidate pool of the benchmark.
 
-It preserves the historical experiment semantics while removing unrelated private infrastructure: no API keys, no TLS certificates, no Redis, no reranker, no generative model, no intent classifier, no cache, and no OpenSearch logging.
+The implementation provides the indexing and search functionality required by the three retrieval profiles used in the experiment.
 
 ## Retrieval profiles
 
@@ -10,20 +10,25 @@ It preserves the historical experiment semantics while removing unrelated privat
 - `harrier`: dense cosine retrieval with `microsoft/harrier-oss-v1-0.6b`.
 - `qwen`: dense cosine retrieval with `Qwen/Qwen3-Embedding-0.6B`.
 
-All three profiles search `title` and `description` separately and compute:
+All three profiles search `title` and `description` separately and combine the two scores as:
 
 ```text
 final score = title score + description score
 ```
 
-`header` and `content` are returned as payload fields for later LLM judging, but they do not affect ranking.
+`header` and `content` are returned as payload fields for later relevance assessment, but they do not affect retrieval ranking.
 
 ## Local Qdrant
 
-Example:
+The retrieval backend uses a local Qdrant instance.
+
+Start Qdrant with:
 
 ```bash
-docker run --rm -p 6333:6333 -p 6334:6334 qdrant/qdrant:v1.15.5
+docker run --rm \
+  -p 6333:6333 \
+  -p 6334:6334 \
+  qdrant/qdrant:v1.15.5
 ```
 
 The default URL is:
@@ -32,16 +37,17 @@ The default URL is:
 http://localhost:6333
 ```
 
-No authentication, API key, certificate, or TLS setting is used.
-
-The Qdrant server version is pinned intentionally. The artifact dependencies use
-`qdrant-client==1.15.1`, which is compatible with Qdrant 1.15.x. Avoid using the
-floating `latest` tag, as newer servers can trigger client/server compatibility
-warnings and may change near-tie ordering in reconstructed indexes.
+The released setup uses Qdrant `v1.15.5` together with `qdrant-client==1.15.1`.
 
 ## Build indexes
 
-Use the prepared collection produced by `src/01_prepare_collection.py`.
+Use the prepared collection produced by:
+
+```text
+src/01_prepare_collection.py
+```
+
+Build the three retrieval indexes with:
 
 ```bash
 python scripts/retrieval/build_retrieval_indexes.py \
@@ -50,13 +56,17 @@ python scripts/retrieval/build_retrieval_indexes.py \
   --qdrant-url http://localhost:6333
 ```
 
-This creates the historical collection names:
+This creates the following Qdrant collections:
 
-- `datasets_bm25`
-- `datasets_harrier`
-- `datasets_qwen`
+```text
+datasets_bm25
+datasets_harrier
+datasets_qwen
+```
 
 ## Run the API
+
+Start the retrieval API with:
 
 ```bash
 python scripts/retrieval/run_retrieval_api.py \
@@ -66,6 +76,16 @@ python scripts/retrieval/run_retrieval_api.py \
 ```
 
 ## Query endpoints
+
+The three retrieval profiles are exposed through:
+
+```text
+GET /search/bm25
+GET /search/harrier/semantic
+GET /search/qwen/semantic
+```
+
+Example requests:
 
 ```bash
 curl 'http://127.0.0.1:8002/search/bm25?q=cartografia'
@@ -92,24 +112,43 @@ Each endpoint returns:
 }
 ```
 
-Results are sorted exactly as in the historical backend:
+Results are sorted by descending retrieval score:
 
 ```python
-hits.sort(key=lambda hit: hit["score"], reverse=True)
+hits.sort(
+    key=lambda hit: hit["score"],
+    reverse=True,
+)
 ```
 
-No secondary dataset-ID tie-break is added.
+No secondary dataset-ID tie-break is applied.
 
 ## Candidate-pool generation
 
-Point the clean candidate-pool generator to the three endpoints above and keep `top_k=50`.
+Once the API is running, Stage 2 can query the three profiles with:
 
-The historical validation targets are:
+```bash
+python src/02-search-results-generation.py \
+  --queries data/queries/queries.csv \
+  --endpoints \
+    bm25=http://127.0.0.1:8002/search/bm25,harrier=http://127.0.0.1:8002/search/harrier/semantic,qwen=http://127.0.0.1:8002/search/qwen/semantic \
+  --output data/candidate_pool
+```
 
-- queries: 100
-- unique candidate pairs: 11,779
-- bm25 memberships: 3,832
-- harrier memberships: 5,000
-- qwen memberships: 5,000
+The pooling depth is defined in:
 
-These numbers are validation targets only; they are not hard-coded in this backend.
+```text
+config/benchmark_config.json
+```
+
+For the released benchmark configuration, Stage 2 produces:
+
+```text
+Queries:                    100
+Unique candidate pairs:  11,779
+
+Profile memberships:
+  BM25:                   3,832
+  Harrier:                5,000
+  Qwen:                   5,000
+```

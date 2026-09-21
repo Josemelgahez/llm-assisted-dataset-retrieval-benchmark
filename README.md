@@ -100,9 +100,15 @@ Stage 1 prepares the dataset collection used by the retrieval pipeline.
 
 The original `datos.gob.es` crawl contained **116,272 metadata records**. After filtering and normalization, the searchable collection contains **56,983 datasets**.
 
-For tabular resources, at most **20 rows are sampled without replacement using seed 0**, while preserving their original relative order.
+For tabular resources, at most 20 rows are sampled without replacement using seed 0, while preserving their original relative order.
 
-The artifact distributes the **processed collection used by the retrieval pipeline**, not the complete raw portal dump.
+The artifact distributes the processed collection used by the retrieval pipeline, not the complete raw portal dump.
+
+The processed collection is available on Figshare:
+
+```text
+https://doi.org/10.6084/m9.figshare.33952177
+```
 
 Example:
 
@@ -579,6 +585,12 @@ Local Ollama models do not require API credentials, but the corresponding models
 Processed collection used by retrieval.
 
 The repository distributes the processed snapshot rather than the complete raw `datos.gob.es` crawl.
+
+The processed collection can also be downloaded from Figshare:
+
+```text
+https://doi.org/10.6084/m9.figshare.33952177
+```
 
 ### `data/queries/`
 
