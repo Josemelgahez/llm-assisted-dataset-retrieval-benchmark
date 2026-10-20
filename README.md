@@ -102,9 +102,7 @@ The original `datos.gob.es` crawl contained **116,272 metadata records**. After 
 
 For tabular resources, at most 20 rows are sampled without replacement using seed 0, while preserving their original relative order.
 
-The artifact distributes the processed collection used by the retrieval pipeline, not the complete raw portal dump.
-
-The processed collection is available on Figshare:
+The artifact distributes the processed collection used by the retrieval pipeline, not the complete raw portal dump, available via Figshare:
 
 ```text
 https://doi.org/10.6084/m9.figshare.33952177
